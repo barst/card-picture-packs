@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-05",
+  "version": 2,
+  "order": 25,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "五月・機械花園",
+    "zh-CN": "五月・机械花园",
+    "en": "May · Clockwork Garden",
+    "ja": "5月・機械仕掛けの庭園"
+  },
+  "description": {
+    "zh-TW": "發條玻璃花、花園飛船、機械蝴蝶與白兔自動偶輪番登場，以清楚的大型主體編織五月的奇想花園。",
+    "zh-CN": "发条玻璃花、花园飞船、机械蝴蝶与白兔自动偶轮番登场，以清晰的大型主体编织五月的奇想花园。",
+    "en": "A glass clockwork flower, garden airship, mechanical butterfly, and white-rabbit automaton lead ten clear, whimsical portraits of May.",
+    "ja": "歯車仕掛けのガラス花、庭園飛行船、機械蝶、白兎の自動人形など、大きく明快な10の主役が5月の幻想庭園を彩ります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-05-01",
+  "images": [
+    {
+      "id": "monthly-05-01",
+      "file": "packs/monthly-05/v2/images/monthly-05-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 160616,
+      "sha256": "76dbb71a4e19509a23387e2e31f10f7a5280e75441674290f831c7dfc7846838",
+      "name": {
+        "zh-TW": "發條琉璃花",
+        "zh-CN": "发条琉璃花",
+        "en": "Glass Clockwork Flower",
+        "ja": "歯車仕掛けのガラス花"
+      }
+    },
+    {
+      "id": "monthly-05-02",
+      "file": "packs/monthly-05/v2/images/monthly-05-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 232370,
+      "sha256": "d4e18694adcbc6cb78894fd1226247c3bc8ce19c0ae0ba2dd2f7d652ac41c6b2",
+      "name": {
+        "zh-TW": "雲上花園飛船",
+        "zh-CN": "云上花园飞船",
+        "en": "Garden Airship above the Clouds",
+        "ja": "雲上の庭園飛行船"
+      }
+    },
+    {
+      "id": "monthly-05-03",
+      "file": "packs/monthly-05/v2/images/monthly-05-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 145256,
+      "sha256": "0cfc57a87ee7a395728b24a6766f73b344179cb51f9e0b08d558d55d962a404b",
+      "name": {
+        "zh-TW": "月光銀沙時計",
+        "zh-CN": "月光银沙时计",
+        "en": "Moonlit Silver-Sand Timepiece",
+        "ja": "月光の銀砂時計"
+      }
+    },
+    {
+      "id": "monthly-05-04",
+      "file": "packs/monthly-05/v2/images/monthly-05-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 149964,
+      "sha256": "bd07d66fac7567334c11beeb734ba9fbffeff7c2096e7151ff0ac599f770e552",
+      "name": {
+        "zh-TW": "玫瑰玻璃蜂鳥",
+        "zh-CN": "玫瑰玻璃蜂鸟",
+        "en": "Glass Hummingbird among Roses",
+        "ja": "薔薇に舞うガラスのハチドリ"
+      }
+    },
+    {
+      "id": "monthly-05-05",
+      "file": "packs/monthly-05/v2/images/monthly-05-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 241842,
+      "sha256": "b8df51c16b1396863c51363347ed56f1c76ab9334272b67f3be603ab8f2a2c70",
+      "name": {
+        "zh-TW": "向日葵園丁機器人",
+        "zh-CN": "向日葵园丁机器人",
+        "en": "Sunflower Gardener Robot",
+        "ja": "ひまわり畑の庭師ロボット"
+      }
+    },
+    {
+      "id": "monthly-05-06",
+      "file": "packs/monthly-05/v2/images/monthly-05-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 175342,
+      "sha256": "3697b4954f0c88fc1258da4b271a62e9c3cc8ede26ae7a368afb56d43f9f24f3",
+      "name": {
+        "zh-TW": "暮光機械蝴蝶",
+        "zh-CN": "暮光机械蝴蝶",
+        "en": "Clockwork Butterfly at Twilight",
+        "ja": "黄昏の機械蝶"
+      }
+    },
+    {
+      "id": "monthly-05-07",
+      "file": "packs/monthly-05/v2/images/monthly-05-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 118212,
+      "sha256": "a514e2ef13fc78026d161b28703626135b4ba18476eff20e76ae9256e57a09e6",
+      "name": {
+        "zh-TW": "茶會白兔自動偶",
+        "zh-CN": "茶会白兔自动偶",
+        "en": "White-Rabbit Tea Automaton",
+        "ja": "お茶会の白兎オートマタ"
+      }
+    },
+    {
+      "id": "monthly-05-08",
+      "file": "packs/monthly-05/v2/images/monthly-05-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 178510,
+      "sha256": "02b71708597cd21652529d9b87c33c05ef01996fb0f76d411053da35db4379c9",
+      "name": {
+        "zh-TW": "翡翠花園蒸汽火車",
+        "zh-CN": "翡翠花园蒸汽火车",
+        "en": "Emerald Garden Steam Engine",
+        "ja": "翡翠庭園の蒸気機関車"
+      }
+    },
+    {
+      "id": "monthly-05-09",
+      "file": "packs/monthly-05/v2/images/monthly-05-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 110512,
+      "sha256": "949a8ce3a928ccafdb487cc10be446f785b5e9fa136922a21faae9a95d87e48b",
+      "name": {
+        "zh-TW": "星屑機械花",
+        "zh-CN": "星屑机械花",
+        "en": "Stardust Mechanical Blossom",
+        "ja": "星屑の機械花"
+      }
+    },
+    {
+      "id": "monthly-05-10",
+      "file": "packs/monthly-05/v2/images/monthly-05-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 154586,
+      "sha256": "6d76b871f2f40126eefd94747f57ba787af9c12453e2d96e6573095595022c1b",
+      "name": {
+        "zh-TW": "藍晶花園亭",
+        "zh-CN": "蓝晶花园亭",
+        "en": "Blue Crystal Garden Pavilion",
+        "ja": "青水晶の庭園あずまや"
+      }
+    }
+  ]
+}

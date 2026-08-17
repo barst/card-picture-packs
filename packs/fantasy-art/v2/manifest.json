@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "fantasy-art",
+  "version": 2,
+  "order": 20,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "夢境博物館",
+    "zh-CN": "梦境博物馆",
+    "en": "Museum of Waking Dreams",
+    "ja": "目覚める夢の博物館"
+  },
+  "description": {
+    "zh-TW": "推開星空圖書館、浮空鯨魚與發條花園的展廳大門，漫遊一座收藏季節、甜點與光之巨樹的奇幻博物館。",
+    "zh-CN": "推开星空图书馆、浮空鲸鱼与发条花园的展厅大门，漫游一座收藏季节、甜点与光之巨树的奇幻博物馆。",
+    "en": "Wander through a wondrous museum where star libraries, floating whales, clockwork gardens, dessert mountains, and a radiant world tree become living exhibits.",
+    "ja": "星空の図書館、宙を泳ぐ鯨、歯車の庭園、お菓子の山、光の巨樹が展示された幻想博物館をめぐります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "fantasy-art-01-library",
+  "images": [
+    {
+      "id": "fantasy-art-01-library",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-01-library.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 323754,
+      "sha256": "598797c7a869fe1b6704b7b7bf3aac8fecdef2b866ac627da4897b5591926639",
+      "name": {
+        "zh-TW": "星穹圖書館",
+        "zh-CN": "星穹图书馆",
+        "en": "Library beneath the Starry Dome",
+        "ja": "星天井の図書館"
+      }
+    },
+    {
+      "id": "fantasy-art-02-whale",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-02-whale.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 285852,
+      "sha256": "df372a976e8ded028fab7b312c626900fee47df27b560c7213df4ab482e534e3",
+      "name": {
+        "zh-TW": "浮空鯨魚藝廊",
+        "zh-CN": "浮空鲸鱼艺廊",
+        "en": "Gallery of the Floating Whale",
+        "ja": "空飛ぶ鯨の回廊"
+      }
+    },
+    {
+      "id": "fantasy-art-03-planetarium",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-03-planetarium.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 435120,
+      "sha256": "25ba03b35ae8f524d410256570aa191d1af01d7158fb053f421eba4502c60c4f",
+      "name": {
+        "zh-TW": "花海溫室星象館",
+        "zh-CN": "花海温室星象馆",
+        "en": "Planetarium in a Flowering Conservatory",
+        "ja": "花咲く温室のプラネタリウム"
+      }
+    },
+    {
+      "id": "fantasy-art-04-seasons",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-04-seasons.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 240522,
+      "sha256": "bc425764049b3b5f3b86fc74227221fe6e157c1a8ae92937e3e0b9dd122dcbd5",
+      "name": {
+        "zh-TW": "雲上四季之門",
+        "zh-CN": "云上四季之门",
+        "en": "Doors to the Four Seasons above the Clouds",
+        "ja": "雲上の四季の扉"
+      }
+    },
+    {
+      "id": "fantasy-art-05-clockwork",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-05-clockwork.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 360198,
+      "sha256": "f800d15f3031567b5d53c86352a3c0577ec392c6c9ef04fff9cdcc55726832e3",
+      "name": {
+        "zh-TW": "黃昏發條花園",
+        "zh-CN": "黄昏发条花园",
+        "en": "Clockwork Garden at Dusk",
+        "ja": "黄昏の歯車庭園"
+      }
+    },
+    {
+      "id": "fantasy-art-06-lanterns",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-06-lanterns.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 268374,
+      "sha256": "2b7c97572e9709fba9f5a5ffeed9c420277458500218bb1f38e331f72a238c1a",
+      "name": {
+        "zh-TW": "萬燈森林大廳",
+        "zh-CN": "万灯森林大厅",
+        "en": "Hall of a Thousand Forest Lanterns",
+        "ja": "千灯の森の大広間"
+      }
+    },
+    {
+      "id": "fantasy-art-07-toy-city",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-07-toy-city.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 241660,
+      "sha256": "d69ba15f668c034f5b8d04f3da75939e5a1eb78d3c2073bbcd07c4048d3bf082",
+      "name": {
+        "zh-TW": "雲端玩具城市",
+        "zh-CN": "云端玩具城市",
+        "en": "Toy City among the Clouds",
+        "ja": "雲間に浮かぶ玩具の街"
+      }
+    },
+    {
+      "id": "fantasy-art-08-dessert",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-08-dessert.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 283886,
+      "sha256": "f4d9c7a5695f0aaf6337ef81ab7b736fc011cfb4b378f14eb13d30dbcefc83a8",
+      "name": {
+        "zh-TW": "月夜甜點山展廳",
+        "zh-CN": "月夜甜点山展厅",
+        "en": "Moonlit Hall of Dessert Mountains",
+        "ja": "月夜のお菓子山ホール"
+      }
+    },
+    {
+      "id": "fantasy-art-09-mirror",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-09-mirror.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 219580,
+      "sha256": "f55f4c1c1db608efde7f4c88c35e008cd152be89dca4f72cc4c38cb9101efaa3",
+      "name": {
+        "zh-TW": "鏡湖星空長廊",
+        "zh-CN": "镜湖星空长廊",
+        "en": "Starlit Gallery over a Mirrored Lake",
+        "ja": "鏡の湖に映る星空回廊"
+      }
+    },
+    {
+      "id": "fantasy-art-10-tree",
+      "file": "packs/fantasy-art/v2/images/fantasy-art-10-tree.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 409868,
+      "sha256": "c1bc355ea629c5a02a0aa44cb89a95a15809e66f9324cef4cc8f5439b7003db1",
+      "name": {
+        "zh-TW": "博物館的光之巨樹",
+        "zh-CN": "博物馆的光之巨树",
+        "en": "The Museum's Great Tree of Light",
+        "ja": "博物館に輝く光の巨樹"
+      }
+    }
+  ]
+}

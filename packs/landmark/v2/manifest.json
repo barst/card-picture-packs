@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "landmark",
+  "version": 2,
+  "order": 9,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "世界奇景之旅",
+    "zh-CN": "世界奇景之旅",
+    "en": "Wonders Around the World",
+    "ja": "世界の名景をめぐる旅"
+  },
+  "description": {
+    "zh-TW": "從塞納河畔到台北夜空，走訪十座跨越文明與時代的世界名勝。",
+    "zh-CN": "从塞纳河畔到台北夜空，走访十座跨越文明与时代的世界名胜。",
+    "en": "A journey through ten landmarks shaped by different civilizations and eras, from the Seine to Taipei's night sky.",
+    "ja": "セーヌ河畔から台北の夜空まで、文明と時代を越えて受け継がれる10の名所を旅します。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "landmark-01-eiffel",
+  "images": [
+    {
+      "id": "landmark-01-eiffel",
+      "file": "packs/landmark/v2/images/landmark-01-eiffel.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 146228,
+      "sha256": "1d89b605edd597d102c1d0b988a784a0155978350fddd636fef24aa76af5c026",
+      "name": {
+        "zh-TW": "塞納河畔的艾菲爾鐵塔",
+        "zh-CN": "塞纳河畔的埃菲尔铁塔",
+        "en": "Eiffel Tower by the Seine",
+        "ja": "セーヌ河畔のエッフェル塔"
+      }
+    },
+    {
+      "id": "landmark-02-taj-mahal",
+      "file": "packs/landmark/v2/images/landmark-02-taj-mahal.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 161220,
+      "sha256": "f97162a53e54def19998ab5dfde028b781cf4d06093142ad5e836dd1cf75b3a7",
+      "name": {
+        "zh-TW": "晨光中的泰姬瑪哈陵",
+        "zh-CN": "晨光中的泰姬陵",
+        "en": "Taj Mahal at Dawn",
+        "ja": "朝日に輝くタージ・マハル"
+      }
+    },
+    {
+      "id": "landmark-03-great-wall",
+      "file": "packs/landmark/v2/images/landmark-03-great-wall.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 125260,
+      "sha256": "99b128aa2ef4a274492db7080f99c53cbdff6272df87ea375f866b6e93f99a18",
+      "name": {
+        "zh-TW": "雲海之上的萬里長城",
+        "zh-CN": "云海之上的万里长城",
+        "en": "Great Wall Above the Clouds",
+        "ja": "雲海を越える万里の長城"
+      }
+    },
+    {
+      "id": "landmark-04-machu-picchu",
+      "file": "packs/landmark/v2/images/landmark-04-machu-picchu.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 258314,
+      "sha256": "ddfc7d420fdfb714539c02cf492a469f6d3e117e83c5e1ab68c437567e970202",
+      "name": {
+        "zh-TW": "群峰間的馬丘比丘",
+        "zh-CN": "群峰间的马丘比丘",
+        "en": "Machu Picchu Among the Peaks",
+        "ja": "峰々に抱かれたマチュ・ピチュ"
+      }
+    },
+    {
+      "id": "landmark-05-colosseum",
+      "file": "packs/landmark/v2/images/landmark-05-colosseum.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 207262,
+      "sha256": "aac804dcee760a9f439e1c80bef66aa63dc3fe56bf9d658c6558b9750f0cab16",
+      "name": {
+        "zh-TW": "羅馬暮色競技場",
+        "zh-CN": "罗马暮色竞技场",
+        "en": "Colosseum at Sunset",
+        "ja": "夕映えのコロッセオ"
+      }
+    },
+    {
+      "id": "landmark-06-sydney-opera",
+      "file": "packs/landmark/v2/images/landmark-06-sydney-opera.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 221524,
+      "sha256": "edaabea1544af2fb431351b427f55a42ded6219bc1eb11f994575365a1e51f5c",
+      "name": {
+        "zh-TW": "雪梨港灣歌劇院",
+        "zh-CN": "悉尼港湾歌剧院",
+        "en": "Sydney Opera House on the Harbor",
+        "ja": "シドニー湾のオペラハウス"
+      }
+    },
+    {
+      "id": "landmark-07-petra",
+      "file": "packs/landmark/v2/images/landmark-07-petra.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 281362,
+      "sha256": "c3877636703f8f69cd717af21518efefce39f07c7317cc127ea4243c092f3409",
+      "name": {
+        "zh-TW": "岩谷中的佩特拉寶庫",
+        "zh-CN": "岩谷中的佩特拉宝库",
+        "en": "Petra's Treasury Through the Gorge",
+        "ja": "岩峡に現れるペトラの宝物殿"
+      }
+    },
+    {
+      "id": "landmark-08-angkor-wat",
+      "file": "packs/landmark/v2/images/landmark-08-angkor-wat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122614,
+      "sha256": "603aa9018537e7ad9563af1845a78b91dca40dbf6499a5bad8f6357e95e22ffc",
+      "name": {
+        "zh-TW": "吳哥窟蓮池晨曦",
+        "zh-CN": "吴哥窟莲池晨曦",
+        "en": "Dawn over Angkor Wat's Lotus Pond",
+        "ja": "蓮池に映るアンコール・ワット"
+      }
+    },
+    {
+      "id": "landmark-09-chichen-itza",
+      "file": "packs/landmark/v2/images/landmark-09-chichen-itza.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 189662,
+      "sha256": "2f49b5db7a0b5712e94ee2c960933a2f91e428d2068a34b4cc186dbc86ec56e7",
+      "name": {
+        "zh-TW": "晴空下的奇琴伊察",
+        "zh-CN": "晴空下的奇琴伊察",
+        "en": "Chichen Itza Under Open Skies",
+        "ja": "青空にそびえるチチェン・イッツァ"
+      }
+    },
+    {
+      "id": "landmark-10-taipei-101",
+      "file": "packs/landmark/v2/images/landmark-10-taipei-101.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 170126,
+      "sha256": "7301bad5b38f44ff43be9fde8fe260d81d1f65bfd9b7fa33dfab60f43922033e",
+      "name": {
+        "zh-TW": "台北一〇一璀璨夜色",
+        "zh-CN": "台北101璀璨夜色",
+        "en": "Taipei 101 in City Lights",
+        "ja": "台北101のきらめく夜景"
+      }
+    }
+  ]
+}

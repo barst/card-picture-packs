@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "leisure",
+  "version": 2,
+  "order": 10,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "把日子過得悠閒",
+    "zh-CN": "把日子过得悠闲",
+    "en": "Slow and Lovely Days",
+    "ja": "ゆるやかな暮らし"
+  },
+  "description": {
+    "zh-TW": "泡一壺茶、翻幾頁書，在雨窗、花園與海風之間收藏十段放慢腳步的日常。",
+    "zh-CN": "泡一壶茶、翻几页书，在雨窗、花园与海风之间收藏十段放慢脚步的日常。",
+    "en": "Ten gentle pauses among rainy windows, blooming gardens, sea breezes, books, tea, and music.",
+    "ja": "雨の窓辺、花咲く庭、潮風、読書、お茶、音楽。ゆっくり過ごす10のひとときを集めました。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "leisure-01-home-spa",
+  "images": [
+    {
+      "id": "leisure-01-home-spa",
+      "file": "packs/leisure/v2/images/leisure-01-home-spa.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 234694,
+      "sha256": "d6de95f09d9984a52a2fc04efdefb282d7c6076bb10cf6801607e7a063e5f0b9",
+      "name": {
+        "zh-TW": "花香蒸氣的居家水療",
+        "zh-CN": "花香蒸汽的居家水疗",
+        "en": "A Home Spa in Floral Steam",
+        "ja": "花香るおうちスパ"
+      }
+    },
+    {
+      "id": "leisure-02-garden-rocking-chair",
+      "file": "packs/leisure/v2/images/leisure-02-garden-rocking-chair.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 326786,
+      "sha256": "26620f4609a3d2294969a3d551a0f01d32e1576f4a75b1b8a211d2c3c226d2ed",
+      "name": {
+        "zh-TW": "午後花園的搖椅",
+        "zh-CN": "午后花园的摇椅",
+        "en": "Garden Rocking Chair in the Afternoon",
+        "ja": "午後の庭のロッキングチェア"
+      }
+    },
+    {
+      "id": "leisure-03-rainy-window",
+      "file": "packs/leisure/v2/images/leisure-03-rainy-window.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 224410,
+      "sha256": "8b8374e07d308f3993b781dbab349b986e3e07b66848c46994e00c586338e713",
+      "name": {
+        "zh-TW": "雨窗邊的書寫時光",
+        "zh-CN": "雨窗边的书写时光",
+        "en": "Writing by a Rainy Window",
+        "ja": "雨窓辺の書きもの時間"
+      }
+    },
+    {
+      "id": "leisure-04-seaside-afternoon",
+      "file": "packs/leisure/v2/images/leisure-04-seaside-afternoon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 249408,
+      "sha256": "fb54a487e3af32e02925ee6a0fb858fa40f7d0c18e63d23e4599ec856f49edd7",
+      "name": {
+        "zh-TW": "海風陽傘下的午後",
+        "zh-CN": "海风阳伞下的午后",
+        "en": "Afternoon Beneath a Seaside Parasol",
+        "ja": "潮風のパラソル"
+      }
+    },
+    {
+      "id": "leisure-05-window-watercolor",
+      "file": "packs/leisure/v2/images/leisure-05-window-watercolor.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 301816,
+      "sha256": "d730cc94c6483baa59a297628a61a22b2d110a4d22d7ec7173329c70f7b251d3",
+      "name": {
+        "zh-TW": "日光畫室的水彩花園",
+        "zh-CN": "阳光画室的水彩花园",
+        "en": "Watercolors in a Sunlit Studio",
+        "ja": "陽だまりの水彩アトリエ"
+      }
+    },
+    {
+      "id": "leisure-06-cafe-bicycle",
+      "file": "packs/leisure/v2/images/leisure-06-cafe-bicycle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 357300,
+      "sha256": "76e33724f224ccc6954a1a261dc32099452d36d22618d6080d180f7eee0270f9",
+      "name": {
+        "zh-TW": "街角咖啡與單車",
+        "zh-CN": "街角咖啡与单车",
+        "en": "Coffee and a Bicycle on a Quiet Street",
+        "ja": "街角のカフェと自転車"
+      }
+    },
+    {
+      "id": "leisure-07-sunny-reading-corner",
+      "file": "packs/leisure/v2/images/leisure-07-sunny-reading-corner.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 284166,
+      "sha256": "d5034b49d48c53bd1c4219e5e2a759dafffa77aa9be286f5a1af08903e103c1d",
+      "name": {
+        "zh-TW": "陽光灑落的閱讀角落",
+        "zh-CN": "阳光洒落的阅读角落",
+        "en": "A Sunlit Reading Nook",
+        "ja": "陽だまりの読書席"
+      }
+    },
+    {
+      "id": "leisure-08-warm-guitar-room",
+      "file": "packs/leisure/v2/images/leisure-08-warm-guitar-room.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 262602,
+      "sha256": "3794981206a0c85bd845ac7bf8cb8f9c7310cb54b42c72da045a92d81456ffe6",
+      "name": {
+        "zh-TW": "唱片與吉他的暖夜",
+        "zh-CN": "唱片与吉他的暖夜",
+        "en": "A Warm Evening of Records and Guitar",
+        "ja": "レコードとギターの夜"
+      }
+    },
+    {
+      "id": "leisure-09-balcony-tea",
+      "file": "packs/leisure/v2/images/leisure-09-balcony-tea.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 273526,
+      "sha256": "c634635155ed3a8b7bc4217fb890894de043aa4b18ee67415ee1fb063f3367db",
+      "name": {
+        "zh-TW": "暮色陽台茶會",
+        "zh-CN": "暮色阳台茶会",
+        "en": "Twilight Tea on the Balcony",
+        "ja": "夕暮れのバルコニーティー"
+      }
+    },
+    {
+      "id": "leisure-10-shade-picnic",
+      "file": "packs/leisure/v2/images/leisure-10-shade-picnic.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 411838,
+      "sha256": "db61b8f753979a80885f75e61a6a2870766fdbdb4216bd542b5da281a632e679",
+      "name": {
+        "zh-TW": "樹蔭下的野餐日",
+        "zh-CN": "树荫下的野餐日",
+        "en": "Picnic in the Dappled Shade",
+        "ja": "木漏れ日のピクニック"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1316 @@
+{
+  "schemaVersion": 2,
+  "catalogVersion": 2,
+  "minimumAppVersion": "0.9.0-alpha.0",
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "updatedAt": "2026-08-17T18:24:25.407Z",
+  "assetBaseUrl": "/picture-packs",
+  "packs": [
+    {
+      "packId": "travel",
+      "version": 2,
+      "order": 0,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 0,
+      "title": {
+        "zh-TW": "萬里風光",
+        "zh-CN": "万里风光",
+        "en": "Wonders Across the World",
+        "ja": "世界をめぐる絶景"
+      },
+      "description": {
+        "zh-TW": "從太魯閣的晨光峽谷到巴塔哥尼亞的燃霞群峰，沿著山海、古城與荒漠收藏十段壯麗旅程。",
+        "zh-CN": "从太鲁阁的晨光峡谷到巴塔哥尼亚的燃霞群峰，沿着山海、古城与荒漠收藏十段壮丽旅程。",
+        "en": "Ten breathtaking journeys cross gorges, ancient paths, alpine lakes, deserts, and distant coasts from Taroko to Patagonia.",
+        "ja": "太魯閣の朝焼けの峡谷からパタゴニアの燃える峰々まで、山海や古都、砂漠をめぐる10の絶景旅です。"
+      },
+      "cover": "packs/travel/v2/images/travel-01-taroko.webp",
+      "manifest": "packs/travel/v2/manifest.json",
+      "manifestBytes": 6180,
+      "manifestSha256": "ed80e4fb3e2d9cf67cbdc6591dbcac91ada6099ce2059e569d74324b2d57fcbe",
+      "imageCount": 10,
+      "downloadBytes": 2238428
+    },
+    {
+      "packId": "oil",
+      "version": 2,
+      "order": 1,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 0,
+      "title": {
+        "zh-TW": "光影油彩藝廊",
+        "zh-CN": "光影油彩艺廊",
+        "en": "Gallery of Light and Oil",
+        "ja": "光と色彩の油絵ギャラリー"
+      },
+      "description": {
+        "zh-TW": "船港、花園、雪街與神話盛宴在厚實筆觸中緩緩展開，收藏十幅橫跨風景、人物與靜物的油彩故事。",
+        "zh-CN": "船港、花园、雪街与神话盛宴在厚实笔触中缓缓展开，收藏十幅横跨风景、人物与静物的油彩故事。",
+        "en": "Ten richly painted scenes move from harbor and orchard to snowy streets and a mythic feast, celebrating landscape, portrait, and still life.",
+        "ja": "港や果樹園、雪の街、神話の宴まで、風景・人物・静物を豊かな筆致で描いた10枚の油彩作品です。"
+      },
+      "cover": "packs/oil/v2/images/oil-01-harbor.webp",
+      "manifest": "packs/oil/v2/manifest.json",
+      "manifestBytes": 6076,
+      "manifestSha256": "f4c3cb197b047fc0884e9ec98a9d8f9998d95b46165a6dfe225ad9a01c89c227",
+      "imageCount": 10,
+      "downloadBytes": 2590994
+    },
+    {
+      "packId": "pets",
+      "version": 2,
+      "order": 2,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 0,
+      "title": {
+        "zh-TW": "毛孩晴日",
+        "zh-CN": "萌宠晴日",
+        "en": "Sunny Days with Cats and Dogs",
+        "ja": "猫と犬のひだまり日和"
+      },
+      "description": {
+        "zh-TW": "從草地追球、窗邊曬暖到雨後花園，十段貓狗相伴的可愛時光，收進每一個讓人微笑的日常瞬間。",
+        "zh-CN": "从草地追球、窗边晒暖到雨后花园，十段猫狗相伴的可爱时光，收进每一个让人微笑的日常瞬间。",
+        "en": "Ten cheerful moments with beloved cats and dogs, from garden play and sunny windows to picnics and quiet companionship.",
+        "ja": "庭遊びや日向ぼっこ、ピクニックまで、猫と犬が寄り添う笑顔いっぱいの10のひとときです。"
+      },
+      "cover": "packs/pets/v2/images/pets-01-golden-retriever.webp",
+      "manifest": "packs/pets/v2/manifest.json",
+      "manifestBytes": 6151,
+      "manifestSha256": "3efcca96414f0743f61f2b8b7d2d5fc99fbe6aa15de104956dc1deca68c6da69",
+      "imageCount": 10,
+      "downloadBytes": 1124762
+    },
+    {
+      "packId": "plants",
+      "version": 2,
+      "order": 3,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 0,
+      "title": {
+        "zh-TW": "花葉四季",
+        "zh-CN": "花叶四季",
+        "en": "Seasons in Bloom",
+        "ja": "花と緑の四季"
+      },
+      "description": {
+        "zh-TW": "向日葵、蘭花、蓮池與秋葉交織成十幅植物風景，循著花開葉落感受四季安靜而鮮明的色彩。",
+        "zh-CN": "向日葵、兰花、莲池与秋叶交织成十幅植物风景，循着花开叶落感受四季安静而鲜明的色彩。",
+        "en": "Ten botanical scenes follow the seasons through sunflowers, orchids, lotus ponds, forest ferns, herbs, and brilliant autumn leaves.",
+        "ja": "ひまわり、蘭、蓮池、森のシダ、香草、紅葉を通して、花と緑が彩る四季をたどる10の風景です。"
+      },
+      "cover": "packs/plants/v2/images/plants-01-sunflowers.webp",
+      "manifest": "packs/plants/v2/manifest.json",
+      "manifestBytes": 6068,
+      "manifestSha256": "a9a5241d7d899b281267116fce5af3ed91ff3708bca6428ce73d14362ef2c4de",
+      "imageCount": 10,
+      "downloadBytes": 2142324
+    },
+    {
+      "packId": "food",
+      "version": 2,
+      "order": 4,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 0,
+      "title": {
+        "zh-TW": "世界好味巡禮",
+        "zh-CN": "世界美味巡礼",
+        "en": "A World of Signature Flavors",
+        "ja": "世界の名物料理めぐり"
+      },
+      "description": {
+        "zh-TW": "從台灣晨間蛋餅到四川麻辣火鍋，以十道代表料理走訪亞洲、歐洲與美洲的餐桌。",
+        "zh-CN": "从台湾晨间蛋饼到四川麻辣火锅，以十道代表料理走访亚洲、欧洲与美洲的餐桌。",
+        "en": "Ten signature dishes journey across the tables of Asia, Europe, and the Americas, from a Taiwanese breakfast to Sichuan hot pot.",
+        "ja": "台湾の朝ごはんから四川の麻辣火鍋まで、アジア・ヨーロッパ・アメリカを代表する10の料理をめぐります。"
+      },
+      "cover": "packs/food/v2/images/food-01-taiwan-breakfast.webp",
+      "manifest": "packs/food/v2/manifest.json",
+      "manifestBytes": 6062,
+      "manifestSha256": "69b70db70c991898d71e5c2f62ccfb6ac955d4a62dd04c0c50993519d49c6bcb",
+      "imageCount": 10,
+      "downloadBytes": 1996152
+    },
+    {
+      "packId": "people",
+      "version": 2,
+      "order": 5,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 20,
+      "title": {
+        "zh-TW": "人間百景",
+        "zh-CN": "人间百景",
+        "en": "Portraits of Everyday Life",
+        "ja": "人々の暮らし百景"
+      },
+      "description": {
+        "zh-TW": "陶藝師、街頭樂手、漁夫與農人各自在熟悉的地方專注生活，十幅真誠肖像記下工作、節慶與相遇的溫度。",
+        "zh-CN": "陶艺师、街头乐手、渔夫与农人各自在熟悉的地方专注生活，十幅真诚肖像记下工作、节庆与相遇的温度。",
+        "en": "Ten honest portraits celebrate the focus, craft, and joy of potters, musicians, vendors, fishers, farmers, and neighbors at work and at play.",
+        "ja": "陶芸家、音楽家、市場の店主、漁師、農家など、仕事や祭りに生きる人々の温かな表情を描いた10の物語です。"
+      },
+      "cover": "packs/people/v2/images/people-01-potter.webp",
+      "manifest": "packs/people/v2/manifest.json",
+      "manifestBytes": 6085,
+      "manifestSha256": "6649fd865515f3d179893331fb3ede436fb4fc196b543d2f13e3fecdd4b8933a",
+      "imageCount": 10,
+      "downloadBytes": 2034936
+    },
+    {
+      "packId": "fantasy",
+      "version": 2,
+      "order": 6,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 20,
+      "title": {
+        "zh-TW": "雲端魔法紀行",
+        "zh-CN": "云端魔法纪行",
+        "en": "Chronicles of the Enchanted Realms",
+        "ja": "雲上の魔法紀行"
+      },
+      "description": {
+        "zh-TW": "飛龍掠過山谷，浮島懸在雲海，月城與海底書庫守著古老祕密；十幅奇景展開一場跨越天地的魔法遠行。",
+        "zh-CN": "飞龙掠过山谷，浮岛悬在云海，月城与海底书库守着古老秘密；十幅奇景展开一场跨越天地的魔法远行。",
+        "en": "Dragons, floating islands, moonlit castles, and underwater libraries unfold across ten wondrous scenes from a world alive with magic.",
+        "ja": "竜が谷を越え、浮島が雲海に漂い、月の城と海底図書館が秘密を守る、10の幻想世界をめぐる旅です。"
+      },
+      "cover": "packs/fantasy/v2/images/fantasy-01-dragon-valley.webp",
+      "manifest": "packs/fantasy/v2/manifest.json",
+      "manifestBytes": 6227,
+      "manifestSha256": "28b0d048751fd7be7491f2f8749508ae159559680c3b30310ac94f65bb3399a3",
+      "imageCount": 10,
+      "downloadBytes": 1965000
+    },
+    {
+      "packId": "space",
+      "version": 2,
+      "order": 7,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 20,
+      "title": {
+        "zh-TW": "星海遠航",
+        "zh-CN": "星海远航",
+        "en": "Voyage across the Star Ocean",
+        "ja": "星の海への航海"
+      },
+      "description": {
+        "zh-TW": "從地球軌道啟程，探訪月球基地、火星荒原與遙遠星系；十幅宇宙景象收藏人類仰望未知的壯闊想像。",
+        "zh-CN": "从地球轨道启程，探访月球基地、火星荒原与遥远星系；十幅宇宙景象收藏人类仰望未知的壮阔想象。",
+        "en": "A ten-scene voyage departs Earth orbit for lunar bases, Martian plains, distant worlds, vast galaxies, and the bright edge of discovery.",
+        "ja": "地球軌道を出発し、月面基地、火星の大地、遠い惑星や銀河をめぐる、未知への憧れを描いた10の宇宙景観です。"
+      },
+      "cover": "packs/space/v2/images/space-01-earth-orbit.webp",
+      "manifest": "packs/space/v2/manifest.json",
+      "manifestBytes": 6273,
+      "manifestSha256": "230af1ffbb7cb16331ae80c5932b1647b8d30bbf81931a5c2cd6569f70bdb64f",
+      "imageCount": 10,
+      "downloadBytes": 1140870
+    },
+    {
+      "packId": "cozy",
+      "version": 2,
+      "order": 8,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 20,
+      "title": {
+        "zh-TW": "暖暖日常",
+        "zh-CN": "暖暖日常",
+        "en": "Little Days of Warmth",
+        "ja": "ほっとする日々"
+      },
+      "description": {
+        "zh-TW": "家人的早餐、雨站共傘、夜市散步與節日餐桌，十幅柔和插畫收藏那些平凡卻最讓人安心的相伴時光。",
+        "zh-CN": "家人的早餐、雨站共伞、夜市散步与节日餐桌，十幅柔和插画收藏那些平凡却最让人安心的相伴时光。",
+        "en": "Ten gentle illustrations treasure the comfort of family breakfasts, shared umbrellas, night-market walks, pets at home, and festive tables.",
+        "ja": "家族の朝食、相合傘、夜市の散歩、ペットとの時間、祝いの食卓など、何気ない幸せを描いた10のやさしい物語です。"
+      },
+      "cover": "packs/cozy/v2/images/cozy-01-family-kitchen.webp",
+      "manifest": "packs/cozy/v2/manifest.json",
+      "manifestBytes": 6157,
+      "manifestSha256": "6e8ddfbadc4e46a48212410ea9f19f191e4b4677d987a579aca019a357d19dfa",
+      "imageCount": 10,
+      "downloadBytes": 822522
+    },
+    {
+      "packId": "landmark",
+      "version": 2,
+      "order": 9,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 20,
+      "title": {
+        "zh-TW": "世界奇景之旅",
+        "zh-CN": "世界奇景之旅",
+        "en": "Wonders Around the World",
+        "ja": "世界の名景をめぐる旅"
+      },
+      "description": {
+        "zh-TW": "從塞納河畔到台北夜空，走訪十座跨越文明與時代的世界名勝。",
+        "zh-CN": "从塞纳河畔到台北夜空，走访十座跨越文明与时代的世界名胜。",
+        "en": "A journey through ten landmarks shaped by different civilizations and eras, from the Seine to Taipei's night sky.",
+        "ja": "セーヌ河畔から台北の夜空まで、文明と時代を越えて受け継がれる10の名所を旅します。"
+      },
+      "cover": "packs/landmark/v2/images/landmark-01-eiffel.webp",
+      "manifest": "packs/landmark/v2/manifest.json",
+      "manifestBytes": 6182,
+      "manifestSha256": "b1a583142592e8528061621c96f00191ee4a89e052efc39103b121d31017b206",
+      "imageCount": 10,
+      "downloadBytes": 1883572
+    },
+    {
+      "packId": "leisure",
+      "version": 2,
+      "order": 10,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "把日子過得悠閒",
+        "zh-CN": "把日子过得悠闲",
+        "en": "Slow and Lovely Days",
+        "ja": "ゆるやかな暮らし"
+      },
+      "description": {
+        "zh-TW": "泡一壺茶、翻幾頁書，在雨窗、花園與海風之間收藏十段放慢腳步的日常。",
+        "zh-CN": "泡一壶茶、翻几页书，在雨窗、花园与海风之间收藏十段放慢脚步的日常。",
+        "en": "Ten gentle pauses among rainy windows, blooming gardens, sea breezes, books, tea, and music.",
+        "ja": "雨の窓辺、花咲く庭、潮風、読書、お茶、音楽。ゆっくり過ごす10のひとときを集めました。"
+      },
+      "cover": "packs/leisure/v2/images/leisure-01-home-spa.webp",
+      "manifest": "packs/leisure/v2/manifest.json",
+      "manifestBytes": 6207,
+      "manifestSha256": "eb8d41e55dfe9b1710310c971d4955204f6673b2ffe9e3d441bb171a134359e1",
+      "imageCount": 10,
+      "downloadBytes": 2926546
+    },
+    {
+      "packId": "wildlife",
+      "version": 2,
+      "order": 11,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "野性近距離",
+        "zh-CN": "野性近距离",
+        "en": "Wild Encounters",
+        "ja": "野生との遭遇"
+      },
+      "description": {
+        "zh-TW": "從草原怒吼到鯨躍破浪，以震撼視角捕捉十種野生動物最有生命力的瞬間。",
+        "zh-CN": "从草原怒吼到鲸跃破浪，以震撼视角捕捉十种野生动物最有生命力的瞬间。",
+        "en": "Ten vivid encounters capture wildlife at its most powerful, from a savanna roar to a whale breaking the waves.",
+        "ja": "草原に響く咆哮から波を破るクジラまで、野生動物の力みなぎる10の瞬間を間近に捉えます。"
+      },
+      "cover": "packs/wildlife/v2/images/wildlife-01-lion-low-angle-roar.webp",
+      "manifest": "packs/wildlife/v2/manifest.json",
+      "manifestBytes": 6412,
+      "manifestSha256": "03693ae430c4ebdd6065086b3f846a9be3a5334056faad421569d9f4922429af",
+      "imageCount": 10,
+      "downloadBytes": 2512396
+    },
+    {
+      "packId": "taiwan-snacks",
+      "version": 2,
+      "order": 12,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "島嶼夜市好味",
+        "zh-CN": "岛屿夜市好味",
+        "en": "Flavors of Taiwan's Night Markets",
+        "ja": "台湾夜市の味めぐり"
+      },
+      "description": {
+        "zh-TW": "從蚵仔煎、臭豆腐到珍珠奶茶，收進十道飄著熱氣與人情味的台灣街頭美食。",
+        "zh-CN": "从蚵仔煎、臭豆腐到珍珠奶茶，收进十道飘着热气与人情味的台湾街头美食。",
+        "en": "Ten beloved Taiwanese street foods, rich with night-market warmth, from oyster omelets and stinky tofu to bubble tea.",
+        "ja": "カキオムレツや臭豆腐、タピオカミルクティーまで、夜市の活気とぬくもりを感じる台湾屋台グルメ10品です。"
+      },
+      "cover": "packs/taiwan-snacks/v2/images/taiwan-snacks-01-oyster-omelet.webp",
+      "manifest": "packs/taiwan-snacks/v2/manifest.json",
+      "manifestBytes": 6340,
+      "manifestSha256": "828f7d93ad2faa9786118c2d4f57c4d5513ecf049c3ee5f1358eaefb1abd1467",
+      "imageCount": 10,
+      "downloadBytes": 1637454
+    },
+    {
+      "packId": "cute-animals",
+      "version": 2,
+      "order": 13,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "毛茸茸小日子",
+        "zh-CN": "毛茸茸的小日子",
+        "en": "Little Days, Furry Friends",
+        "ja": "ふわもこ日和"
+      },
+      "description": {
+        "zh-TW": "從暖毯上的小貓到牧場裡的羊駝，十位毛茸茸的小夥伴帶來療癒又純真的日常。",
+        "zh-CN": "从暖毯上的小猫到牧场里的羊驼，十位毛茸茸的小伙伴带来治愈又纯真的日常。",
+        "en": "Ten gentle little companions bring warmth and wonder, from a kitten on a cozy blanket to an alpaca in the meadow.",
+        "ja": "ぬくもり毛布の子猫から牧場のアルパカまで、ふわふわの仲間たちが届ける心なごむ10のひとときです。"
+      },
+      "cover": "packs/cute-animals/v2/images/cute-animals-01-kitten.webp",
+      "manifest": "packs/cute-animals/v2/manifest.json",
+      "manifestBytes": 6382,
+      "manifestSha256": "c5b0b226cb148cb3cc3469a590003d108f377c4b6fd265a4d0b51e25c70f126b",
+      "imageCount": 10,
+      "downloadBytes": 1468264
+    },
+    {
+      "packId": "female-athletes",
+      "version": 2,
+      "order": 14,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "她們的全力一刻",
+        "zh-CN": "她们的全力一刻",
+        "en": "Strength in Motion",
+        "ja": "彼女たちの全力"
+      },
+      "description": {
+        "zh-TW": "扣殺、衝刺、出拳與飛躍，十個鏡頭定格女運動員專注、力量與不放棄的瞬間。",
+        "zh-CN": "扣杀、冲刺、出拳与飞跃，十个镜头定格女运动员专注、力量与不放弃的瞬间。",
+        "en": "Ten defining moments of focus and resolve, from a decisive spike and a finish-line sprint to a fearless leap.",
+        "ja": "渾身のスパイク、ゴールへの疾走、鋭い一打、空中の跳躍。女性アスリートの集中と強さを捉えた10の瞬間です。"
+      },
+      "cover": "packs/female-athletes/v2/images/female-athletes-01-volleyball.webp",
+      "manifest": "packs/female-athletes/v2/manifest.json",
+      "manifestBytes": 6312,
+      "manifestSha256": "b2d0f3205eb18d9244caf71c337f516399140e02757ba5234e73c77ec0918286",
+      "imageCount": 10,
+      "downloadBytes": 1343622
+    },
+    {
+      "packId": "male-workers",
+      "version": 2,
+      "order": 15,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "堅毅的工作者",
+        "zh-CN": "坚毅的工作者",
+        "en": "Hands That Get the Job Done",
+        "ja": "現場を支える男たち"
+      },
+      "description": {
+        "zh-TW": "走進鋼梁、火場、林場與礦坑，記錄十位工作者以雙手、技術與勇氣扛起任務的身影。",
+        "zh-CN": "走进钢梁、火场、林场与矿坑，记录十位工作者以双手、技术与勇气扛起任务的身影。",
+        "en": "Ten portraits of skill, courage, and hard work across steel beams, fire grounds, forests, workshops, mines, and shipyards.",
+        "ja": "鉄骨、火災現場、森林、工房、鉱山、造船所。技と勇気で仕事を担う10人の姿を描きます。"
+      },
+      "cover": "packs/male-workers/v2/images/male-workers-01-construction.webp",
+      "manifest": "packs/male-workers/v2/manifest.json",
+      "manifestBytes": 6346,
+      "manifestSha256": "07020fa89c6b46d5fb6910a32d99698ad5b983190d5bf60d79c41be8e0efe7ef",
+      "imageCount": 10,
+      "downloadBytes": 1704246
+    },
+    {
+      "packId": "modern-art",
+      "version": 2,
+      "order": 16,
+      "releasedAt": "2026-07-27T10:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "世紀交會的藝術夢境",
+        "zh-CN": "世纪交会的艺术梦境",
+        "en": "Art Dreams Across an Era",
+        "ja": "世紀を彩る芸術の夢"
+      },
+      "description": {
+        "zh-TW": "從新藝術的花葉曲線到裝飾藝術的璀璨都會，以十幅夢境走過現代藝術的多彩風貌。",
+        "zh-CN": "从新艺术的花叶曲线到装饰艺术的璀璨都会，以十幅梦境走过现代艺术的多彩风貌。",
+        "en": "Ten dreamlike scenes explore a rich range of modern styles, from Art Nouveau florals to the brilliance of the Art Deco city.",
+        "ja": "アール・ヌーヴォーの花の曲線からアール・デコの輝く都市まで、近代の多彩な芸術様式を10の夢景色でたどります。"
+      },
+      "cover": "packs/modern-art/v2/images/modern-art-01-lilies.webp",
+      "manifest": "packs/modern-art/v2/manifest.json",
+      "manifestBytes": 6405,
+      "manifestSha256": "5d0eb5d836ad423572c1594b79a8e2626464aa6d6f651b74616ce85c822d19b6",
+      "imageCount": 10,
+      "downloadBytes": 3559630
+    },
+    {
+      "packId": "sino-japanese-art",
+      "version": 2,
+      "order": 17,
+      "releasedAt": "2026-07-27T10:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "墨韻和風",
+        "zh-CN": "墨韵和风",
+        "en": "Ink and Eastern Elegance",
+        "ja": "墨韻と和の雅"
+      },
+      "description": {
+        "zh-TW": "以水墨山河、漢服仕女、錦鯉與和服美人，交織中華筆韻與日本浮世繪的典雅情境。",
+        "zh-CN": "以水墨山河、汉服仕女、锦鲤与和服美人，交织中华笔韵与日本浮世绘的典雅意境。",
+        "en": "Ten graceful works weave Chinese ink traditions with Japanese decorative art through misty peaks, elegant figures, koi, cranes, and moonlit legends.",
+        "ja": "水墨の山河、漢服の女性、錦鯉や着物美人を通して、中国絵画の筆致と日本美術の雅を織りなす10の情景です。"
+      },
+      "cover": "packs/sino-japanese-art/v2/images/sino-japanese-art-01-mountains.webp",
+      "manifest": "packs/sino-japanese-art/v2/manifest.json",
+      "manifestBytes": 6250,
+      "manifestSha256": "d9ad09207f0fd1e9a6b75e74f6b836763c3285bef64bd9430cf521277f6a5d0f",
+      "imageCount": 10,
+      "downloadBytes": 3494296
+    },
+    {
+      "packId": "summer-scenes",
+      "version": 2,
+      "order": 18,
+      "releasedAt": "2026-07-27T10:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "盛夏物語",
+        "zh-CN": "盛夏物语",
+        "en": "Stories of High Summer",
+        "ja": "盛夏の物語"
+      },
+      "description": {
+        "zh-TW": "沿著鄉間鐵道、海邊坡道與向日葵田，收藏戲水、刨冰、驟雨和煙火綻放的青春夏日。",
+        "zh-CN": "沿着乡间铁路、海边坡道与向日葵田，收藏戏水、刨冰、骤雨和烟火绽放的青春夏日。",
+        "en": "A nostalgic summer unfolds along rural rails and seaside lanes, filled with water play, shaved ice, sudden rain, sunflowers, and fireworks.",
+        "ja": "田園の線路や海辺の坂道を舞台に、水遊び、かき氷、夕立、ひまわり、花火を描く懐かしい夏の物語です。"
+      },
+      "cover": "packs/summer-scenes/v2/images/summer-scenes-01-train.webp",
+      "manifest": "packs/summer-scenes/v2/manifest.json",
+      "manifestBytes": 6357,
+      "manifestSha256": "93ed0a8d5ea07134d5059f17fce0a0c813f8c257e718eb2e05e931a9f77666b2",
+      "imageCount": 10,
+      "downloadBytes": 2089838
+    },
+    {
+      "packId": "romantic-life",
+      "version": 2,
+      "order": 19,
+      "releasedAt": "2026-07-27T10:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "幕光愛情歲月",
+        "zh-CN": "幕光爱情岁月",
+        "en": "Love beneath the Footlights",
+        "ja": "舞台明かりの恋物語"
+      },
+      "description": {
+        "zh-TW": "從劇場後台的初遇、雨中共傘到舞台求婚與白首相守，串起一段走過日常與聚光燈的溫柔愛情。",
+        "zh-CN": "从剧场后台的初遇、雨中共伞到舞台求婚与白首相守，串起一段走过日常与聚光灯的温柔爱情。",
+        "en": "From a first meeting backstage and a shared umbrella to a stage proposal and a lifetime together, one tender romance unfolds in and beyond the theater.",
+        "ja": "舞台裏での出会い、雨の相合傘、舞台でのプロポーズ、そして白髪になるまで寄り添う二人を描く優しい恋物語です。"
+      },
+      "cover": "packs/romantic-life/v2/images/romantic-life-01-meeting.webp",
+      "manifest": "packs/romantic-life/v2/manifest.json",
+      "manifestBytes": 6431,
+      "manifestSha256": "612cec8aea1ce1482b1d3e6f212d9837274008c14184bfd8a0b165a286e21eff",
+      "imageCount": 10,
+      "downloadBytes": 1654442
+    },
+    {
+      "packId": "fantasy-art",
+      "version": 2,
+      "order": 20,
+      "releasedAt": "2026-07-27T10:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "夢境博物館",
+        "zh-CN": "梦境博物馆",
+        "en": "Museum of Waking Dreams",
+        "ja": "目覚める夢の博物館"
+      },
+      "description": {
+        "zh-TW": "推開星空圖書館、浮空鯨魚與發條花園的展廳大門，漫遊一座收藏季節、甜點與光之巨樹的奇幻博物館。",
+        "zh-CN": "推开星空图书馆、浮空鲸鱼与发条花园的展厅大门，漫游一座收藏季节、甜点与光之巨树的奇幻博物馆。",
+        "en": "Wander through a wondrous museum where star libraries, floating whales, clockwork gardens, dessert mountains, and a radiant world tree become living exhibits.",
+        "ja": "星空の図書館、宙を泳ぐ鯨、歯車の庭園、お菓子の山、光の巨樹が展示された幻想博物館をめぐります。"
+      },
+      "cover": "packs/fantasy-art/v2/images/fantasy-art-01-library.webp",
+      "manifest": "packs/fantasy-art/v2/manifest.json",
+      "manifestBytes": 6245,
+      "manifestSha256": "96236b7d20c201a4abcee8b63470004163bf984e1cfff348ee484cb8f500a0b3",
+      "imageCount": 10,
+      "downloadBytes": 3068814
+    },
+    {
+      "packId": "monthly-01",
+      "version": 2,
+      "order": 21,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "一月・雪夜奇光",
+        "zh-CN": "一月・雪夜奇光",
+        "en": "January · Wonders of Winter Light",
+        "ja": "1月・雪夜のきらめき"
+      },
+      "description": {
+        "zh-TW": "以冰晶天鵝、提燈雪狐、極光天文台與火龍花燈為主角，點亮一月雪夜的十種奇幻光景。",
+        "zh-CN": "以冰晶天鹅、提灯雪狐、极光天文台与火龙花灯为主角，点亮一月雪夜的十种奇幻光景。",
+        "en": "Ten bold winter icons—an ice swan, a lantern fox, an aurora observatory, a fiery dragon lantern, and more—illuminate January nights.",
+        "ja": "氷晶の白鳥、提灯を持つ雪狐、オーロラ天文台、火龍の灯籠など、10の大きな主役が1月の雪夜を照らします。"
+      },
+      "cover": "packs/monthly-01/v2/images/monthly-01-01.webp",
+      "manifest": "packs/monthly-01/v2/manifest.json",
+      "manifestBytes": 6019,
+      "manifestSha256": "184e6bf2d63f17e66afd92a50afd1df64d9a939d43740c6879a63020022e3373",
+      "imageCount": 10,
+      "downloadBytes": 1757916
+    },
+    {
+      "packId": "monthly-02",
+      "version": 2,
+      "order": 22,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "二月・瑞彩新春",
+        "zh-CN": "二月・瑞彩新春",
+        "en": "February · Auspicious New Year",
+        "ja": "2月・瑞光の春節"
+      },
+      "description": {
+        "zh-TW": "讓金獅、祥龍、團圓桌與巨型月兔花燈成為畫面焦點，以紅金瑞彩迎接熱鬧又溫暖的新春。",
+        "zh-CN": "让金狮、祥龙、团圆桌与巨型月兔花灯成为画面焦点，以红金瑞彩迎接热闹又温暖的新春。",
+        "en": "Golden lions, auspicious dragons, a reunion table, and a giant moon-rabbit lantern take center stage in a warm red-and-gold Lunar New Year.",
+        "ja": "金獅子、瑞龍、団らんの食卓、巨大な月兎灯籠を主役に、赤と金に彩られた温かな春節を祝います。"
+      },
+      "cover": "packs/monthly-02/v2/images/monthly-02-01.webp",
+      "manifest": "packs/monthly-02/v2/manifest.json",
+      "manifestBytes": 5923,
+      "manifestSha256": "2136bfdfbbe2c9a014073413dfd0aeb4267f0c42507a286777acc27e38c3bb8b",
+      "imageCount": 10,
+      "downloadBytes": 1488308
+    },
+    {
+      "packId": "monthly-03",
+      "version": 2,
+      "order": 23,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "三月・春日奇遇",
+        "zh-CN": "三月・春日奇遇",
+        "en": "March · Springtime Wonders",
+        "ja": "3月・春の奇遇"
+      },
+      "description": {
+        "zh-TW": "從花樹屋、櫻湖扁舟到琉璃溫室與紫晶洞窟，十個鮮明主角引領一趟繽紛的春日探險。",
+        "zh-CN": "从花树屋、樱湖扁舟到琉璃温室与紫晶洞窟，十个鲜明主角引领一场缤纷的春日探险。",
+        "en": "A flowering treehouse, cherry-lake skiff, glass conservatory, and amethyst cavern lead a colorful spring adventure through ten vivid centerpieces.",
+        "ja": "花咲く樹上の家、桜湖の小舟、ガラス温室、紫水晶の洞窟など、10の鮮やかな主役が春の冒険へ導きます。"
+      },
+      "cover": "packs/monthly-03/v2/images/monthly-03-01.webp",
+      "manifest": "packs/monthly-03/v2/manifest.json",
+      "manifestBytes": 5956,
+      "manifestSha256": "d7f5da9df73e0dc37f0f95a74c087c40096db91443ecfea2face00717d95fcc8",
+      "imageCount": 10,
+      "downloadBytes": 1725078
+    },
+    {
+      "packId": "monthly-04",
+      "version": 2,
+      "order": 24,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "四月・雨城夜曲",
+        "zh-CN": "四月・雨城夜曲",
+        "en": "April · Nocturne in the Rain",
+        "ja": "4月・雨街の夜想曲"
+      },
+      "description": {
+        "zh-TW": "以低音提琴、復古戲院、拉麵攤與黃雨傘為畫面主角，讓四月城市的雨聲化成一首溫柔夜曲。",
+        "zh-CN": "以低音提琴、复古影院、拉面摊与黄雨伞为画面主角，让四月城市的雨声化成一首温柔夜曲。",
+        "en": "A double bass, vintage cinema, ramen stall, and yellow umbrella become bold focal points as April rain turns the city into a gentle nocturne.",
+        "ja": "コントラバス、レトロ映画館、屋台のラーメン、黄色い傘を主役に、4月の雨音が街の優しい夜想曲へと変わります。"
+      },
+      "cover": "packs/monthly-04/v2/images/monthly-04-01.webp",
+      "manifest": "packs/monthly-04/v2/manifest.json",
+      "manifestBytes": 6096,
+      "manifestSha256": "81d3d713bdea8d585df25719d9f8014dbade9e95570a4f95761c10d05e090504",
+      "imageCount": 10,
+      "downloadBytes": 1748092
+    },
+    {
+      "packId": "monthly-05",
+      "version": 2,
+      "order": 25,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "五月・機械花園",
+        "zh-CN": "五月・机械花园",
+        "en": "May · Clockwork Garden",
+        "ja": "5月・機械仕掛けの庭園"
+      },
+      "description": {
+        "zh-TW": "發條玻璃花、花園飛船、機械蝴蝶與白兔自動偶輪番登場，以清楚的大型主體編織五月的奇想花園。",
+        "zh-CN": "发条玻璃花、花园飞船、机械蝴蝶与白兔自动偶轮番登场，以清晰的大型主体编织五月的奇想花园。",
+        "en": "A glass clockwork flower, garden airship, mechanical butterfly, and white-rabbit automaton lead ten clear, whimsical portraits of May.",
+        "ja": "歯車仕掛けのガラス花、庭園飛行船、機械蝶、白兎の自動人形など、大きく明快な10の主役が5月の幻想庭園を彩ります。"
+      },
+      "cover": "packs/monthly-05/v2/images/monthly-05-01.webp",
+      "manifest": "packs/monthly-05/v2/manifest.json",
+      "manifestBytes": 5997,
+      "manifestSha256": "5e4d5f3a55c762f72b6901d267372245ba7bad1445fd691eb0d2b7450d57f3ee",
+      "imageCount": 10,
+      "downloadBytes": 1667210
+    },
+    {
+      "packId": "monthly-06",
+      "version": 2,
+      "order": 26,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "六月・盛夏活力",
+        "zh-CN": "六月・盛夏活力",
+        "en": "June · Full-Power Summer",
+        "ja": "6月・全開サマー"
+      },
+      "description": {
+        "zh-TW": "滑板、街機、籃框、水上摩托車與熱氣球化身醒目的夏日主角，帶來色彩飽滿、節奏明快的六月能量。",
+        "zh-CN": "滑板、街机、篮筐、水上摩托艇与热气球化身醒目的夏日主角，带来色彩饱满、节奏明快的六月能量。",
+        "en": "A skateboard, arcade cabinet, basketball hoop, jet ski, and hot-air balloon become bold summer icons charged with June energy.",
+        "ja": "スケートボード、アーケード筐体、バスケットゴール、水上バイク、気球が鮮やかな夏の主役となり、6月を元気に彩ります。"
+      },
+      "cover": "packs/monthly-06/v2/images/monthly-06-01.webp",
+      "manifest": "packs/monthly-06/v2/manifest.json",
+      "manifestBytes": 6142,
+      "manifestSha256": "735a6dc58dfa24e5774ecff4c0f88fea8f5cd959ebfc073a32849c689f673c9e",
+      "imageCount": 10,
+      "downloadBytes": 1341416
+    },
+    {
+      "packId": "monthly-07",
+      "version": 2,
+      "order": 27,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "七月・海島傳奇",
+        "zh-CN": "七月・海岛传奇",
+        "en": "July · Island Legends",
+        "ja": "7月・島々の伝説"
+      },
+      "description": {
+        "zh-TW": "石像守護者、海盜船、翡翠蜥蜴與暴風燈塔各自獨挑大梁，讓七月海島冒險在小畫面也鮮明有力。",
+        "zh-CN": "石像守护者、海盗船、翡翠蜥蜴与暴风灯塔各自独挑大梁，让七月海岛冒险在小画面中也鲜明有力。",
+        "en": "A stone guardian, pirate galleon, emerald iguana, and storm lighthouse each command the frame in ten vivid island adventures.",
+        "ja": "石像の守護者、海賊船、翡翠色のイグアナ、嵐の灯台がそれぞれ画面の主役となり、7月の島冒険を鮮やかに描きます。"
+      },
+      "cover": "packs/monthly-07/v2/images/monthly-07-01.webp",
+      "manifest": "packs/monthly-07/v2/manifest.json",
+      "manifestBytes": 6078,
+      "manifestSha256": "a728b3faa3a096097d90f7f241bd12e1376b4eebfc41b62834a8af792e51d94b",
+      "imageCount": 10,
+      "downloadBytes": 1563720
+    },
+    {
+      "packId": "monthly-08",
+      "version": 2,
+      "order": 28,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "八月・星際假期",
+        "zh-CN": "八月・星际假期",
+        "en": "August · Holiday among the Stars",
+        "ja": "8月・星間バカンス"
+      },
+      "description": {
+        "zh-TW": "月球度假圓頂、土星摩天輪、銀河臥鋪列車與星光巨鯨，以十個大型主體展開繽紛的宇宙假期。",
+        "zh-CN": "月球度假圆顶、土星摩天轮、银河卧铺列车与星光巨鲸，以十个大型主体展开缤纷的宇宙假期。",
+        "en": "A lunar resort dome, Saturn Ferris wheel, galaxy sleeper train, and starlight whale anchor a colorful holiday across the cosmos.",
+        "ja": "月面リゾートドーム、土星の観覧車、銀河寝台列車、星光の巨鯨など、10の大きな主役が宇宙旅行を彩ります。"
+      },
+      "cover": "packs/monthly-08/v2/images/monthly-08-01.webp",
+      "manifest": "packs/monthly-08/v2/manifest.json",
+      "manifestBytes": 6016,
+      "manifestSha256": "c07a7697ecaa45423d4e7de90a8409a8fcc65924eddb1599286d3462e338e193",
+      "imageCount": 10,
+      "downloadBytes": 2035442
+    },
+    {
+      "packId": "monthly-09",
+      "version": 2,
+      "order": 29,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "九月・金色豐收",
+        "zh-CN": "九月・金色丰收",
+        "en": "September · Golden Harvest",
+        "ja": "9月・黄金の実り"
+      },
+      "description": {
+        "zh-TW": "豐收花環、紅色電車、果園拖拉機與彩繪風車成為金秋主角，以清楚輪廓收藏九月的富足暖意。",
+        "zh-CN": "丰收花环、红色电车、果园拖拉机与彩绘风车成为金秋主角，以清晰轮廓收藏九月的丰足暖意。",
+        "en": "A harvest wreath, red railcar, orchard tractor, and painted windmill stand out as bold emblems of September's golden abundance.",
+        "ja": "収穫の花輪、赤い電車、果樹園のトラクター、彩り風車が、9月の豊かな実りを大きく鮮明に描きます。"
+      },
+      "cover": "packs/monthly-09/v2/images/monthly-09-01.webp",
+      "manifest": "packs/monthly-09/v2/manifest.json",
+      "manifestBytes": 6009,
+      "manifestSha256": "fcce7ef9c0c00bed44c0f2945e7c6226d29766c169fd2eb77eaa510eb20fe256",
+      "imageCount": 10,
+      "downloadBytes": 1641104
+    },
+    {
+      "packId": "monthly-10",
+      "version": 2,
+      "order": 30,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "十月・萬聖奇譚",
+        "zh-CN": "十月・万圣奇谭",
+        "en": "October · Halloween Tales",
+        "ja": "10月・ハロウィン奇譚"
+      },
+      "description": {
+        "zh-TW": "鬧鬼莊園、南瓜魔法鍋、月光書梯與糖果小屋各自佔據視線，帶來可愛又神祕的十月奇譚。",
+        "zh-CN": "闹鬼庄园、南瓜魔法锅、月光书梯与糖果小屋各自占据视线，带来可爱又神秘的十月奇谭。",
+        "en": "A haunted manor, pumpkin cauldron, moonlit library ladder, and candy cottage each command the frame in ten playful October tales.",
+        "ja": "幽霊屋敷、かぼちゃの魔法鍋、月光の書架梯子、お菓子の家がそれぞれ大きく主役となる、かわいく不思議な10月物語です。"
+      },
+      "cover": "packs/monthly-10/v2/images/monthly-10-01.webp",
+      "manifest": "packs/monthly-10/v2/manifest.json",
+      "manifestBytes": 6063,
+      "manifestSha256": "f87a54d082fd4b68b249e4d1c980ef579962e3f5c7697c8e416ca606af15d901",
+      "imageCount": 10,
+      "downloadBytes": 968978
+    },
+    {
+      "packId": "monthly-11",
+      "version": 2,
+      "order": 31,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "十一月・秋境冒險",
+        "zh-CN": "十一月・秋境冒险",
+        "en": "November · Adventure in the Autumn Realm",
+        "ja": "11月・秋の異世界冒険"
+      },
+      "description": {
+        "zh-TW": "苔石拱橋、浮空城堡、霜藍巨龍與秋帆飛船化為異世界地標，用單一大型主體展開十一月冒險。",
+        "zh-CN": "苔石拱桥、浮空城堡、霜蓝巨龙与秋帆飞船化为异世界地标，用单一大型主体展开十一月冒险。",
+        "en": "A mossy bridge, floating citadel, frost-blue dragon, and autumn-sailed airship become bold landmarks in November's otherworldly adventure.",
+        "ja": "苔むす石橋、浮遊城、霜青の巨龍、秋色の帆を掲げる飛行船が、11月の異世界冒険を象徴する大きな主役です。"
+      },
+      "cover": "packs/monthly-11/v2/images/monthly-11-01.webp",
+      "manifest": "packs/monthly-11/v2/manifest.json",
+      "manifestBytes": 6059,
+      "manifestSha256": "d3e59d405bbb93cc78352c50b9600bf28d30f7cceff4f8df01c2c6b448804050",
+      "imageCount": 10,
+      "downloadBytes": 1828926
+    },
+    {
+      "packId": "monthly-12",
+      "version": 2,
+      "order": 32,
+      "releasedAt": "2026-07-01T00:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "十二月・冬日慶典",
+        "zh-CN": "十二月・冬日庆典",
+        "en": "December · Winter Celebrations",
+        "ja": "12月・冬の祝祭"
+      },
+      "description": {
+        "zh-TW": "巨型聖誕樹、祈願天燈、極光彩帳與紅色節慶電車各領風采，串起世界各地明亮溫暖的冬日慶典。",
+        "zh-CN": "巨型圣诞树、祈愿天灯、极光彩帐与红色节庆电车各领风采，串起世界各地明亮温暖的冬日庆典。",
+        "en": "A grand Christmas tree, wish lantern, aurora tent, and red holiday streetcar each take center stage in bright winter celebrations around the world.",
+        "ja": "巨大なクリスマスツリー、願いの天灯、オーロラの彩りテント、赤い祝祭電車が、世界の温かな冬祭りをつなぎます。"
+      },
+      "cover": "packs/monthly-12/v2/images/monthly-12-01.webp",
+      "manifest": "packs/monthly-12/v2/manifest.json",
+      "manifestBytes": 6119,
+      "manifestSha256": "5b4e2cb372e8497f97b408d90274617a8a06c25c17c7a0f9f9ad30f9de1babf5",
+      "imageCount": 10,
+      "downloadBytes": 1477456
+    },
+    {
+      "packId": "children-bible",
+      "version": 2,
+      "order": 33,
+      "releasedAt": "2026-07-28T09:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "給孩子的聖經故事",
+        "zh-CN": "给孩子的圣经故事",
+        "en": "Beloved Bible Stories for Children",
+        "ja": "子どもと読む聖書物語"
+      },
+      "description": {
+        "zh-TW": "從挪亞方舟、摩西過紅海到耶穌祝福孩子與復活清晨，以溫暖明亮的圖畫重述十段經典聖經故事。",
+        "zh-CN": "从挪亚方舟、摩西过红海到耶稣祝福孩子与复活清晨，以温暖明亮的图画重述十段经典圣经故事。",
+        "en": "Ten beloved Bible stories—from Noah's Ark and the Red Sea to Jesus welcoming the children and the morning of the Resurrection—are retold in warm, luminous art.",
+        "ja": "ノアの箱舟、紅海を渡るモーセ、子どもたちを祝福するイエス、復活の朝まで、親しまれてきた10の聖書物語を温かな絵で描きます。"
+      },
+      "cover": "packs/children-bible/v2/images/children-bible-01-noahs-ark-rainbow.webp",
+      "manifest": "packs/children-bible/v2/manifest.json",
+      "manifestBytes": 6703,
+      "manifestSha256": "0a3bfa48524bef27afa84b4a0e88e94765211c6731bdf227f6dfa30ff61afb7f",
+      "imageCount": 10,
+      "downloadBytes": 3264966
+    },
+    {
+      "packId": "zodiac",
+      "version": 2,
+      "order": 34,
+      "releasedAt": "2026-07-28T09:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "星座幻境",
+        "zh-CN": "星座幻境",
+        "en": "Zodiac Realms",
+        "ja": "星座の幻想世界"
+      },
+      "description": {
+        "zh-TW": "十二幅以動物、人物與奇幻場景演繹的星座肖像，淡淡星圖在夜空中留下各自的印記。",
+        "zh-CN": "十二幅以动物、人物与奇幻场景演绎的星座肖像，淡淡星图在夜空中留下各自的印记。",
+        "en": "Twelve richly illustrated zodiac portraits told through animals, people, and mythical landscapes, each marked by a subtle constellation in the night sky.",
+        "ja": "動物や人物、幻想風景で十二星座を描き、夜空に淡い星座線を重ねた12枚の物語的コレクション。"
+      },
+      "cover": "packs/zodiac/v2/images/zodiac-01-aries.webp",
+      "manifest": "packs/zodiac/v2/manifest.json",
+      "manifestBytes": 6797,
+      "manifestSha256": "802405f24d3418eb006dcbbcb7575ba1d5ea1e64338e05a8040c9bab4bb8cebd",
+      "imageCount": 12,
+      "downloadBytes": 3165114
+    },
+    {
+      "packId": "plush-toys",
+      "version": 2,
+      "order": 35,
+      "releasedAt": "2026-07-28T09:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "棉花糖玩伴",
+        "zh-CN": "棉花糖玩伴",
+        "en": "Soft Friends for Cozy Days",
+        "ja": "ふわふわ夢の仲間たち"
+      },
+      "description": {
+        "zh-TW": "泰迪熊、垂耳兔、企鵝與小飛龍排排坐好，十位柔軟玩伴為房間添上安心又甜美的童話氣息。",
+        "zh-CN": "泰迪熊、垂耳兔、企鹅与小飞龙排排坐好，十位柔软玩伴为房间添上安心又甜美的童话气息。",
+        "en": "Ten soft companions, from a classic teddy bear to a tiny dragon, fill the room with comfort, sweetness, and a touch of storybook wonder.",
+        "ja": "テディベアやたれ耳ウサギ、ペンギン、小さなドラゴンまで、10体のぬいぐるみが部屋に安心と物語のぬくもりを届けます。"
+      },
+      "cover": "packs/plush-toys/v2/images/plush-toys-01-teddy-bear.webp",
+      "manifest": "packs/plush-toys/v2/manifest.json",
+      "manifestBytes": 6395,
+      "manifestSha256": "92865ce67c341001cf6cc688ebb80124e9873234e03adf50274e625e42a7fa5f",
+      "imageCount": 10,
+      "downloadBytes": 1222016
+    },
+    {
+      "packId": "retro-70s",
+      "version": 2,
+      "order": 36,
+      "releasedAt": "2026-07-28T09:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "橙色年代生活誌",
+        "zh-CN": "橙色年代生活志",
+        "en": "Living in the Seventies",
+        "ja": "懐かしの七〇年代暮らし"
+      },
+      "description": {
+        "zh-TW": "黑膠唱盤、轉盤電話、底片相機與熔岩燈，以十件經典老物重現七〇年代溫暖大膽的居家色彩。",
+        "zh-CN": "黑胶唱盘、转盘电话、胶片相机与熔岩灯，以十件经典老物重现七〇年代温暖大胆的居家色彩。",
+        "en": "Ten iconic objects bring back the bold, warm interiors of the 1970s, from vinyl and rotary phones to film cameras and glowing lava lamps.",
+        "ja": "レコード、ダイヤル電話、フィルムカメラ、溶岩ランプ。10の名品で、温かく大胆な七〇年代の部屋をよみがえらせます。"
+      },
+      "cover": "packs/retro-70s/v2/images/retro-70s-01-vinyl-record-player.webp",
+      "manifest": "packs/retro-70s/v2/manifest.json",
+      "manifestBytes": 6735,
+      "manifestSha256": "9d7496b761fe62f0470a7e8a820b5c92a0226e492c2b1b4d0d2de1ebe8646f36",
+      "imageCount": 10,
+      "downloadBytes": 2497158
+    },
+    {
+      "packId": "eight-bit-games",
+      "version": 2,
+      "order": 37,
+      "releasedAt": "2026-07-28T09:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "像素冒險機台",
+        "zh-CN": "像素冒险街机",
+        "en": "Pixel Arcade Adventures",
+        "ja": "ドット絵アーケード冒険譚"
+      },
+      "description": {
+        "zh-TW": "勇者古堡、星艦彈幕、霓虹賽道與溫暖農場，十種經典玩法化成色彩鮮明的像素遊戲世界。",
+        "zh-CN": "勇者古堡、星舰弹幕、霓虹赛道与温暖农场，十种经典玩法化成色彩鲜明的像素游戏世界。",
+        "en": "Ten colorful pixel worlds celebrate classic game genres, from castle quests and starship barrages to neon racing, farming, puzzles, and fighters.",
+        "ja": "勇者の城、宇宙の弾幕、ネオンのレース、のどかな農場まで、定番ジャンルを鮮やかなドット絵で描いた10のゲーム世界です。"
+      },
+      "cover": "packs/eight-bit-games/v2/images/eight-bit-games-01-fantasy-rpg.webp",
+      "manifest": "packs/eight-bit-games/v2/manifest.json",
+      "manifestBytes": 6595,
+      "manifestSha256": "e8cd10a023f4a0cf635dd6c7e28662c4d6706d465e869c99288d5bf0fd77b096",
+      "imageCount": 10,
+      "downloadBytes": 1444034
+    },
+    {
+      "packId": "adventure-items",
+      "version": 2,
+      "order": 38,
+      "releasedAt": "2026-07-28T09:00:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "勇者祕藏圖鑑",
+        "zh-CN": "勇者秘藏图鉴",
+        "en": "Treasures of the Adventurers' Guild",
+        "ja": "冒険者ギルドの秘宝図鑑"
+      },
+      "description": {
+        "zh-TW": "從戰士的盾劍、法師的星光杖到吟遊詩人的豎琴，十組冒險行囊靜靜訴說各種職業踏上旅途前的故事。",
+        "zh-CN": "从战士的盾剑、法师的星光杖到吟游诗人的竖琴，十组冒险行囊静静诉说各种职业踏上旅途前的故事。",
+        "en": "Ten carefully arranged adventuring kits, from a warrior's battered shield to a bard's traveling harp, hint at the quests waiting beyond the guild hall.",
+        "ja": "戦士の盾と剣、魔法使いの星杖、吟遊詩人の竪琴まで、10組の旅支度がギルドを発つ前の物語を静かに語ります。"
+      },
+      "cover": "packs/adventure-items/v2/images/adventure-items-01-warrior.webp",
+      "manifest": "packs/adventure-items/v2/manifest.json",
+      "manifestBytes": 6632,
+      "manifestSha256": "50b8ee6b0eda5ce8a4cbed48c6dc67d8faf2d6452ee6055830ffa8867f19d5a3",
+      "imageCount": 10,
+      "downloadBytes": 1501476
+    },
+    {
+      "packId": "tiny-dream-homes",
+      "version": 2,
+      "order": 39,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "掌心裡的夢想小屋",
+        "zh-CN": "掌心里的梦想小屋",
+        "en": "Tiny Homes, Grand Dreams",
+        "ja": "手のひらの夢の家"
+      },
+      "description": {
+        "zh-TW": "樹梢祕居、玻璃海屋、沙漠觀星台與雲端木屋，十座小小居所把各種理想生活收進溫暖燈光裡。",
+        "zh-CN": "树梢秘居、玻璃海屋、沙漠观星台与云端木屋，十座小小居所把各种理想生活收进温暖灯光里。",
+        "en": "Ten miniature retreats—from a treetop hideaway to a desert observatory—gather big dreams of quiet living beneath their warmly glowing windows.",
+        "ja": "木の上の隠れ家や海辺のガラス小屋、砂漠の天文台、雲上の山小屋。10軒の小さな住まいが理想の暮らしを灯りの中に包みます。"
+      },
+      "cover": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-01-forest-treehouse.webp",
+      "manifest": "packs/tiny-dream-homes/v2/manifest.json",
+      "manifestBytes": 6803,
+      "manifestSha256": "9f6a5f2d2f9b7a4492a6338e6fa94518e34d4e27ea2a148c9b5047f40d1450cc",
+      "imageCount": 10,
+      "downloadBytes": 1919768
+    },
+    {
+      "packId": "cat-artisan-street",
+      "version": 2,
+      "order": 40,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "貓咪手作街",
+        "zh-CN": "猫咪手作街",
+        "en": "Cat Artisans' Lane",
+        "ja": "猫職人の手仕事通り"
+      },
+      "description": {
+        "zh-TW": "陶藝、麵包、花束與玻璃工藝，十位貓咪職人守著各自的小店，讓整條老街飄散手作的溫度與香氣。",
+        "zh-CN": "陶艺、面包、花束与玻璃工艺，十位猫咪匠人守着各自的小店，让整条老街飘散手作的温度与香气。",
+        "en": "Ten devoted cat artisans shape pottery, bake bread, bind books, blow glass, and keep a charming old lane alive with the warmth of handmade craft.",
+        "ja": "陶芸やパン、花束、本作り、ガラス細工。10匹の猫職人が小さな店を守り、古い通りを手仕事のぬくもりで満たします。"
+      },
+      "cover": "packs/cat-artisan-street/v2/images/cat-artisan-street-01-potter-cat.webp",
+      "manifest": "packs/cat-artisan-street/v2/manifest.json",
+      "manifestBytes": 6921,
+      "manifestSha256": "3c0e6c7cda2cae9edd252876296250e41d48e1cbdf1b3b73af7416d7306bb3f5",
+      "imageCount": 10,
+      "downloadBytes": 1247514
+    },
+    {
+      "packId": "bioluminescent-deep-sea",
+      "version": 2,
+      "order": 41,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "深藍發光奇境",
+        "zh-CN": "深蓝发光奇境",
+        "en": "Wonders of the Luminous Deep",
+        "ja": "深青に光る海の奇境"
+      },
+      "description": {
+        "zh-TW": "燈籠魚游過峽谷，水母照亮穹頂，熱泉與深海珊瑚築成不可思議的藍色世界，邀你潛入十幅幽光祕境。",
+        "zh-CN": "灯笼鱼游过峡谷，水母照亮穹顶，热泉与深海珊瑚筑成不可思议的蓝色世界，邀你潜入十幅幽光秘境。",
+        "en": "Anglerfish, glass squid, glowing jellyfish, and impossible coral cities illuminate ten mysterious scenes hidden in the ocean's deepest blue.",
+        "ja": "チョウチンアンコウやクラゲ、透明なイカ、深海珊瑚の街が光を放ち、海の最も深い青に隠れた10の奇景へ誘います。"
+      },
+      "cover": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-01-anglerfish-canyon.webp",
+      "manifest": "packs/bioluminescent-deep-sea/v2/manifest.json",
+      "manifestBytes": 7235,
+      "manifestSha256": "7cf22a699344b03508257b707e57c3ef6d533d1060066ba541c525a8fa5074b6",
+      "imageCount": 10,
+      "downloadBytes": 1344576
+    },
+    {
+      "packId": "lost-dinosaur-world",
+      "version": 2,
+      "order": 42,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "失落巨獸紀行",
+        "zh-CN": "失落巨兽纪行",
+        "en": "Chronicles of the Lost Giants",
+        "ja": "失われた巨獣紀行"
+      },
+      "description": {
+        "zh-TW": "暴龍迎向黎明、三角龍渡河、翼龍掠過海岸，十段壯闊風景重現恐龍仍漫步大地與海洋的遠古世界。",
+        "zh-CN": "暴龙迎向黎明、三角龙渡河、翼龙掠过海岸，十段壮阔风景重现恐龙仍漫步大地与海洋的远古世界。",
+        "en": "Ten sweeping scenes—from a tyrannosaur at dawn to a mosasaur beneath the waves—reawaken an ancient world ruled by giants of land, sea, and sky.",
+        "ja": "夜明けの暴君竜、川を渡る角竜、海岸を舞う翼竜。陸と海と空を巨獣が支配した太古の世界を10の壮景で描きます。"
+      },
+      "cover": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-01-tyrannosaurus-dawn.webp",
+      "manifest": "packs/lost-dinosaur-world/v2/manifest.json",
+      "manifestBytes": 6999,
+      "manifestSha256": "5d1b6042630fe63153b4cf1d927563c6feadf92bcbb9850b5ed3d1138ef779e3",
+      "imageCount": 10,
+      "downloadBytes": 2427854
+    },
+    {
+      "packId": "magic-academy-day",
+      "version": 2,
+      "order": 43,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "浮空魔法學院日誌",
+        "zh-CN": "浮空魔法学院日记",
+        "en": "A Day at the Skybound Magic Academy",
+        "ja": "空に浮かぶ魔法学院日誌"
+      },
+      "description": {
+        "zh-TW": "從乘船抵達浮空校園，到元素課、飛天掃帚訓練與燈籠畢業夜，十幅畫記下魔法學徒忙碌又閃亮的一天。",
+        "zh-CN": "从乘船抵达浮空校园，到元素课、飞天扫帚训练与灯笼毕业夜，十幅画记下魔法学徒忙碌又闪亮的一天。",
+        "en": "From arrival at a floating campus to elemental lessons, broom practice, hidden archives, and a lantern-lit graduation, ten scenes capture one enchanted school day.",
+        "ja": "空飛ぶ学院への到着から元素の授業、箒の訓練、秘密書庫、灯籠が輝く卒業式まで、魔法の学び舎の一日を10場面で綴ります。"
+      },
+      "cover": "packs/magic-academy-day/v2/images/magic-academy-day-01-floating-campus-arrival.webp",
+      "manifest": "packs/magic-academy-day/v2/manifest.json",
+      "manifestBytes": 7088,
+      "manifestSha256": "d7aa1f34c6f430249bb79521707eb0b667c21b4fa138b7cbbaa6af5d62526aef",
+      "imageCount": 10,
+      "downloadBytes": 1317858
+    },
+    {
+      "packId": "world-night-trains",
+      "version": 2,
+      "order": 44,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "夜行列車夢旅",
+        "zh-CN": "夜行列车梦旅",
+        "en": "Night Trains, Dreaming Worlds",
+        "ja": "夜行列車の夢旅"
+      },
+      "description": {
+        "zh-TW": "沿著月光與星河出發，搭乘十班夜行列車穿越雪山、雨林、海岸、荒漠與極光。",
+        "zh-CN": "沿着月光与星河出发，搭乘十班夜行列车穿越雪山、雨林、海岸、荒漠与极光。",
+        "en": "Ten night trains follow moonlight and starlight across snowy peaks, rainforests, coastlines, deserts, and the aurora.",
+        "ja": "月明かりと星空を道しるべに、10本の夜行列車で雪山、密林、海岸、荒野、オーロラをめぐります。"
+      },
+      "cover": "packs/world-night-trains/v2/images/world-night-trains-01-alpine-sleeper.webp",
+      "manifest": "packs/world-night-trains/v2/manifest.json",
+      "manifestBytes": 6716,
+      "manifestSha256": "61e763d9e033141ecb499194d2dc89edf6b1d0bc81998b3a7478f89a176e5de6",
+      "imageCount": 10,
+      "downloadBytes": 1857708
+    },
+    {
+      "packId": "taiwan-memory-seasons",
+      "version": 2,
+      "order": 45,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "台灣四季舊時光",
+        "zh-CN": "台湾四季旧时光",
+        "en": "Taiwan, Seasons Remembered",
+        "ja": "台湾、四季の記憶"
+      },
+      "description": {
+        "zh-TW": "從春櫻小火車到冬夜溫泉街，以十幅溫柔場景拾起台灣巷弄、田野與山海的季節記憶。",
+        "zh-CN": "从春樱小火车到冬夜温泉街，以十幅温柔场景拾起台湾巷弄、田野与山海的季节记忆。",
+        "en": "Ten tender scenes gather Taiwan's seasonal memories from neighborhood lanes, fields, mountains, and sea, from spring blossoms to a winter hot spring town.",
+        "ja": "春の桜列車から冬夜の温泉街まで、台湾の路地、田園、山と海に宿る季節の記憶を10の情景でたどります。"
+      },
+      "cover": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-01-spring-mountain-railway.webp",
+      "manifest": "packs/taiwan-memory-seasons/v2/manifest.json",
+      "manifestBytes": 6864,
+      "manifestSha256": "bddc0e19d3027c36a870cfe6797057ec7c269665ec8ac6bffd91262a1fcb8d6e",
+      "imageCount": 10,
+      "downloadBytes": 2159036
+    },
+    {
+      "packId": "dessert-fairytale-kingdom",
+      "version": 2,
+      "order": 46,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "甜點童話王國",
+        "zh-CN": "甜点童话王国",
+        "en": "Dessert Fairytale Kingdom",
+        "ja": "お菓子の童話王国"
+      },
+      "description": {
+        "zh-TW": "越過馬卡龍彩虹橋，搭上蛋糕列車，探索由布丁火山、果凍瀉湖與巧克力城鎮築成的甜蜜國度。",
+        "zh-CN": "越过马卡龙彩虹桥，搭上蛋糕列车，探索由布丁火山、果冻潟湖与巧克力城镇筑成的甜蜜国度。",
+        "en": "Cross the macaron rainbow bridge and board the cake train for ten sweet adventures among pudding volcanoes, jelly lagoons, and chocolate towns.",
+        "ja": "マカロンの虹橋を渡り、ケーキ列車に乗って、プリン火山やゼリーの潟湖、チョコレートの街をめぐる10の甘い冒険へ。"
+      },
+      "cover": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-01-macaron-bridge.webp",
+      "manifest": "packs/dessert-fairytale-kingdom/v2/manifest.json",
+      "manifestBytes": 6988,
+      "manifestSha256": "4d9340d5bb5e38f9e66538e3e0e14c198e773644a179a7ca01119e7b2e4f8cbc",
+      "imageCount": 10,
+      "downloadBytes": 1534278
+    },
+    {
+      "packId": "healing-color-journey",
+      "version": 2,
+      "order": 47,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "心色療癒旅程",
+        "zh-CN": "心色疗愈旅程",
+        "en": "A Journey Through Healing Colors",
+        "ja": "心を癒やす色の旅"
+      },
+      "description": {
+        "zh-TW": "讓藍色安定、黃色點亮希望、綠色連起彼此，以十幅柔和水彩走過心裡不同的風景。",
+        "zh-CN": "让蓝色安定、黄色点亮希望、绿色连起彼此，以十幅柔和水彩走过心里不同的风景。",
+        "en": "Ten gentle watercolor landscapes pair color with feeling, from calming blue and hopeful yellow to connecting green and a renewing rainbow.",
+        "ja": "心を落ち着かせる青、希望を灯す黄、絆を結ぶ緑。10のやわらかな水彩風景とともに心の色を旅します。"
+      },
+      "cover": "packs/healing-color-journey/v2/images/healing-color-journey-01-calm-blue-bay.webp",
+      "manifest": "packs/healing-color-journey/v2/manifest.json",
+      "manifestBytes": 6612,
+      "manifestSha256": "20d0a906b06bf03bd48c572f07bc9bfbde29fd17d0c8d424f59d1a234096be26",
+      "imageCount": 10,
+      "downloadBytes": 2306424
+    },
+    {
+      "packId": "future-dream-homes",
+      "version": 2,
+      "order": 48,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "與自然共生的未來居所",
+        "zh-CN": "与自然共生的未来居所",
+        "en": "Homes for a Living Future",
+        "ja": "自然と暮らす未来の家"
+      },
+      "description": {
+        "zh-TW": "從森林玻璃屋到河岸復育宅，十種未來建築讓能源、氣候與生活重新融入自然。",
+        "zh-CN": "从森林玻璃屋到河岸复育宅，十种未来建筑让能源、气候与生活重新融入自然。",
+        "en": "Ten forward-looking homes reconnect energy, climate, and everyday life with nature, from a forest glasshouse to a rewilded river retreat.",
+        "ja": "森のガラス住宅から再生した川辺の家まで、エネルギー、気候、暮らしを自然へつなぎ直す10の未来建築です。"
+      },
+      "cover": "packs/future-dream-homes/v2/images/future-dream-homes-01-forest-glasshouse.webp",
+      "manifest": "packs/future-dream-homes/v2/manifest.json",
+      "manifestBytes": 6768,
+      "manifestSha256": "dd837cc087b62e5a31cedb0ccb097141197cabb964a4a9ed786f50e5b26fc4ac",
+      "imageCount": 10,
+      "downloadBytes": 1933980
+    },
+    {
+      "packId": "xianxia-immortal-realms",
+      "version": 2,
+      "order": 49,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "仙俠雲海秘境",
+        "zh-CN": "仙侠云海秘境",
+        "en": "Immortal Realms Beyond the Clouds",
+        "ja": "雲海に眠る仙境"
+      },
+      "description": {
+        "zh-TW": "御劍穿雲、月瀑靜修、天火鑄劍，十幅水墨仙境展開修行者跨越雷劫、尋道飛升的旅程。",
+        "zh-CN": "御剑穿云、月瀑静修、天火铸剑，十幅水墨仙境展开修行者跨越雷劫、寻道飞升的旅程。",
+        "en": "Ten ink-wash realms follow a cultivator's path through swordflight, moonlit meditation, celestial forging, thunder trials, and final ascension.",
+        "ja": "剣に乗る飛行、月瀑での修行、天火の鍛剣。10の水墨仙境に、雷劫を越えて昇仙を目指す旅が広がります。"
+      },
+      "cover": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-01-cloud-sword-ascent.webp",
+      "manifest": "packs/xianxia-immortal-realms/v2/manifest.json",
+      "manifestBytes": 6774,
+      "manifestSha256": "15e1945dec0554a9ff574e717af85dbc80696803c7e11f0f1d9aeb90e34bf01e",
+      "imageCount": 10,
+      "downloadBytes": 2162410
+    },
+    {
+      "packId": "luxury-beauty-treasures",
+      "version": 2,
+      "order": 50,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "華美妝奩珍藏",
+        "zh-CN": "华美妆奁珍藏",
+        "en": "Luxuries of the Vanity Table",
+        "ja": "華やかな鏡台の宝物"
+      },
+      "description": {
+        "zh-TW": "絲絨、寶石、香水與精緻妝品交映，十幅靜物收藏梳妝時刻裡細膩而耀眼的美。",
+        "zh-CN": "丝绒、宝石、香水与精致妆品交映，十幅静物收藏梳妆时刻里细腻而耀眼的美。",
+        "en": "Ten polished still lifes bring together velvet, gemstones, fragrance, skincare, and makeup in a luminous vanity collection.",
+        "ja": "ベルベット、宝石、香水、化粧品が響き合う、鏡台の繊細な美しさを集めた10の静物画です。"
+      },
+      "cover": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-01-sculpted-lipstick-trio.webp",
+      "manifest": "packs/luxury-beauty-treasures/v2/manifest.json",
+      "manifestBytes": 6977,
+      "manifestSha256": "01d0947114427222d7903a1393f5951d713e4fed5e85d946528069160f30350f",
+      "imageCount": 10,
+      "downloadBytes": 1118266
+    },
+    {
+      "packId": "k-pop-mv-idol-quartet",
+      "version": 2,
+      "order": 51,
+      "releasedAt": "2026-08-08T06:12:00.000Z",
+      "price": 50,
+      "title": {
+        "zh-TW": "韓流四人女團舞台",
+        "zh-CN": "韩流四人女团舞台",
+        "en": "Idol Quartet: Lights, Camera, Dance",
+        "ja": "四人組アイドル、光の舞台へ"
+      },
+      "description": {
+        "zh-TW": "從稜鏡天空、金色鏡廳到霓虹伸展台，十個鏡頭記錄四人女團精準編舞與耀眼舞台魅力。",
+        "zh-CN": "从棱镜天空、金色镜厅到霓虹伸展台，十个镜头记录四人女团精准编舞与耀眼舞台魅力。",
+        "en": "Ten music-video moments follow an idol quartet through prism skies, golden mirror rooms, neon runways, and a blazing finale.",
+        "ja": "プリズムの空、金色の鏡の間、ネオンの花道。4人組アイドルの息の合った振り付けと輝く舞台を10の場面で描きます。"
+      },
+      "cover": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-01-prism-sky-formation.webp",
+      "manifest": "packs/k-pop-mv-idol-quartet/v2/manifest.json",
+      "manifestBytes": 7007,
+      "manifestSha256": "26c087c7c73360f75c0d9832d3869e229a2ee2762987f14e57159eec180ecd7a",
+      "imageCount": 10,
+      "downloadBytes": 1013136
+    }
+  ]
+}

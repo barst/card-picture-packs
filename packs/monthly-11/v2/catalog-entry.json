@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-11",
+  "version": 2,
+  "order": 31,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "十一月・秋境冒險",
+    "zh-CN": "十一月・秋境冒险",
+    "en": "November · Adventure in the Autumn Realm",
+    "ja": "11月・秋の異世界冒険"
+  },
+  "description": {
+    "zh-TW": "苔石拱橋、浮空城堡、霜藍巨龍與秋帆飛船化為異世界地標，用單一大型主體展開十一月冒險。",
+    "zh-CN": "苔石拱桥、浮空城堡、霜蓝巨龙与秋帆飞船化为异世界地标，用单一大型主体展开十一月冒险。",
+    "en": "A mossy bridge, floating citadel, frost-blue dragon, and autumn-sailed airship become bold landmarks in November's otherworldly adventure.",
+    "ja": "苔むす石橋、浮遊城、霜青の巨龍、秋色の帆を掲げる飛行船が、11月の異世界冒険を象徴する大きな主役です。"
+  },
+  "cover": "packs/monthly-11/v2/images/monthly-11-01.webp",
+  "manifest": "packs/monthly-11/v2/manifest.json",
+  "manifestBytes": 6059,
+  "manifestSha256": "d3e59d405bbb93cc78352c50b9600bf28d30f7cceff4f8df01c2c6b448804050",
+  "imageCount": 10,
+  "downloadBytes": 1828926
+}

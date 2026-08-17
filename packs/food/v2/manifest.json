@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "food",
+  "version": 2,
+  "order": 4,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "世界好味巡禮",
+    "zh-CN": "世界美味巡礼",
+    "en": "A World of Signature Flavors",
+    "ja": "世界の名物料理めぐり"
+  },
+  "description": {
+    "zh-TW": "從台灣晨間蛋餅到四川麻辣火鍋，以十道代表料理走訪亞洲、歐洲與美洲的餐桌。",
+    "zh-CN": "从台湾晨间蛋饼到四川麻辣火锅，以十道代表料理走访亚洲、欧洲与美洲的餐桌。",
+    "en": "Ten signature dishes journey across the tables of Asia, Europe, and the Americas, from a Taiwanese breakfast to Sichuan hot pot.",
+    "ja": "台湾の朝ごはんから四川の麻辣火鍋まで、アジア・ヨーロッパ・アメリカを代表する10の料理をめぐります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "food-01-taiwan-breakfast",
+  "images": [
+    {
+      "id": "food-01-taiwan-breakfast",
+      "file": "packs/food/v2/images/food-01-taiwan-breakfast.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 101652,
+      "sha256": "ad8954c16794adbca7dc4fcc8e58dc595114c4b6fc9ec04a3b7ab9c7734ac7db",
+      "name": {
+        "zh-TW": "晨光蛋餅與豆漿",
+        "zh-CN": "晨光蛋饼与豆浆",
+        "en": "Morning Egg Crepe and Soy Milk",
+        "ja": "朝のダンピンと豆乳"
+      }
+    },
+    {
+      "id": "food-02-sushi",
+      "file": "packs/food/v2/images/food-02-sushi.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 125176,
+      "sha256": "3e1fa56ec42764c402b29facf89474a69e34d2a382e265a1b7b27dfe19539c48",
+      "name": {
+        "zh-TW": "海風鮨彩",
+        "zh-CN": "海风寿司彩盘",
+        "en": "Sea-Breeze Sushi",
+        "ja": "海風の寿司"
+      }
+    },
+    {
+      "id": "food-03-italian-pasta",
+      "file": "packs/food/v2/images/food-03-italian-pasta.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 185134,
+      "sha256": "24275497c43cd2b8927dc2b82bbe41453a3588eb800cbf9552b3ac354f2a473f",
+      "name": {
+        "zh-TW": "番茄羅勒慢煮麵",
+        "zh-CN": "番茄罗勒慢煮面",
+        "en": "Slow-Cooked Tomato Basil Pasta",
+        "ja": "トマトとバジルのパスタ"
+      }
+    },
+    {
+      "id": "food-04-french-desserts",
+      "file": "packs/food/v2/images/food-04-french-desserts.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 142344,
+      "sha256": "017aadb5b9cb428735379c00610ce6b507c69e0908539804bf1ccc941649667c",
+      "name": {
+        "zh-TW": "巴黎莓果千層酥",
+        "zh-CN": "巴黎莓果千层酥",
+        "en": "Parisian Berry Mille-Feuille",
+        "ja": "パリのベリーミルフィーユ"
+      }
+    },
+    {
+      "id": "food-05-korean-bbq",
+      "file": "packs/food/v2/images/food-05-korean-bbq.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 227858,
+      "sha256": "f81b2933d02a1a030703d95f9f4c4911e0008e0ede6c1d2ffe9e958b5a3ac118",
+      "name": {
+        "zh-TW": "首爾炭火韓式烤肉",
+        "zh-CN": "首尔炭火韩式烤肉",
+        "en": "Seoul Charcoal Barbecue",
+        "ja": "ソウルの炭火焼肉"
+      }
+    },
+    {
+      "id": "food-06-indian-curry",
+      "file": "packs/food/v2/images/food-06-indian-curry.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 229004,
+      "sha256": "624897da2d137bc097bf0ce5f5a48150dbe3b08a233c8ee20adaf963b35f6c5f",
+      "name": {
+        "zh-TW": "德里奶油香料咖哩",
+        "zh-CN": "德里奶油香料咖喱",
+        "en": "Delhi Butter Masala Curry",
+        "ja": "デリーのバターマサラカレー"
+      }
+    },
+    {
+      "id": "food-07-mexican-tacos",
+      "file": "packs/food/v2/images/food-07-mexican-tacos.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 297740,
+      "sha256": "8da811c621b9ee468b8a214d44bc2b2f6a45b1efa8cd2552aaa84a7568087ea1",
+      "name": {
+        "zh-TW": "墨西哥城街角塔可",
+        "zh-CN": "墨西哥城街角塔可",
+        "en": "Mexico City Street Tacos",
+        "ja": "メキシコシティの屋台タコス"
+      }
+    },
+    {
+      "id": "food-08-fruit-market",
+      "file": "packs/food/v2/images/food-08-fruit-market.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 281116,
+      "sha256": "79f66387782b5b7ec0366a129502ad48fa12d32215c05a11ccfc8903f9706e44",
+      "name": {
+        "zh-TW": "瓦倫西亞海鮮飯",
+        "zh-CN": "瓦伦西亚海鲜饭",
+        "en": "Valencian Seafood Paella",
+        "ja": "バレンシアの海鮮パエリア"
+      }
+    },
+    {
+      "id": "food-09-bakery",
+      "file": "packs/food/v2/images/food-09-bakery.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 169294,
+      "sha256": "f42ba8ae0280eedcbcb5015e4688b8e28f3ed2bee4411767f2018997ac8a5cb5",
+      "name": {
+        "zh-TW": "伊斯坦堡芝麻圈早餐",
+        "zh-CN": "伊斯坦布尔芝麻圈早餐",
+        "en": "Istanbul Simit Breakfast",
+        "ja": "イスタンブールのシミット朝食"
+      }
+    },
+    {
+      "id": "food-10-hotpot",
+      "file": "packs/food/v2/images/food-10-hotpot.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 236834,
+      "sha256": "044002896aeee4292fd1b1060d888816020e5b09e5dfbb40c8d76533782f71e3",
+      "name": {
+        "zh-TW": "成都紅油麻辣火鍋",
+        "zh-CN": "成都红油麻辣火锅",
+        "en": "Chengdu Mala Hot Pot",
+        "ja": "成都の麻辣火鍋"
+      }
+    }
+  ]
+}

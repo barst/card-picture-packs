@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-04",
+  "version": 2,
+  "order": 24,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "四月・雨城夜曲",
+    "zh-CN": "四月・雨城夜曲",
+    "en": "April · Nocturne in the Rain",
+    "ja": "4月・雨街の夜想曲"
+  },
+  "description": {
+    "zh-TW": "以低音提琴、復古戲院、拉麵攤與黃雨傘為畫面主角，讓四月城市的雨聲化成一首溫柔夜曲。",
+    "zh-CN": "以低音提琴、复古影院、拉面摊与黄雨伞为画面主角，让四月城市的雨声化成一首温柔夜曲。",
+    "en": "A double bass, vintage cinema, ramen stall, and yellow umbrella become bold focal points as April rain turns the city into a gentle nocturne.",
+    "ja": "コントラバス、レトロ映画館、屋台のラーメン、黄色い傘を主役に、4月の雨音が街の優しい夜想曲へと変わります。"
+  },
+  "cover": "packs/monthly-04/v2/images/monthly-04-01.webp",
+  "manifest": "packs/monthly-04/v2/manifest.json",
+  "manifestBytes": 6096,
+  "manifestSha256": "81d3d713bdea8d585df25719d9f8014dbade9e95570a4f95761c10d05e090504",
+  "imageCount": 10,
+  "downloadBytes": 1748092
+}

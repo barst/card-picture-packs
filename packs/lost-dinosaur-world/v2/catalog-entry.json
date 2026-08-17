@@ -1,0 +1,25 @@
+{
+  "packId": "lost-dinosaur-world",
+  "version": 2,
+  "order": 42,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "失落巨獸紀行",
+    "zh-CN": "失落巨兽纪行",
+    "en": "Chronicles of the Lost Giants",
+    "ja": "失われた巨獣紀行"
+  },
+  "description": {
+    "zh-TW": "暴龍迎向黎明、三角龍渡河、翼龍掠過海岸，十段壯闊風景重現恐龍仍漫步大地與海洋的遠古世界。",
+    "zh-CN": "暴龙迎向黎明、三角龙渡河、翼龙掠过海岸，十段壮阔风景重现恐龙仍漫步大地与海洋的远古世界。",
+    "en": "Ten sweeping scenes—from a tyrannosaur at dawn to a mosasaur beneath the waves—reawaken an ancient world ruled by giants of land, sea, and sky.",
+    "ja": "夜明けの暴君竜、川を渡る角竜、海岸を舞う翼竜。陸と海と空を巨獣が支配した太古の世界を10の壮景で描きます。"
+  },
+  "cover": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-01-tyrannosaurus-dawn.webp",
+  "manifest": "packs/lost-dinosaur-world/v2/manifest.json",
+  "manifestBytes": 6999,
+  "manifestSha256": "5d1b6042630fe63153b4cf1d927563c6feadf92bcbb9850b5ed3d1138ef779e3",
+  "imageCount": 10,
+  "downloadBytes": 2427854
+}

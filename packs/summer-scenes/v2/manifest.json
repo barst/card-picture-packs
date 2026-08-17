@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "summer-scenes",
+  "version": 2,
+  "order": 18,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "盛夏物語",
+    "zh-CN": "盛夏物语",
+    "en": "Stories of High Summer",
+    "ja": "盛夏の物語"
+  },
+  "description": {
+    "zh-TW": "沿著鄉間鐵道、海邊坡道與向日葵田，收藏戲水、刨冰、驟雨和煙火綻放的青春夏日。",
+    "zh-CN": "沿着乡间铁路、海边坡道与向日葵田，收藏戏水、刨冰、骤雨和烟火绽放的青春夏日。",
+    "en": "A nostalgic summer unfolds along rural rails and seaside lanes, filled with water play, shaved ice, sudden rain, sunflowers, and fireworks.",
+    "ja": "田園の線路や海辺の坂道を舞台に、水遊び、かき氷、夕立、ひまわり、花火を描く懐かしい夏の物語です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "summer-scenes-01-train",
+  "images": [
+    {
+      "id": "summer-scenes-01-train",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-01-train.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 190566,
+      "sha256": "d976c0850e16caaa052e0e2547ee0b8ccf9ea9c3bdf55f8add61c9425f1dbfe1",
+      "name": {
+        "zh-TW": "藍天下的鄉間平交道",
+        "zh-CN": "蓝天下的乡间道口",
+        "en": "Rural Crossing under a Summer Sky",
+        "ja": "夏空の田園踏切"
+      }
+    },
+    {
+      "id": "summer-scenes-02-shrine",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-02-shrine.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 255322,
+      "sha256": "6be8f8f85144c554a516d1468d4df3549d609ca87de3588c314817ecadffb0ce",
+      "name": {
+        "zh-TW": "神社石階的清涼水戰",
+        "zh-CN": "神社石阶的清凉水战",
+        "en": "Water Fight on the Shrine Steps",
+        "ja": "神社の石段で水遊び"
+      }
+    },
+    {
+      "id": "summer-scenes-03-seaside",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-03-seaside.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 229336,
+      "sha256": "041d2ca791caa0047d7bad724a96b4bfd0cf2882d91d946dffbe1bc6c9d1f1f7",
+      "name": {
+        "zh-TW": "海風裡的放學坡道",
+        "zh-CN": "海风里的放学坡道",
+        "en": "After School on the Seaside Hill",
+        "ja": "潮風薫る放課後の坂道"
+      }
+    },
+    {
+      "id": "summer-scenes-04-classroom",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-04-classroom.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 161200,
+      "sha256": "2714188c8a212f53117576c6b775b7ade2fe74986bb4dcc8fd3ea5d740d2e6b1",
+      "name": {
+        "zh-TW": "蟬鳴午後的空教室",
+        "zh-CN": "蝉鸣午后的空教室",
+        "en": "Empty Classroom on a Cicada Afternoon",
+        "ja": "蝉時雨の午後の教室"
+      }
+    },
+    {
+      "id": "summer-scenes-05-insects",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-05-insects.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 253244,
+      "sha256": "8a9debb9b8afc9a33b50bab3663931ca0d89a6dbfa4dfd71215b5f52a2a91d2a",
+      "name": {
+        "zh-TW": "竹林裡的捕蟲隊",
+        "zh-CN": "竹林里的捕虫队",
+        "en": "Bug Hunt in the Bamboo Grove",
+        "ja": "竹林の虫捕り隊"
+      }
+    },
+    {
+      "id": "summer-scenes-06-shaved-ice",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-06-shaved-ice.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 208788,
+      "sha256": "bf3d643866acc032da10a8f072bb6c71c07319e6fda5362047de83a2582ffe71",
+      "name": {
+        "zh-TW": "小站月台的刨冰時光",
+        "zh-CN": "小站站台的刨冰时光",
+        "en": "Shaved Ice at the Country Station",
+        "ja": "田舎駅のかき氷"
+      }
+    },
+    {
+      "id": "summer-scenes-07-rain",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-07-rain.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 168928,
+      "sha256": "14dcf274d168ad42ce5045317fb2dfeef0484598332e78efa88905470c79dd15",
+      "name": {
+        "zh-TW": "巷弄驟雨共傘",
+        "zh-CN": "巷弄骤雨共伞",
+        "en": "Sharing an Umbrella in a Summer Shower",
+        "ja": "夕立の路地で相合傘"
+      }
+    },
+    {
+      "id": "summer-scenes-08-watermelon",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-08-watermelon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 249602,
+      "sha256": "c24597e43dbd78f0792b09daf49804a82bdbdfbeea645a9ea939295fbebe5645",
+      "name": {
+        "zh-TW": "紫陽花庭院的西瓜午後",
+        "zh-CN": "绣球花庭院的西瓜午后",
+        "en": "Watermelon Afternoon by the Hydrangeas",
+        "ja": "紫陽花の縁側で西瓜"
+      }
+    },
+    {
+      "id": "summer-scenes-09-sunflower",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-09-sunflower.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 218142,
+      "sha256": "895385a36a81ca8311122e0eee64408cd1f81bd304ba2db97737f8f3361cc920",
+      "name": {
+        "zh-TW": "穿越向日葵奔向大海",
+        "zh-CN": "穿过向日葵奔向大海",
+        "en": "Running through Sunflowers to the Sea",
+        "ja": "ひまわり畑を抜けて海へ"
+      }
+    },
+    {
+      "id": "summer-scenes-10-fireworks",
+      "file": "packs/summer-scenes/v2/images/summer-scenes-10-fireworks.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 154710,
+      "sha256": "69f13da4009d5991dee0325c5d88526ff8a7eaf7a3eeb67c04d0422b635d7e12",
+      "name": {
+        "zh-TW": "河畔祭典的夏夜煙火",
+        "zh-CN": "河畔祭典的夏夜烟火",
+        "en": "Summer Fireworks by the River",
+        "ja": "川辺の夏祭り花火"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "oil",
+  "version": 2,
+  "order": 1,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "title": {
+    "zh-TW": "光影油彩藝廊",
+    "zh-CN": "光影油彩艺廊",
+    "en": "Gallery of Light and Oil",
+    "ja": "光と色彩の油絵ギャラリー"
+  },
+  "description": {
+    "zh-TW": "船港、花園、雪街與神話盛宴在厚實筆觸中緩緩展開，收藏十幅橫跨風景、人物與靜物的油彩故事。",
+    "zh-CN": "船港、花园、雪街与神话盛宴在厚实笔触中缓缓展开，收藏十幅横跨风景、人物与静物的油彩故事。",
+    "en": "Ten richly painted scenes move from harbor and orchard to snowy streets and a mythic feast, celebrating landscape, portrait, and still life.",
+    "ja": "港や果樹園、雪の街、神話の宴まで、風景・人物・静物を豊かな筆致で描いた10枚の油彩作品です。"
+  },
+  "cover": "packs/oil/v2/images/oil-01-harbor.webp",
+  "manifest": "packs/oil/v2/manifest.json",
+  "manifestBytes": 6076,
+  "manifestSha256": "f4c3cb197b047fc0884e9ec98a9d8f9998d95b46165a6dfe225ad9a01c89c227",
+  "imageCount": 10,
+  "downloadBytes": 2590994
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "healing-color-journey",
+  "version": 2,
+  "order": 47,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "心色療癒旅程",
+    "zh-CN": "心色疗愈旅程",
+    "en": "A Journey Through Healing Colors",
+    "ja": "心を癒やす色の旅"
+  },
+  "description": {
+    "zh-TW": "讓藍色安定、黃色點亮希望、綠色連起彼此，以十幅柔和水彩走過心裡不同的風景。",
+    "zh-CN": "让蓝色安定、黄色点亮希望、绿色连起彼此，以十幅柔和水彩走过心里不同的风景。",
+    "en": "Ten gentle watercolor landscapes pair color with feeling, from calming blue and hopeful yellow to connecting green and a renewing rainbow.",
+    "ja": "心を落ち着かせる青、希望を灯す黄、絆を結ぶ緑。10のやわらかな水彩風景とともに心の色を旅します。"
+  },
+  "cover": "packs/healing-color-journey/v2/images/healing-color-journey-01-calm-blue-bay.webp",
+  "manifest": "packs/healing-color-journey/v2/manifest.json",
+  "manifestBytes": 6612,
+  "manifestSha256": "20d0a906b06bf03bd48c572f07bc9bfbde29fd17d0c8d424f59d1a234096be26",
+  "imageCount": 10,
+  "downloadBytes": 2306424
+}

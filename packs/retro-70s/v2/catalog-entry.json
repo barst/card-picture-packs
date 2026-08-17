@@ -1,0 +1,25 @@
+{
+  "packId": "retro-70s",
+  "version": 2,
+  "order": 36,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "橙色年代生活誌",
+    "zh-CN": "橙色年代生活志",
+    "en": "Living in the Seventies",
+    "ja": "懐かしの七〇年代暮らし"
+  },
+  "description": {
+    "zh-TW": "黑膠唱盤、轉盤電話、底片相機與熔岩燈，以十件經典老物重現七〇年代溫暖大膽的居家色彩。",
+    "zh-CN": "黑胶唱盘、转盘电话、胶片相机与熔岩灯，以十件经典老物重现七〇年代温暖大胆的居家色彩。",
+    "en": "Ten iconic objects bring back the bold, warm interiors of the 1970s, from vinyl and rotary phones to film cameras and glowing lava lamps.",
+    "ja": "レコード、ダイヤル電話、フィルムカメラ、溶岩ランプ。10の名品で、温かく大胆な七〇年代の部屋をよみがえらせます。"
+  },
+  "cover": "packs/retro-70s/v2/images/retro-70s-01-vinyl-record-player.webp",
+  "manifest": "packs/retro-70s/v2/manifest.json",
+  "manifestBytes": 6735,
+  "manifestSha256": "9d7496b761fe62f0470a7e8a820b5c92a0226e492c2b1b4d0d2de1ebe8646f36",
+  "imageCount": 10,
+  "downloadBytes": 2497158
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "taiwan-snacks",
+  "version": 2,
+  "order": 12,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "島嶼夜市好味",
+    "zh-CN": "岛屿夜市好味",
+    "en": "Flavors of Taiwan's Night Markets",
+    "ja": "台湾夜市の味めぐり"
+  },
+  "description": {
+    "zh-TW": "從蚵仔煎、臭豆腐到珍珠奶茶，收進十道飄著熱氣與人情味的台灣街頭美食。",
+    "zh-CN": "从蚵仔煎、臭豆腐到珍珠奶茶，收进十道飘着热气与人情味的台湾街头美食。",
+    "en": "Ten beloved Taiwanese street foods, rich with night-market warmth, from oyster omelets and stinky tofu to bubble tea.",
+    "ja": "カキオムレツや臭豆腐、タピオカミルクティーまで、夜市の活気とぬくもりを感じる台湾屋台グルメ10品です。"
+  },
+  "cover": "packs/taiwan-snacks/v2/images/taiwan-snacks-01-oyster-omelet.webp",
+  "manifest": "packs/taiwan-snacks/v2/manifest.json",
+  "manifestBytes": 6340,
+  "manifestSha256": "828f7d93ad2faa9786118c2d4f57c4d5513ecf049c3ee5f1358eaefb1abd1467",
+  "imageCount": 10,
+  "downloadBytes": 1637454
+}

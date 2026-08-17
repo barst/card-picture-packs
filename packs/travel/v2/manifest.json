@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "travel",
+  "version": 2,
+  "order": 0,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "萬里風光",
+    "zh-CN": "万里风光",
+    "en": "Wonders Across the World",
+    "ja": "世界をめぐる絶景"
+  },
+  "description": {
+    "zh-TW": "從太魯閣的晨光峽谷到巴塔哥尼亞的燃霞群峰，沿著山海、古城與荒漠收藏十段壯麗旅程。",
+    "zh-CN": "从太鲁阁的晨光峡谷到巴塔哥尼亚的燃霞群峰，沿着山海、古城与荒漠收藏十段壮丽旅程。",
+    "en": "Ten breathtaking journeys cross gorges, ancient paths, alpine lakes, deserts, and distant coasts from Taroko to Patagonia.",
+    "ja": "太魯閣の朝焼けの峡谷からパタゴニアの燃える峰々まで、山海や古都、砂漠をめぐる10の絶景旅です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "travel-01-taroko",
+  "images": [
+    {
+      "id": "travel-01-taroko",
+      "file": "packs/travel/v2/images/travel-01-taroko.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 376288,
+      "sha256": "c6b1ab6b8361be9e6c3cd6d629ee5d10d84da10c4811f0158cb17cbfbb82eb9f",
+      "name": {
+        "zh-TW": "太魯閣峽谷晨光",
+        "zh-CN": "太鲁阁峡谷晨光",
+        "en": "Dawn over Taroko Gorge",
+        "ja": "朝日に輝く太魯閣峡谷"
+      }
+    },
+    {
+      "id": "travel-02-kyoto",
+      "file": "packs/travel/v2/images/travel-02-kyoto.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 478190,
+      "sha256": "b0db316ed248f23e17019fdcde26cf4b3341846bb68d320a9b7971d0f5df1ef4",
+      "name": {
+        "zh-TW": "京都千本鳥居秋色",
+        "zh-CN": "京都千本鸟居秋色",
+        "en": "Autumn at Kyoto's Thousand Torii",
+        "ja": "京都・千本鳥居の秋"
+      }
+    },
+    {
+      "id": "travel-03-swiss-alps",
+      "file": "packs/travel/v2/images/travel-03-swiss-alps.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 325378,
+      "sha256": "1744acfbca5a1fa09e38790b02fa587e1626f987b74cfd88b0eada89662b9d64",
+      "name": {
+        "zh-TW": "瑞士高山湖畔小屋",
+        "zh-CN": "瑞士高山湖畔小屋",
+        "en": "Lakeside Chalet in the Swiss Alps",
+        "ja": "スイスアルプスの湖畔小屋"
+      }
+    },
+    {
+      "id": "travel-04-santorini",
+      "file": "packs/travel/v2/images/travel-04-santorini.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 142224,
+      "sha256": "f44c1c7245f69f200f5b038723b6b45a97c2cb8896e01e7dd19f3cbb7d2c9189",
+      "name": {
+        "zh-TW": "聖托里尼藍頂夕照",
+        "zh-CN": "圣托里尼蓝顶夕照",
+        "en": "Santorini Blue Domes at Sunset",
+        "ja": "夕日に染まるサントリーニ"
+      }
+    },
+    {
+      "id": "travel-05-iceland",
+      "file": "packs/travel/v2/images/travel-05-iceland.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 76264,
+      "sha256": "3eb33777390e2bf1d85f093203f4bf22ad0edc471c5859d1317d4bd45f83762e",
+      "name": {
+        "zh-TW": "冰島黑沙灘海蝕柱",
+        "zh-CN": "冰岛黑沙滩海蚀柱",
+        "en": "Sea Stacks on Iceland's Black Shore",
+        "ja": "アイスランド黒砂海岸の奇岩"
+      }
+    },
+    {
+      "id": "travel-06-sahara",
+      "file": "packs/travel/v2/images/travel-06-sahara.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 86528,
+      "sha256": "9cb3b46c4883dd994f4c8155e731fcf95066241f8bf01a2813bf0949565e4ef6",
+      "name": {
+        "zh-TW": "撒哈拉落日駝隊",
+        "zh-CN": "撒哈拉落日驼队",
+        "en": "Sahara Caravan at Sunset",
+        "ja": "サハラ砂漠の夕暮れキャラバン"
+      }
+    },
+    {
+      "id": "travel-07-new-zealand",
+      "file": "packs/travel/v2/images/travel-07-new-zealand.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 175066,
+      "sha256": "85dea16395538dffe2e770e5b7b00174eb04fd715ff86911f4e22a484e278ff6",
+      "name": {
+        "zh-TW": "紐西蘭雙瀑秘境",
+        "zh-CN": "新西兰双瀑秘境",
+        "en": "Hidden Twin Falls of New Zealand",
+        "ja": "ニュージーランドの双瀑"
+      }
+    },
+    {
+      "id": "travel-08-canadian-rockies",
+      "file": "packs/travel/v2/images/travel-08-canadian-rockies.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 268932,
+      "sha256": "1ca267961338c4f10eb57e67fead7dd802559e1acfdae7293eb617a0a08494f1",
+      "name": {
+        "zh-TW": "加拿大洛磯山秋湖",
+        "zh-CN": "加拿大落基山秋湖",
+        "en": "Autumn Lake in the Canadian Rockies",
+        "ja": "カナディアンロッキーの秋湖"
+      }
+    },
+    {
+      "id": "travel-09-ha-long-bay",
+      "file": "packs/travel/v2/images/travel-09-ha-long-bay.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 88620,
+      "sha256": "0f4188a8bc3f0d530fb9ecbb531cfa7e0ae2bec5d8d58d5bbcbea301c26cb93b",
+      "name": {
+        "zh-TW": "下龍灣薄霧輕舟",
+        "zh-CN": "下龙湾薄雾轻舟",
+        "en": "Quiet Boat in Misty Ha Long Bay",
+        "ja": "霧のハロン湾を行く小舟"
+      }
+    },
+    {
+      "id": "travel-10-patagonia",
+      "file": "packs/travel/v2/images/travel-10-patagonia.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 220938,
+      "sha256": "2882c9b904f861961d360cdaa5088bf3258defbe6342ab9055e318780b3f6abc",
+      "name": {
+        "zh-TW": "巴塔哥尼亞燃霞群峰",
+        "zh-CN": "巴塔哥尼亚燃霞群峰",
+        "en": "Flaming Peaks of Patagonia",
+        "ja": "朝焼けに燃えるパタゴニアの峰"
+      }
+    }
+  ]
+}

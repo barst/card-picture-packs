@@ -1,0 +1,25 @@
+{
+  "packId": "space",
+  "version": 2,
+  "order": 7,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "title": {
+    "zh-TW": "星海遠航",
+    "zh-CN": "星海远航",
+    "en": "Voyage across the Star Ocean",
+    "ja": "星の海への航海"
+  },
+  "description": {
+    "zh-TW": "從地球軌道啟程，探訪月球基地、火星荒原與遙遠星系；十幅宇宙景象收藏人類仰望未知的壯闊想像。",
+    "zh-CN": "从地球轨道启程，探访月球基地、火星荒原与遥远星系；十幅宇宙景象收藏人类仰望未知的壮阔想象。",
+    "en": "A ten-scene voyage departs Earth orbit for lunar bases, Martian plains, distant worlds, vast galaxies, and the bright edge of discovery.",
+    "ja": "地球軌道を出発し、月面基地、火星の大地、遠い惑星や銀河をめぐる、未知への憧れを描いた10の宇宙景観です。"
+  },
+  "cover": "packs/space/v2/images/space-01-earth-orbit.webp",
+  "manifest": "packs/space/v2/manifest.json",
+  "manifestBytes": 6273,
+  "manifestSha256": "230af1ffbb7cb16331ae80c5932b1647b8d30bbf81931a5c2cd6569f70bdb64f",
+  "imageCount": 10,
+  "downloadBytes": 1140870
+}

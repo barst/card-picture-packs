@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "world-night-trains",
+  "version": 2,
+  "order": 44,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "夜行列車夢旅",
+    "zh-CN": "夜行列车梦旅",
+    "en": "Night Trains, Dreaming Worlds",
+    "ja": "夜行列車の夢旅"
+  },
+  "description": {
+    "zh-TW": "沿著月光與星河出發，搭乘十班夜行列車穿越雪山、雨林、海岸、荒漠與極光。",
+    "zh-CN": "沿着月光与星河出发，搭乘十班夜行列车穿越雪山、雨林、海岸、荒漠与极光。",
+    "en": "Ten night trains follow moonlight and starlight across snowy peaks, rainforests, coastlines, deserts, and the aurora.",
+    "ja": "月明かりと星空を道しるべに、10本の夜行列車で雪山、密林、海岸、荒野、オーロラをめぐります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "world-night-trains-01-alpine-sleeper",
+  "images": [
+    {
+      "id": "world-night-trains-01-alpine-sleeper",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-01-alpine-sleeper.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 229074,
+      "sha256": "b88b87841e59d05977a941136228718b0e5d4a105b9b59937c9e20eb7d172c07",
+      "name": {
+        "zh-TW": "月照阿爾卑斯臥鋪列車",
+        "zh-CN": "月照阿尔卑斯卧铺列车",
+        "en": "Moonlit Alpine Sleeper",
+        "ja": "月明かりのアルプス寝台列車"
+      }
+    },
+    {
+      "id": "world-night-trains-02-taiwan-mountain-railway",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-02-taiwan-mountain-railway.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 132064,
+      "sha256": "14bdc962623652ea3e511beb218c131b7ab82e59797fbee47376ee26e2023f77",
+      "name": {
+        "zh-TW": "月台等候的台灣山岳列車",
+        "zh-CN": "月台等候的台湾山岳列车",
+        "en": "Taiwan Mountain Train at the Platform",
+        "ja": "月夜の台湾山岳鉄道"
+      }
+    },
+    {
+      "id": "world-night-trains-03-desert-starlight",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-03-desert-starlight.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 187710,
+      "sha256": "5c7ca78ef1f5b31f853b4c635ec0d371e1811e0ff6772863226f988d21b78558",
+      "name": {
+        "zh-TW": "星夜穿越紅岩荒漠",
+        "zh-CN": "星夜穿越红岩荒漠",
+        "en": "Starlight Express Across the Red Desert",
+        "ja": "星空の赤い荒野を行く列車"
+      }
+    },
+    {
+      "id": "world-night-trains-04-aurora-glass-dome",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-04-aurora-glass-dome.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 221434,
+      "sha256": "891b6ff390be9ac36483ef00fe9325f9c654269ca2eddd8d13efcf5865e01de9",
+      "name": {
+        "zh-TW": "極光下的玻璃穹頂列車",
+        "zh-CN": "极光下的玻璃穹顶列车",
+        "en": "Glass-Dome Train Beneath the Aurora",
+        "ja": "オーロラを仰ぐ展望列車"
+      }
+    },
+    {
+      "id": "world-night-trains-05-coastal-moonline",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-05-coastal-moonline.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 165200,
+      "sha256": "9157d3640fe6a487726ffbc8dc8849439402de5d597d31f2b7326728d40f3120",
+      "name": {
+        "zh-TW": "月光海岸線",
+        "zh-CN": "月光海岸线",
+        "en": "Moonlit Coastal Railway",
+        "ja": "月光の海岸線"
+      }
+    },
+    {
+      "id": "world-night-trains-06-monsoon-jungle",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-06-monsoon-jungle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 185414,
+      "sha256": "7e1841ba7cafb6461e97356bfa567794e465d8a5b68427d35d7a105adab7169e",
+      "name": {
+        "zh-TW": "季風雨林夜行號",
+        "zh-CN": "季风雨林夜行号",
+        "en": "Night Train Through the Monsoon Jungle",
+        "ja": "モンスーンの密林を走る夜行列車"
+      }
+    },
+    {
+      "id": "world-night-trains-07-snow-village-stop",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-07-snow-village-stop.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 154982,
+      "sha256": "4ac6d18b7f5fa7b8d0d36e61badfd3833f1d53e5c14aa6bf14171d3a456fcbc4",
+      "name": {
+        "zh-TW": "雪村小站的夜班車",
+        "zh-CN": "雪村小站的夜班车",
+        "en": "Night Train at a Snowy Village Stop",
+        "ja": "雪の村駅に停まる夜行列車"
+      }
+    },
+    {
+      "id": "world-night-trains-08-lavender-twilight",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-08-lavender-twilight.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 157554,
+      "sha256": "5787e081ebf180e0ae3e4510860ea967b52e32749e14ee56c7ef0d3bb1efe10e",
+      "name": {
+        "zh-TW": "薰衣草暮光列車",
+        "zh-CN": "薰衣草暮光列车",
+        "en": "Lavender Twilight Limited",
+        "ja": "ラベンダー畑の黄昏列車"
+      }
+    },
+    {
+      "id": "world-night-trains-09-red-canyon-bridge",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-09-red-canyon-bridge.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 231122,
+      "sha256": "45ac93507bc8a4ddc4e4a16b9b2d1ff13218481ed841a1eb61f48eae135e7204",
+      "name": {
+        "zh-TW": "銀河下的紅峽谷鐵橋",
+        "zh-CN": "银河下的红峡谷铁桥",
+        "en": "Red Canyon Bridge Beneath the Milky Way",
+        "ja": "天の川を渡る赤い峡谷鉄橋"
+      }
+    },
+    {
+      "id": "world-night-trains-10-sunrise-terminal",
+      "file": "packs/world-night-trains/v2/images/world-night-trains-10-sunrise-terminal.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 193154,
+      "sha256": "93c462f1bc022610d70ae540df1ea2428762e859deb3e3371c2f6df6327d3287",
+      "name": {
+        "zh-TW": "晨曦終點站",
+        "zh-CN": "晨曦终点站",
+        "en": "Arrival at the Sunrise Terminal",
+        "ja": "朝焼けの終着駅"
+      }
+    }
+  ]
+}

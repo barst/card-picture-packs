@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-11",
+  "version": 2,
+  "order": 31,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "十一月・秋境冒險",
+    "zh-CN": "十一月・秋境冒险",
+    "en": "November · Adventure in the Autumn Realm",
+    "ja": "11月・秋の異世界冒険"
+  },
+  "description": {
+    "zh-TW": "苔石拱橋、浮空城堡、霜藍巨龍與秋帆飛船化為異世界地標，用單一大型主體展開十一月冒險。",
+    "zh-CN": "苔石拱桥、浮空城堡、霜蓝巨龙与秋帆飞船化为异世界地标，用单一大型主体展开十一月冒险。",
+    "en": "A mossy bridge, floating citadel, frost-blue dragon, and autumn-sailed airship become bold landmarks in November's otherworldly adventure.",
+    "ja": "苔むす石橋、浮遊城、霜青の巨龍、秋色の帆を掲げる飛行船が、11月の異世界冒険を象徴する大きな主役です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-11-01",
+  "images": [
+    {
+      "id": "monthly-11-01",
+      "file": "packs/monthly-11/v2/images/monthly-11-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 294564,
+      "sha256": "ecc6ee1e81ff29742ef79d5a5906c15e9ef00f872f72a4629c3e113e95f6d603",
+      "name": {
+        "zh-TW": "楓谷苔石拱橋",
+        "zh-CN": "枫谷苔石拱桥",
+        "en": "Mossy Stone Bridge in Maple Valley",
+        "ja": "楓谷の苔むす石橋"
+      }
+    },
+    {
+      "id": "monthly-11-02",
+      "file": "packs/monthly-11/v2/images/monthly-11-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 99984,
+      "sha256": "f1b9efa23e511378b09ce71057213eb438a2fa5b15afe4b35a94fbe4c6e6067b",
+      "name": {
+        "zh-TW": "魔菇提燈",
+        "zh-CN": "魔菇提灯",
+        "en": "Enchanted Mushroom Lantern",
+        "ja": "魔法きのこのランタン"
+      }
+    },
+    {
+      "id": "monthly-11-03",
+      "file": "packs/monthly-11/v2/images/monthly-11-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 129464,
+      "sha256": "bceacfb7c235d23517958153205ce0cdb4247bb7870b3602ecd77c2632da1e02",
+      "name": {
+        "zh-TW": "雲端琉璃城堡",
+        "zh-CN": "云端琉璃城堡",
+        "en": "Crystal Citadel above the Clouds",
+        "ja": "雲上の水晶城"
+      }
+    },
+    {
+      "id": "monthly-11-04",
+      "file": "packs/monthly-11/v2/images/monthly-11-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 156630,
+      "sha256": "26883f58cc510349c69930f09a7d3220d2e70ed5334dfcfeb48834ce2191df29",
+      "name": {
+        "zh-TW": "秋果松鼠商人",
+        "zh-CN": "秋果松鼠商人",
+        "en": "Squirrel Merchant of the Autumn Harvest",
+        "ja": "秋の実を売るリス商人"
+      }
+    },
+    {
+      "id": "monthly-11-05",
+      "file": "packs/monthly-11/v2/images/monthly-11-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 227454,
+      "sha256": "c4bba67ab182020d126034bbaf7f496acf2ce851a8f5c915d9dcc88a9cfb0798",
+      "name": {
+        "zh-TW": "古橡樹貓頭鷹屋",
+        "zh-CN": "古橡树猫头鹰屋",
+        "en": "Owl House in the Ancient Oak",
+        "ja": "古い樫の木のふくろう屋敷"
+      }
+    },
+    {
+      "id": "monthly-11-06",
+      "file": "packs/monthly-11/v2/images/monthly-11-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 183314,
+      "sha256": "cba496c53a0fd55014342b74102530e82d90434c1e0e31b4ff7d585c98c07d66",
+      "name": {
+        "zh-TW": "瀑布谷霜藍巨龍",
+        "zh-CN": "瀑布谷霜蓝巨龙",
+        "en": "Frost-Blue Dragon of the Waterfall Valley",
+        "ja": "滝の谷の霜青き巨龍"
+      }
+    },
+    {
+      "id": "monthly-11-07",
+      "file": "packs/monthly-11/v2/images/monthly-11-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 205166,
+      "sha256": "bacb875ef964c75c2ec541a518669f01853975d3c82005ab971401f9189646ea",
+      "name": {
+        "zh-TW": "燭光冒險地圖",
+        "zh-CN": "烛光冒险地图",
+        "en": "Adventure Map by Candlelight",
+        "ja": "ろうそく灯りの冒険地図"
+      }
+    },
+    {
+      "id": "monthly-11-08",
+      "file": "packs/monthly-11/v2/images/monthly-11-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 149812,
+      "sha256": "6d0594e50a1d9d3c3ea581f3bc7d082ef0ed395e280d67320c8fe5a0c2925d16",
+      "name": {
+        "zh-TW": "地底湛藍水晶柱",
+        "zh-CN": "地底湛蓝水晶柱",
+        "en": "Great Blue Crystal of the Underworld",
+        "ja": "地底に輝く巨大青水晶"
+      }
+    },
+    {
+      "id": "monthly-11-09",
+      "file": "packs/monthly-11/v2/images/monthly-11-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 205314,
+      "sha256": "69e6e13227af4ac92d76c49a0b63ca6a9b2b79f6438931ec14a32a1ea2da416e",
+      "name": {
+        "zh-TW": "秋帆雲海飛船",
+        "zh-CN": "秋帆云海飞船",
+        "en": "Autumn-Sailed Airship over the Clouds",
+        "ja": "秋色の帆で雲海を渡る飛行船"
+      }
+    },
+    {
+      "id": "monthly-11-10",
+      "file": "packs/monthly-11/v2/images/monthly-11-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 177224,
+      "sha256": "afad4acd3bf1f0c280b71d48cd215a7edcac332a447893df2576b488d6f8207c",
+      "name": {
+        "zh-TW": "月光琉璃花亭",
+        "zh-CN": "月光琉璃花亭",
+        "en": "Moonlit Glass Flower Pavilion",
+        "ja": "月光のガラス花亭"
+      }
+    }
+  ]
+}

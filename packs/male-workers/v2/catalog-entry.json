@@ -1,0 +1,25 @@
+{
+  "packId": "male-workers",
+  "version": 2,
+  "order": 15,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "堅毅的工作者",
+    "zh-CN": "坚毅的工作者",
+    "en": "Hands That Get the Job Done",
+    "ja": "現場を支える男たち"
+  },
+  "description": {
+    "zh-TW": "走進鋼梁、火場、林場與礦坑，記錄十位工作者以雙手、技術與勇氣扛起任務的身影。",
+    "zh-CN": "走进钢梁、火场、林场与矿坑，记录十位工作者以双手、技术与勇气扛起任务的身影。",
+    "en": "Ten portraits of skill, courage, and hard work across steel beams, fire grounds, forests, workshops, mines, and shipyards.",
+    "ja": "鉄骨、火災現場、森林、工房、鉱山、造船所。技と勇気で仕事を担う10人の姿を描きます。"
+  },
+  "cover": "packs/male-workers/v2/images/male-workers-01-construction.webp",
+  "manifest": "packs/male-workers/v2/manifest.json",
+  "manifestBytes": 6346,
+  "manifestSha256": "07020fa89c6b46d5fb6910a32d99698ad5b983190d5bf60d79c41be8e0efe7ef",
+  "imageCount": 10,
+  "downloadBytes": 1704246
+}

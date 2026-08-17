@@ -1,0 +1,25 @@
+{
+  "packId": "fantasy",
+  "version": 2,
+  "order": 6,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "title": {
+    "zh-TW": "雲端魔法紀行",
+    "zh-CN": "云端魔法纪行",
+    "en": "Chronicles of the Enchanted Realms",
+    "ja": "雲上の魔法紀行"
+  },
+  "description": {
+    "zh-TW": "飛龍掠過山谷，浮島懸在雲海，月城與海底書庫守著古老祕密；十幅奇景展開一場跨越天地的魔法遠行。",
+    "zh-CN": "飞龙掠过山谷，浮岛悬在云海，月城与海底书库守着古老秘密；十幅奇景展开一场跨越天地的魔法远行。",
+    "en": "Dragons, floating islands, moonlit castles, and underwater libraries unfold across ten wondrous scenes from a world alive with magic.",
+    "ja": "竜が谷を越え、浮島が雲海に漂い、月の城と海底図書館が秘密を守る、10の幻想世界をめぐる旅です。"
+  },
+  "cover": "packs/fantasy/v2/images/fantasy-01-dragon-valley.webp",
+  "manifest": "packs/fantasy/v2/manifest.json",
+  "manifestBytes": 6227,
+  "manifestSha256": "28b0d048751fd7be7491f2f8749508ae159559680c3b30310ac94f65bb3399a3",
+  "imageCount": 10,
+  "downloadBytes": 1965000
+}

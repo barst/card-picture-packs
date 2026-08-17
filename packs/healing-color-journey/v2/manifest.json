@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "healing-color-journey",
+  "version": 2,
+  "order": 47,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "心色療癒旅程",
+    "zh-CN": "心色疗愈旅程",
+    "en": "A Journey Through Healing Colors",
+    "ja": "心を癒やす色の旅"
+  },
+  "description": {
+    "zh-TW": "讓藍色安定、黃色點亮希望、綠色連起彼此，以十幅柔和水彩走過心裡不同的風景。",
+    "zh-CN": "让蓝色安定、黄色点亮希望、绿色连起彼此，以十幅柔和水彩走过心里不同的风景。",
+    "en": "Ten gentle watercolor landscapes pair color with feeling, from calming blue and hopeful yellow to connecting green and a renewing rainbow.",
+    "ja": "心を落ち着かせる青、希望を灯す黄、絆を結ぶ緑。10のやわらかな水彩風景とともに心の色を旅します。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "healing-color-journey-01-calm-blue-bay",
+  "images": [
+    {
+      "id": "healing-color-journey-01-calm-blue-bay",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-01-calm-blue-bay.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 243542,
+      "sha256": "0e65eb6747bec093bf7c90d168944e9a09b2d791fc3580e3d0e7a898c900fb90",
+      "name": {
+        "zh-TW": "靜心藍灣",
+        "zh-CN": "静心蓝湾",
+        "en": "Calm Blue Bay",
+        "ja": "静けさの青い入り江"
+      }
+    },
+    {
+      "id": "healing-color-journey-02-hope-yellow-field",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-02-hope-yellow-field.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 242614,
+      "sha256": "97d437d4786fb73542880be2259228e2ffa6b707dc7e94c53ebb68556f2954c2",
+      "name": {
+        "zh-TW": "希望金野",
+        "zh-CN": "希望金野",
+        "en": "Golden Fields of Hope",
+        "ja": "希望の黄金野"
+      }
+    },
+    {
+      "id": "healing-color-journey-03-courage-red-canyon",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-03-courage-red-canyon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 316062,
+      "sha256": "ad0d8e713b232fcb8eb619153ff140b922a3a20c9324b8ab965a87cd3ecc7a9b",
+      "name": {
+        "zh-TW": "勇氣紅岩谷",
+        "zh-CN": "勇气红岩谷",
+        "en": "Red Canyon of Courage",
+        "ja": "勇気の赤い峡谷"
+      }
+    },
+    {
+      "id": "healing-color-journey-04-joy-coral-garden",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-04-joy-coral-garden.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 227230,
+      "sha256": "1a8dc6af550b2ccf11bd1ea113340533bf12fcf902bcfc8d6bd9ab27a7f49519",
+      "name": {
+        "zh-TW": "喜悅珊瑚花園",
+        "zh-CN": "喜悦珊瑚花园",
+        "en": "Coral Garden of Joy",
+        "ja": "喜びの珊瑚色の庭"
+      }
+    },
+    {
+      "id": "healing-color-journey-05-focus-indigo-path",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-05-focus-indigo-path.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 234396,
+      "sha256": "266dd9ee40307486dd8f07be00eb3012de521db2e56a6b143a4e413b79283ab5",
+      "name": {
+        "zh-TW": "專注靛藍小徑",
+        "zh-CN": "专注靛蓝小径",
+        "en": "Indigo Path of Focus",
+        "ja": "集中へ導く藍の小径"
+      }
+    },
+    {
+      "id": "healing-color-journey-06-kindness-pink-harbor",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-06-kindness-pink-harbor.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 183682,
+      "sha256": "53891e0b221d0d361a6d2fcbea613e76b3e498c01513569696955dd45febe61e",
+      "name": {
+        "zh-TW": "溫柔粉紅港灣",
+        "zh-CN": "温柔粉红港湾",
+        "en": "Kindness at the Pink Harbor",
+        "ja": "やさしさの桃色港"
+      }
+    },
+    {
+      "id": "healing-color-journey-07-rest-lavender-hills",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-07-rest-lavender-hills.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 142880,
+      "sha256": "ae40fdac36a346b6185f0818affdd56234194e199b62484a2557093f3d7e2237",
+      "name": {
+        "zh-TW": "安眠薰衣草山丘",
+        "zh-CN": "安眠薰衣草山丘",
+        "en": "Lavender Hills at Rest",
+        "ja": "安らぎのラベンダー丘"
+      }
+    },
+    {
+      "id": "healing-color-journey-08-curiosity-teal-cave",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-08-curiosity-teal-cave.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 198902,
+      "sha256": "50e3334ffcbf13e5df85db03f48eea6ee3ec1de61e83f853c6a182bfe14662cd",
+      "name": {
+        "zh-TW": "好奇心的青綠晶洞",
+        "zh-CN": "好奇心的青绿晶洞",
+        "en": "Teal Crystal Cave of Curiosity",
+        "ja": "好奇心を誘う青緑の洞窟"
+      }
+    },
+    {
+      "id": "healing-color-journey-09-connection-green-river",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-09-connection-green-river.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 276816,
+      "sha256": "f9ffe5b84c457ce2dbb3397e9fe31f0f76929d90da0b3d2877a187ce7f7c772d",
+      "name": {
+        "zh-TW": "相繫的綠河花洲",
+        "zh-CN": "相连的绿河花洲",
+        "en": "Green River Gardens of Connection",
+        "ja": "絆を結ぶ緑の川"
+      }
+    },
+    {
+      "id": "healing-color-journey-10-renewal-rainbow-rain",
+      "file": "packs/healing-color-journey/v2/images/healing-color-journey-10-renewal-rainbow-rain.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 240300,
+      "sha256": "3bff0d0d13e661c2b77fc31cbcf3718f52dbf4b02434a868f1624b72080a6716",
+      "name": {
+        "zh-TW": "新雨後的彩虹山谷",
+        "zh-CN": "新雨后的彩虹山谷",
+        "en": "Rainbow Valley After the Rain",
+        "ja": "雨上がりの再生の虹谷"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://game.cbo.com.tw/picture-packs/schemas/catalog.schema.json",
+  "title": "拾光拼圖圖庫總索引",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "catalogVersion", "minimumAppVersion", "defaultLocale", "supportedLocales", "updatedAt", "assetBaseUrl", "packs"],
+  "properties": {
+    "schemaVersion": { "const": 2 },
+    "catalogVersion": { "type": "integer", "minimum": 1 },
+    "minimumAppVersion": { "type": "string", "minLength": 1 },
+    "defaultLocale": { "const": "zh-TW" },
+    "supportedLocales": {
+      "type": "array",
+      "prefixItems": [{ "const": "zh-TW" }, { "const": "zh-CN" }, { "const": "en" }, { "const": "ja" }],
+      "items": false,
+      "minItems": 4,
+      "maxItems": 4
+    },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "assetBaseUrl": { "type": "string", "minLength": 1 },
+    "packs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["packId", "version", "order", "releasedAt", "price", "title", "description", "cover", "manifest", "manifestBytes", "manifestSha256", "imageCount", "downloadBytes"],
+        "properties": {
+          "packId": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "version": { "type": "integer", "minimum": 1 },
+          "order": { "type": "integer", "minimum": 0 },
+          "releasedAt": { "type": "string", "format": "date-time" },
+          "price": { "type": "integer", "minimum": 0 },
+          "title": { "$ref": "localized-text.schema.json" },
+          "description": { "$ref": "localized-text.schema.json" },
+          "cover": { "type": "string", "minLength": 1 },
+          "manifest": { "type": "string", "pattern": "^packs/[a-z0-9-]+/v[1-9][0-9]*/manifest\\.json$" },
+          "manifestBytes": { "type": "integer", "minimum": 1 },
+          "manifestSha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+          "imageCount": { "type": "integer", "minimum": 1 },
+          "downloadBytes": { "type": "integer", "minimum": 1 }
+        }
+      }
+    }
+  }
+}

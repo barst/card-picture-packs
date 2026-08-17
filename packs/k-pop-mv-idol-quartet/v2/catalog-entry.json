@@ -1,0 +1,25 @@
+{
+  "packId": "k-pop-mv-idol-quartet",
+  "version": 2,
+  "order": 51,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "韓流四人女團舞台",
+    "zh-CN": "韩流四人女团舞台",
+    "en": "Idol Quartet: Lights, Camera, Dance",
+    "ja": "四人組アイドル、光の舞台へ"
+  },
+  "description": {
+    "zh-TW": "從稜鏡天空、金色鏡廳到霓虹伸展台，十個鏡頭記錄四人女團精準編舞與耀眼舞台魅力。",
+    "zh-CN": "从棱镜天空、金色镜厅到霓虹伸展台，十个镜头记录四人女团精准编舞与耀眼舞台魅力。",
+    "en": "Ten music-video moments follow an idol quartet through prism skies, golden mirror rooms, neon runways, and a blazing finale.",
+    "ja": "プリズムの空、金色の鏡の間、ネオンの花道。4人組アイドルの息の合った振り付けと輝く舞台を10の場面で描きます。"
+  },
+  "cover": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-01-prism-sky-formation.webp",
+  "manifest": "packs/k-pop-mv-idol-quartet/v2/manifest.json",
+  "manifestBytes": 7007,
+  "manifestSha256": "26c087c7c73360f75c0d9832d3869e229a2ee2762987f14e57159eec180ecd7a",
+  "imageCount": 10,
+  "downloadBytes": 1013136
+}

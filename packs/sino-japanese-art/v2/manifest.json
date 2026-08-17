@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "sino-japanese-art",
+  "version": 2,
+  "order": 17,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "墨韻和風",
+    "zh-CN": "墨韵和风",
+    "en": "Ink and Eastern Elegance",
+    "ja": "墨韻と和の雅"
+  },
+  "description": {
+    "zh-TW": "以水墨山河、漢服仕女、錦鯉與和服美人，交織中華筆韻與日本浮世繪的典雅情境。",
+    "zh-CN": "以水墨山河、汉服仕女、锦鲤与和服美人，交织中华笔韵与日本浮世绘的典雅意境。",
+    "en": "Ten graceful works weave Chinese ink traditions with Japanese decorative art through misty peaks, elegant figures, koi, cranes, and moonlit legends.",
+    "ja": "水墨の山河、漢服の女性、錦鯉や着物美人を通して、中国絵画の筆致と日本美術の雅を織りなす10の情景です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "sino-japanese-art-01-mountains",
+  "images": [
+    {
+      "id": "sino-japanese-art-01-mountains",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-01-mountains.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 259202,
+      "sha256": "7b8c45400eb5fdb6be5329353b65943ab9732aec52a97b19b9ced7efb3ebbe8d",
+      "name": {
+        "zh-TW": "朝霧千峰",
+        "zh-CN": "朝雾千峰",
+        "en": "A Thousand Peaks in Morning Mist",
+        "ja": "朝霧に霞む千峰"
+      }
+    },
+    {
+      "id": "sino-japanese-art-02-hanfu",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-02-hanfu.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 184146,
+      "sha256": "4a14f877360c14bd237e3b74758c49d68c66f3507d92007b64045f830a6f113f",
+      "name": {
+        "zh-TW": "梅下持扇仕女",
+        "zh-CN": "梅下持扇仕女",
+        "en": "Lady with a Fan Beneath Plum Blossoms",
+        "ja": "梅の下で扇を持つ漢服美人"
+      }
+    },
+    {
+      "id": "sino-japanese-art-03-bamboo-rain",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-03-bamboo-rain.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 347678,
+      "sha256": "4a59c0085244111dbf5d9ada68f7b8db40c85e2cfe817e282b25b2eef8d8b044",
+      "name": {
+        "zh-TW": "竹徑聽雨",
+        "zh-CN": "竹径听雨",
+        "en": "Listening to Rain on the Bamboo Path",
+        "ja": "雨音響く竹の小径"
+      }
+    },
+    {
+      "id": "sino-japanese-art-04-dragon",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-04-dragon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 406926,
+      "sha256": "62b2e1e2b0e7f46f7b608958a32f0a0169858ebc5e9228932b825fe97825230c",
+      "name": {
+        "zh-TW": "月河墨龍",
+        "zh-CN": "月河墨龙",
+        "en": "Ink Dragon over the Moonlit River",
+        "ja": "月の川を翔ける墨龍"
+      }
+    },
+    {
+      "id": "sino-japanese-art-05-fuji",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-05-fuji.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 449992,
+      "sha256": "2d2b2075d5509b8fb23ae44c30541ebeb716b03074dbb314fbf4ef143b5fc10a",
+      "name": {
+        "zh-TW": "櫻映富士",
+        "zh-CN": "樱映富士",
+        "en": "Mount Fuji Reflected in Cherry Blossoms",
+        "ja": "桜映る富士"
+      }
+    },
+    {
+      "id": "sino-japanese-art-06-koi",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-06-koi.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 454868,
+      "sha256": "b68ee05311766393bd7afba36c8e1cfed98f7a6dc0e5229dedbc91ad3f8feec5",
+      "name": {
+        "zh-TW": "青蓮錦鯉游",
+        "zh-CN": "青莲锦鲤游",
+        "en": "Koi among Blue Lotus Blooms",
+        "ja": "青蓮を泳ぐ錦鯉"
+      }
+    },
+    {
+      "id": "sino-japanese-art-07-japanese-bamboo",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-07-japanese-bamboo.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 349314,
+      "sha256": "b513c931e2b7dd7921da2b3d9a8e383ed090fe129bf4431f5f550516baf473b7",
+      "name": {
+        "zh-TW": "雨宿竹林",
+        "zh-CN": "雨宿竹林",
+        "en": "A Lone Traveler in the Rainy Bamboo Grove",
+        "ja": "雨の竹林を行く旅人"
+      }
+    },
+    {
+      "id": "sino-japanese-art-08-moon-rabbit",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-08-moon-rabbit.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 465192,
+      "sha256": "66ed17dcfbffd4d55a3a5bb607d5278b2e65d37cb2c1d1535a8ff76c0e89b191",
+      "name": {
+        "zh-TW": "月兔望城",
+        "zh-CN": "月兔望城",
+        "en": "Moon Rabbit before the Castle",
+        "ja": "月兎と夜の城"
+      }
+    },
+    {
+      "id": "sino-japanese-art-09-kimono",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-09-kimono.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 387296,
+      "sha256": "cdcf7034be522a1681188ee996238c629efe5a93cfa101032ab5dc22667039a4",
+      "name": {
+        "zh-TW": "櫻庭和服美人",
+        "zh-CN": "樱庭和服美人",
+        "en": "Kimono Lady in a Cherry Garden",
+        "ja": "桜庭の着物美人"
+      }
+    },
+    {
+      "id": "sino-japanese-art-10-crane",
+      "file": "packs/sino-japanese-art/v2/images/sino-japanese-art-10-crane.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 189682,
+      "sha256": "ea696c4ad0535452d2c137b1f7961592739a8b6a584b0fb31e6dcbed88ef3632",
+      "name": {
+        "zh-TW": "晨霧鶴影蓮池",
+        "zh-CN": "晨雾鹤影莲池",
+        "en": "Cranes and Koi at Dawn",
+        "ja": "朝霧の蓮池に舞う鶴"
+      }
+    }
+  ]
+}

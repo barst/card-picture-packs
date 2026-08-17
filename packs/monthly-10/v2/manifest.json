@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-10",
+  "version": 2,
+  "order": 30,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "十月・萬聖奇譚",
+    "zh-CN": "十月・万圣奇谭",
+    "en": "October · Halloween Tales",
+    "ja": "10月・ハロウィン奇譚"
+  },
+  "description": {
+    "zh-TW": "鬧鬼莊園、南瓜魔法鍋、月光書梯與糖果小屋各自佔據視線，帶來可愛又神祕的十月奇譚。",
+    "zh-CN": "闹鬼庄园、南瓜魔法锅、月光书梯与糖果小屋各自占据视线，带来可爱又神秘的十月奇谭。",
+    "en": "A haunted manor, pumpkin cauldron, moonlit library ladder, and candy cottage each command the frame in ten playful October tales.",
+    "ja": "幽霊屋敷、かぼちゃの魔法鍋、月光の書架梯子、お菓子の家がそれぞれ大きく主役となる、かわいく不思議な10月物語です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-10-01",
+  "images": [
+    {
+      "id": "monthly-10-01",
+      "file": "packs/monthly-10/v2/images/monthly-10-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 84986,
+      "sha256": "d2197fea2cc3caef595b77545f2f2692a8c07916d0a4ca8c2770a481aba2d683",
+      "name": {
+        "zh-TW": "滿月鬧鬼莊園",
+        "zh-CN": "满月闹鬼庄园",
+        "en": "Haunted Manor beneath the Full Moon",
+        "ja": "満月の幽霊屋敷"
+      }
+    },
+    {
+      "id": "monthly-10-02",
+      "file": "packs/monthly-10/v2/images/monthly-10-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 83286,
+      "sha256": "1f62f7d5cac0d3cd7d8d48c29675862ecae2923beac65c0a51b9805880cecc50",
+      "name": {
+        "zh-TW": "女巫南瓜魔法鍋",
+        "zh-CN": "女巫南瓜魔法锅",
+        "en": "Witch's Pumpkin Cauldron",
+        "ja": "魔女のかぼちゃ大鍋"
+      }
+    },
+    {
+      "id": "monthly-10-03",
+      "file": "packs/monthly-10/v2/images/monthly-10-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 78294,
+      "sha256": "28a33585e0b2b09025e5f06c2e357ece1633731a1b4bc45951b0f0b00f5570f6",
+      "name": {
+        "zh-TW": "黑玫瑰哥德新娘",
+        "zh-CN": "黑玫瑰哥特新娘",
+        "en": "Gothic Bride with Black Roses",
+        "ja": "黒薔薇のゴシック花嫁"
+      }
+    },
+    {
+      "id": "monthly-10-04",
+      "file": "packs/monthly-10/v2/images/monthly-10-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 76166,
+      "sha256": "b3407b9fda190e64294166309a4ae899f2e5c4001258e58e0d302444a8cb4aec",
+      "name": {
+        "zh-TW": "森林微笑幽靈燈",
+        "zh-CN": "森林微笑幽灵灯",
+        "en": "Smiling Ghost Lantern in the Forest",
+        "ja": "森で笑うおばけランタン"
+      }
+    },
+    {
+      "id": "monthly-10-05",
+      "file": "packs/monthly-10/v2/images/monthly-10-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 51620,
+      "sha256": "218326c279227e610edf52964897e790b567c66838f2fa4d7756d4d95a99b34c",
+      "name": {
+        "zh-TW": "糖果市集白幽靈",
+        "zh-CN": "糖果集市白幽灵",
+        "en": "White Ghost of the Candy Fair",
+        "ja": "お菓子市のおばけ"
+      }
+    },
+    {
+      "id": "monthly-10-06",
+      "file": "packs/monthly-10/v2/images/monthly-10-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 120000,
+      "sha256": "5e98422a6d671772440fbd30ce2bfe30f678206042d49c11a93805c4e5909b31",
+      "name": {
+        "zh-TW": "發條南瓜機器人",
+        "zh-CN": "发条南瓜机器人",
+        "en": "Clockwork Pumpkin Robot",
+        "ja": "歯車仕掛けのかぼちゃロボット"
+      }
+    },
+    {
+      "id": "monthly-10-07",
+      "file": "packs/monthly-10/v2/images/monthly-10-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 80924,
+      "sha256": "6f0ee33fa1ed7da85b2db5d18fb6fa99e3ffc8c4b4e2e8e8d547a427e4c7ff10",
+      "name": {
+        "zh-TW": "月光螺旋書梯",
+        "zh-CN": "月光螺旋书梯",
+        "en": "Moonlit Spiral Library Ladder",
+        "ja": "月光の螺旋書架梯子"
+      }
+    },
+    {
+      "id": "monthly-10-08",
+      "file": "packs/monthly-10/v2/images/monthly-10-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 185680,
+      "sha256": "106e3f3ab6acf86c60ee3e0cc9a1572efcd2eff528f7cc10fb651fa470c07f94",
+      "name": {
+        "zh-TW": "月光魔幻旋轉木馬",
+        "zh-CN": "月光魔幻旋转木马",
+        "en": "Enchanted Carousel beneath the Moon",
+        "ja": "月光の魔法メリーゴーラウンド"
+      }
+    },
+    {
+      "id": "monthly-10-09",
+      "file": "packs/monthly-10/v2/images/monthly-10-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 97496,
+      "sha256": "a36483d74e96bf58cf47580f9ffa812dc4361d7a0ceab8c624cde5cbbdf79a92",
+      "name": {
+        "zh-TW": "薑餅女巫小屋",
+        "zh-CN": "姜饼女巫小屋",
+        "en": "Gingerbread Witch Cottage",
+        "ja": "ジンジャーブレッドの魔女小屋"
+      }
+    },
+    {
+      "id": "monthly-10-10",
+      "file": "packs/monthly-10/v2/images/monthly-10-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 110526,
+      "sha256": "e6b14b34731a3b970d30841a9eebe1b6bddb7d09aa981049e8cd7f948d70e728",
+      "name": {
+        "zh-TW": "微笑幽靈夜行列車",
+        "zh-CN": "微笑幽灵夜行列车",
+        "en": "Smiling Ghost Night Train",
+        "ja": "笑うおばけの夜行列車"
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "taiwan-snacks",
+  "version": 2,
+  "order": 12,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "島嶼夜市好味",
+    "zh-CN": "岛屿夜市好味",
+    "en": "Flavors of Taiwan's Night Markets",
+    "ja": "台湾夜市の味めぐり"
+  },
+  "description": {
+    "zh-TW": "從蚵仔煎、臭豆腐到珍珠奶茶，收進十道飄著熱氣與人情味的台灣街頭美食。",
+    "zh-CN": "从蚵仔煎、臭豆腐到珍珠奶茶，收进十道飘着热气与人情味的台湾街头美食。",
+    "en": "Ten beloved Taiwanese street foods, rich with night-market warmth, from oyster omelets and stinky tofu to bubble tea.",
+    "ja": "カキオムレツや臭豆腐、タピオカミルクティーまで、夜市の活気とぬくもりを感じる台湾屋台グルメ10品です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "taiwan-snacks-01-oyster-omelet",
+  "images": [
+    {
+      "id": "taiwan-snacks-01-oyster-omelet",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-01-oyster-omelet.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 113104,
+      "sha256": "cf25950252315c72f54e7acdd522808d6bbc394619ab31cad6f193c50c4e91b8",
+      "name": {
+        "zh-TW": "夜市鮮蚵仔煎",
+        "zh-CN": "夜市鲜蚵仔煎",
+        "en": "Night-Market Oyster Omelet",
+        "ja": "夜市のカキオムレツ"
+      }
+    },
+    {
+      "id": "taiwan-snacks-02-bubble-tea",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-02-bubble-tea.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 124616,
+      "sha256": "b87f52c55ae35e598a66fd506d9d7161cc1dc7d40dc5e01da89ee2b011b5881a",
+      "name": {
+        "zh-TW": "街角經典珍珠奶茶",
+        "zh-CN": "街角经典珍珠奶茶",
+        "en": "Classic Bubble Tea on the Corner",
+        "ja": "街角の定番タピオカミルクティー"
+      }
+    },
+    {
+      "id": "taiwan-snacks-03-stinky-tofu",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-03-stinky-tofu.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 133876,
+      "sha256": "e3895949c240ea9cfd75cd628886a1222c5fe6cebfc8e851644f48f13ee1b125",
+      "name": {
+        "zh-TW": "酥香泡菜臭豆腐",
+        "zh-CN": "酥香泡菜臭豆腐",
+        "en": "Crispy Stinky Tofu with Pickled Cabbage",
+        "ja": "揚げ臭豆腐と台湾漬物"
+      }
+    },
+    {
+      "id": "taiwan-snacks-04-ba-wan",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-04-ba-wan.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 137116,
+      "sha256": "9eac6c2ddb74b6eaeae3530730e99fbd62684ba74eedeb161b7a523cda541df2",
+      "name": {
+        "zh-TW": "晶亮紅糟肉圓",
+        "zh-CN": "晶亮红糟肉圆",
+        "en": "Glossy Ba-wan Dumpling",
+        "ja": "つややかな肉圓（バーワン）"
+      }
+    },
+    {
+      "id": "taiwan-snacks-05-zongzi",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-05-zongzi.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122222,
+      "sha256": "4cc1d7a3d2e47b886312090df1536227428a32429e763fbf2b8e238b2a5ef6e8",
+      "name": {
+        "zh-TW": "竹葉飄香南部粽",
+        "zh-CN": "竹叶飘香南部粽",
+        "en": "Savory Bamboo-Leaf Rice Dumpling",
+        "ja": "竹の葉香る台湾ちまき"
+      }
+    },
+    {
+      "id": "taiwan-snacks-06-hand-shaken-drink",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-06-hand-shaken-drink.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 125990,
+      "sha256": "da643151693f469ccfa32ec329fac615adf27260e9999ae18bf27581967375ff",
+      "name": {
+        "zh-TW": "繽紛夏日手搖飲",
+        "zh-CN": "缤纷夏日手摇饮",
+        "en": "Colorful Summer Hand-Shaken Drinks",
+        "ja": "彩り豊かな夏のドリンク"
+      }
+    },
+    {
+      "id": "taiwan-snacks-07-braised-pork-rice",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-07-braised-pork-rice.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130812,
+      "sha256": "3842a3148eaf5dda427164b6db0633211739e5a4f791c2a0d29f8ccd88e701df",
+      "name": {
+        "zh-TW": "滷肉飯與滷蛋",
+        "zh-CN": "卤肉饭与卤蛋",
+        "en": "Braised Pork Rice with Soy Egg",
+        "ja": "煮卵添え魯肉飯"
+      }
+    },
+    {
+      "id": "taiwan-snacks-08-beef-noodles",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-08-beef-noodles.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 263728,
+      "sha256": "8abd0df789897e3d00421a2bd6222b1605e56c4bd51e60f581c922d05fd537c9",
+      "name": {
+        "zh-TW": "紅燒牛肉麵",
+        "zh-CN": "红烧牛肉面",
+        "en": "Red-Braised Beef Noodle Soup",
+        "ja": "紅焼牛肉麺"
+      }
+    },
+    {
+      "id": "taiwan-snacks-09-fried-chicken",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-09-fried-chicken.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 290094,
+      "sha256": "2ba46a05ecd99c094090a9b26b08c3a993f512acd461401095b6df43f0a6e4c3",
+      "name": {
+        "zh-TW": "九層塔鹽酥雞",
+        "zh-CN": "九层塔盐酥鸡",
+        "en": "Taiwanese Popcorn Chicken with Basil",
+        "ja": "台湾バジル香る鶏の唐揚げ"
+      }
+    },
+    {
+      "id": "taiwan-snacks-10-douhua-ice",
+      "file": "packs/taiwan-snacks/v2/images/taiwan-snacks-10-douhua-ice.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 195896,
+      "sha256": "8cbcb364125ebf56fd0c132f59013f762b28610dad4ae5446dcbb17deaff2dea",
+      "name": {
+        "zh-TW": "古早味豆花冰",
+        "zh-CN": "古早味豆花冰",
+        "en": "Traditional Douhua Shaved Ice",
+        "ja": "昔ながらの豆花かき氷"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "wildlife",
+  "version": 2,
+  "order": 11,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "野性近距離",
+    "zh-CN": "野性近距离",
+    "en": "Wild Encounters",
+    "ja": "野生との遭遇"
+  },
+  "description": {
+    "zh-TW": "從草原怒吼到鯨躍破浪，以震撼視角捕捉十種野生動物最有生命力的瞬間。",
+    "zh-CN": "从草原怒吼到鲸跃破浪，以震撼视角捕捉十种野生动物最有生命力的瞬间。",
+    "en": "Ten vivid encounters capture wildlife at its most powerful, from a savanna roar to a whale breaking the waves.",
+    "ja": "草原に響く咆哮から波を破るクジラまで、野生動物の力みなぎる10の瞬間を間近に捉えます。"
+  },
+  "cover": "packs/wildlife/v2/images/wildlife-01-lion-low-angle-roar.webp",
+  "manifest": "packs/wildlife/v2/manifest.json",
+  "manifestBytes": 6412,
+  "manifestSha256": "03693ae430c4ebdd6065086b3f846a9be3a5334056faad421569d9f4922429af",
+  "imageCount": 10,
+  "downloadBytes": 2512396
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "travel",
+  "version": 2,
+  "order": 0,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "title": {
+    "zh-TW": "萬里風光",
+    "zh-CN": "万里风光",
+    "en": "Wonders Across the World",
+    "ja": "世界をめぐる絶景"
+  },
+  "description": {
+    "zh-TW": "從太魯閣的晨光峽谷到巴塔哥尼亞的燃霞群峰，沿著山海、古城與荒漠收藏十段壯麗旅程。",
+    "zh-CN": "从太鲁阁的晨光峡谷到巴塔哥尼亚的燃霞群峰，沿着山海、古城与荒漠收藏十段壮丽旅程。",
+    "en": "Ten breathtaking journeys cross gorges, ancient paths, alpine lakes, deserts, and distant coasts from Taroko to Patagonia.",
+    "ja": "太魯閣の朝焼けの峡谷からパタゴニアの燃える峰々まで、山海や古都、砂漠をめぐる10の絶景旅です。"
+  },
+  "cover": "packs/travel/v2/images/travel-01-taroko.webp",
+  "manifest": "packs/travel/v2/manifest.json",
+  "manifestBytes": 6180,
+  "manifestSha256": "ed80e4fb3e2d9cf67cbdc6591dbcac91ada6099ce2059e569d74324b2d57fcbe",
+  "imageCount": 10,
+  "downloadBytes": 2238428
+}

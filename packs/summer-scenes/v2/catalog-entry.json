@@ -1,0 +1,25 @@
+{
+  "packId": "summer-scenes",
+  "version": 2,
+  "order": 18,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "盛夏物語",
+    "zh-CN": "盛夏物语",
+    "en": "Stories of High Summer",
+    "ja": "盛夏の物語"
+  },
+  "description": {
+    "zh-TW": "沿著鄉間鐵道、海邊坡道與向日葵田，收藏戲水、刨冰、驟雨和煙火綻放的青春夏日。",
+    "zh-CN": "沿着乡间铁路、海边坡道与向日葵田，收藏戏水、刨冰、骤雨和烟火绽放的青春夏日。",
+    "en": "A nostalgic summer unfolds along rural rails and seaside lanes, filled with water play, shaved ice, sudden rain, sunflowers, and fireworks.",
+    "ja": "田園の線路や海辺の坂道を舞台に、水遊び、かき氷、夕立、ひまわり、花火を描く懐かしい夏の物語です。"
+  },
+  "cover": "packs/summer-scenes/v2/images/summer-scenes-01-train.webp",
+  "manifest": "packs/summer-scenes/v2/manifest.json",
+  "manifestBytes": 6357,
+  "manifestSha256": "93ed0a8d5ea07134d5059f17fce0a0c813f8c257e718eb2e05e931a9f77666b2",
+  "imageCount": 10,
+  "downloadBytes": 2089838
+}

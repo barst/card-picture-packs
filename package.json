@@ -1,0 +1,14 @@
+{
+  "name": "card-picture-packs",
+  "version": "0.9.0-alpha.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/validate-packs.mjs --catalog v2/catalog.json",
+    "test": "node --test tests/v2-catalog.test.mjs",
+    "v2:catalog": "node scripts/build-v2-catalog.mjs",
+    "v2:validate": "npm run v2:catalog && node scripts/validate-packs.mjs --catalog v2/catalog.json",
+    "v2:catalog:preview": "node scripts/build-v2-catalog.mjs --allow-partial",
+    "v2:validate:preview": "npm run v2:catalog:preview && node scripts/validate-packs.mjs --catalog v2/catalog.partial.json --allow-partial"
+  }
+}

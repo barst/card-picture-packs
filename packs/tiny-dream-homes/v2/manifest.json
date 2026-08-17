@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "tiny-dream-homes",
+  "version": 2,
+  "order": 39,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "掌心裡的夢想小屋",
+    "zh-CN": "掌心里的梦想小屋",
+    "en": "Tiny Homes, Grand Dreams",
+    "ja": "手のひらの夢の家"
+  },
+  "description": {
+    "zh-TW": "樹梢祕居、玻璃海屋、沙漠觀星台與雲端木屋，十座小小居所把各種理想生活收進溫暖燈光裡。",
+    "zh-CN": "树梢秘居、玻璃海屋、沙漠观星台与云端木屋，十座小小居所把各种理想生活收进温暖灯光里。",
+    "en": "Ten miniature retreats—from a treetop hideaway to a desert observatory—gather big dreams of quiet living beneath their warmly glowing windows.",
+    "ja": "木の上の隠れ家や海辺のガラス小屋、砂漠の天文台、雲上の山小屋。10軒の小さな住まいが理想の暮らしを灯りの中に包みます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "tiny-dream-homes-01-forest-treehouse",
+  "images": [
+    {
+      "id": "tiny-dream-homes-01-forest-treehouse",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-01-forest-treehouse.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 225934,
+      "sha256": "02e6764d7bf69d319322ac233213fd06e91c1a71bd715c132d5981ea4a5a2a8d",
+      "name": {
+        "zh-TW": "深林樹梢的燈火小屋",
+        "zh-CN": "深林树梢的灯火小屋",
+        "en": "Lantern-Lit Treehouse in the Deep Woods",
+        "ja": "深い森の灯る樹上小屋"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-02-seaside-glass-cottage",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-02-seaside-glass-cottage.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 227948,
+      "sha256": "467df83cb0c2d5f390b03b90d734b1dd81219d97bae4a777da197afbc802140b",
+      "name": {
+        "zh-TW": "浪花邊的玻璃海屋",
+        "zh-CN": "浪花边的玻璃海屋",
+        "en": "Glass Cottage beside the Surf",
+        "ja": "波打ち際のガラスの海小屋"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-03-rooftop-greenhouse",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-03-rooftop-greenhouse.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 193422,
+      "sha256": "d23c9bd034456f6a9078bfb8020ba989e90682bae534ca2e3a798b435623e6ae",
+      "name": {
+        "zh-TW": "城市屋頂的綠意溫室",
+        "zh-CN": "城市屋顶的绿意温室",
+        "en": "Greenhouse Haven above the City",
+        "ja": "街を見下ろす屋上温室"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-04-cliff-library-home",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-04-cliff-library-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 254080,
+      "sha256": "7fe41461086e9fbd199f79522f5cac43028ed14e670340af04a35a7b33c9fedc",
+      "name": {
+        "zh-TW": "懸崖書海裡的閱讀之家",
+        "zh-CN": "悬崖书海里的阅读之家",
+        "en": "Cliffside Home among Towering Books",
+        "ja": "断崖の本に囲まれた読書の家"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-05-snow-lantern-lodge",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-05-snow-lantern-lodge.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 188568,
+      "sha256": "fddbc9b3f0419c9bf466499b9ab9aae3c9b8243d500f108761d212af6d81f230",
+      "name": {
+        "zh-TW": "雪夜燈籠山莊",
+        "zh-CN": "雪夜灯笼山庄",
+        "en": "Lantern Lodge on a Snowy Night",
+        "ja": "雪夜に灯るランタン山荘"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-06-canal-houseboat",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-06-canal-houseboat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130870,
+      "sha256": "d8b9e002a798309cbdb8be960a8e521610267f1fc6adc489d8fcd87bab08f5eb",
+      "name": {
+        "zh-TW": "花影運河上的船屋",
+        "zh-CN": "花影运河上的船屋",
+        "en": "Flower-Draped Houseboat on the Canal",
+        "ja": "花影の運河に浮かぶ船の家"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-07-desert-observatory",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-07-desert-observatory.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 193444,
+      "sha256": "fd5cd8dc1c4c7cd4380397c2472c0f8ada6388172a539609141794fbd96d66e5",
+      "name": {
+        "zh-TW": "沙丘星空觀測所",
+        "zh-CN": "沙丘星空观测所",
+        "en": "Stargazing Observatory among the Dunes",
+        "ja": "砂丘の星空観測所"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-08-tea-garden-cottage",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-08-tea-garden-cottage.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 199064,
+      "sha256": "19829e921fc2774119162d0a72bd6d3bf83530427c5112a5a7868775621da478",
+      "name": {
+        "zh-TW": "茶香花園的小磚屋",
+        "zh-CN": "茶香花园的小砖屋",
+        "en": "Brick Cottage in the Tea Garden",
+        "ja": "茶香る庭の小さな煉瓦家"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-09-cloud-cabin",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-09-cloud-cabin.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 172734,
+      "sha256": "e05585c94d10b4595f709a9a549d2f05531fc3ec58360e27d51902611064a71f",
+      "name": {
+        "zh-TW": "雲海之上的獨居木屋",
+        "zh-CN": "云海之上的独居木屋",
+        "en": "Solitary Cabin above the Clouds",
+        "ja": "雲海の上のひとり木屋"
+      }
+    },
+    {
+      "id": "tiny-dream-homes-10-garden-traincar-home",
+      "file": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-10-garden-traincar-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 133704,
+      "sha256": "6649afdefdb5dc6dfec4830bb9ddc5c32180fe0effedbf3176cd3353b736db8f",
+      "name": {
+        "zh-TW": "祕密花園的列車之家",
+        "zh-CN": "秘密花园的列车之家",
+        "en": "Garden Home in an Old Railcar",
+        "ja": "秘密の庭の列車の家"
+      }
+    }
+  ]
+}

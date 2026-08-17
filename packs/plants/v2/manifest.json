@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "plants",
+  "version": 2,
+  "order": 3,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "花葉四季",
+    "zh-CN": "花叶四季",
+    "en": "Seasons in Bloom",
+    "ja": "花と緑の四季"
+  },
+  "description": {
+    "zh-TW": "向日葵、蘭花、蓮池與秋葉交織成十幅植物風景，循著花開葉落感受四季安靜而鮮明的色彩。",
+    "zh-CN": "向日葵、兰花、莲池与秋叶交织成十幅植物风景，循着花开叶落感受四季安静而鲜明的色彩。",
+    "en": "Ten botanical scenes follow the seasons through sunflowers, orchids, lotus ponds, forest ferns, herbs, and brilliant autumn leaves.",
+    "ja": "ひまわり、蘭、蓮池、森のシダ、香草、紅葉を通して、花と緑が彩る四季をたどる10の風景です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "plants-01-sunflowers",
+  "images": [
+    {
+      "id": "plants-01-sunflowers",
+      "file": "packs/plants/v2/images/plants-01-sunflowers.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 144836,
+      "sha256": "d0086007b679ce4a2251bc09bb555b5b4eb6f357ffc1cd7c0b7fea2ad0b35753",
+      "name": {
+        "zh-TW": "迎風盛開的向日葵田",
+        "zh-CN": "迎风盛开的向日葵田",
+        "en": "Sunflowers Blooming in the Breeze",
+        "ja": "風に咲くひまわり畑"
+      }
+    },
+    {
+      "id": "plants-02-orchids",
+      "file": "packs/plants/v2/images/plants-02-orchids.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 279790,
+      "sha256": "1e2073678522bd700c5f7112181996cf617ea27769e05491d7b61e53fdf4b8fb",
+      "name": {
+        "zh-TW": "溫室裡的彩蝶蘭",
+        "zh-CN": "温室里的彩蝶兰",
+        "en": "Butterfly Orchids in the Greenhouse",
+        "ja": "温室に咲く胡蝶蘭"
+      }
+    },
+    {
+      "id": "plants-03-lotus",
+      "file": "packs/plants/v2/images/plants-03-lotus.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 151378,
+      "sha256": "0091a9878578e1ddbb57a9a56ed4799735dd0c080236d70be33cc6ec4548eebe",
+      "name": {
+        "zh-TW": "夏日蓮池清香",
+        "zh-CN": "夏日莲池清香",
+        "en": "Summer Lotus Pond",
+        "ja": "夏の蓮池"
+      }
+    },
+    {
+      "id": "plants-04-tulips",
+      "file": "packs/plants/v2/images/plants-04-tulips.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 201458,
+      "sha256": "eeb2154eb8131b69e98d0f0c43b6d82011fde855915381bcee8f306e20a14c39",
+      "name": {
+        "zh-TW": "春野鬱金香花毯",
+        "zh-CN": "春野郁金香花毯",
+        "en": "Spring Meadow of Tulips",
+        "ja": "春野を彩るチューリップ"
+      }
+    },
+    {
+      "id": "plants-05-forest-ferns",
+      "file": "packs/plants/v2/images/plants-05-forest-ferns.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 239914,
+      "sha256": "ff25dcd131a037d943458780e64e00ac409416939403f4c6ef099bf39485959e",
+      "name": {
+        "zh-TW": "雨林蕨葉與野菇",
+        "zh-CN": "雨林蕨叶与野菇",
+        "en": "Ferns and Mushrooms on the Forest Floor",
+        "ja": "森床のシダときのこ"
+      }
+    },
+    {
+      "id": "plants-06-cactus",
+      "file": "packs/plants/v2/images/plants-06-cactus.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 102934,
+      "sha256": "04b0885246dafb79d0f7095791be3c9ddb2e5168f157c148058b1bf2e2a7c76b",
+      "name": {
+        "zh-TW": "窗光下的仙人掌小園",
+        "zh-CN": "窗光下的仙人掌小园",
+        "en": "Cactus Garden by the Window",
+        "ja": "窓辺のサボテンガーデン"
+      }
+    },
+    {
+      "id": "plants-07-cherry-blossom",
+      "file": "packs/plants/v2/images/plants-07-cherry-blossom.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 291160,
+      "sha256": "c5334661b0bab27ba94245bbf81f57dc85fb0e310994d6e7783ac75344320700",
+      "name": {
+        "zh-TW": "櫻花溪畔小橋",
+        "zh-CN": "樱花溪畔小桥",
+        "en": "Footbridge beneath the Cherry Blossoms",
+        "ja": "桜咲く小川の橋"
+      }
+    },
+    {
+      "id": "plants-08-hydrangea",
+      "file": "packs/plants/v2/images/plants-08-hydrangea.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 205688,
+      "sha256": "16d65c482a27cf27ec6174bed2e2e952fa8fc6a2ce2cc7f8f7210d570fd42a9d",
+      "name": {
+        "zh-TW": "雨後紫陽花小徑",
+        "zh-CN": "雨后绣球花小径",
+        "en": "Hydrangea Path after the Rain",
+        "ja": "雨上がりの紫陽花小径"
+      }
+    },
+    {
+      "id": "plants-09-herb-garden",
+      "file": "packs/plants/v2/images/plants-09-herb-garden.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 309636,
+      "sha256": "7237cac2db53eb4bc3455b4463c2427b72b736ac265e3d7d3180b272b8952be1",
+      "name": {
+        "zh-TW": "石磚旁的香草園",
+        "zh-CN": "石砖旁的香草园",
+        "en": "Herb Garden along the Stone Path",
+        "ja": "石畳に寄り添うハーブ園"
+      }
+    },
+    {
+      "id": "plants-10-autumn-leaves",
+      "file": "packs/plants/v2/images/plants-10-autumn-leaves.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 215530,
+      "sha256": "4e6fed566c24d976a30d266123216a5471ca51700a15942f7e9860c3d9698acd",
+      "name": {
+        "zh-TW": "秋葉與橡實拼盤",
+        "zh-CN": "秋叶与橡实拼盘",
+        "en": "Autumn Leaves and Acorns",
+        "ja": "紅葉とどんぐりの彩り"
+      }
+    }
+  ]
+}

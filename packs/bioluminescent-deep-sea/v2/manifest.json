@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "bioluminescent-deep-sea",
+  "version": 2,
+  "order": 41,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "深藍發光奇境",
+    "zh-CN": "深蓝发光奇境",
+    "en": "Wonders of the Luminous Deep",
+    "ja": "深青に光る海の奇境"
+  },
+  "description": {
+    "zh-TW": "燈籠魚游過峽谷，水母照亮穹頂，熱泉與深海珊瑚築成不可思議的藍色世界，邀你潛入十幅幽光祕境。",
+    "zh-CN": "灯笼鱼游过峡谷，水母照亮穹顶，热泉与深海珊瑚筑成不可思议的蓝色世界，邀你潜入十幅幽光秘境。",
+    "en": "Anglerfish, glass squid, glowing jellyfish, and impossible coral cities illuminate ten mysterious scenes hidden in the ocean's deepest blue.",
+    "ja": "チョウチンアンコウやクラゲ、透明なイカ、深海珊瑚の街が光を放ち、海の最も深い青に隠れた10の奇景へ誘います。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "bioluminescent-deep-sea-01-anglerfish-canyon",
+  "images": [
+    {
+      "id": "bioluminescent-deep-sea-01-anglerfish-canyon",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-01-anglerfish-canyon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 133160,
+      "sha256": "0985abbaca500debc7532996de0fafca2381829481bf93ff30169aeb20f1e8d1",
+      "name": {
+        "zh-TW": "幽燈魚穿越藍晶峽谷",
+        "zh-CN": "幽灯鱼穿越蓝晶峡谷",
+        "en": "Anglerfish through the Blue Crystal Canyon",
+        "ja": "青晶の峡谷を進むチョウチンアンコウ"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-02-jellyfish-cathedral",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-02-jellyfish-cathedral.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 110878,
+      "sha256": "fa47d6cd4629e0ef1dd216cbf8598ff9d56cf0655487ebe62a0cbe9be3f21214",
+      "name": {
+        "zh-TW": "水母穹頂的流光聖堂",
+        "zh-CN": "水母穹顶的流光圣堂",
+        "en": "Jellyfish Cathedral of Drifting Light",
+        "ja": "クラゲの光が漂う海底聖堂"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-03-whale-fall-garden",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-03-whale-fall-garden.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 168684,
+      "sha256": "88bf5eab5614d6cedd9bb5c34f6de6f0112391a778461af91068446adb44c1c5",
+      "name": {
+        "zh-TW": "鯨落之上的新生花園",
+        "zh-CN": "鲸落之上的新生花园",
+        "en": "Garden of New Life upon the Whale Fall",
+        "ja": "鯨骨に芽吹く新生の庭"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-04-giant-octopus-wreck",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-04-giant-octopus-wreck.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 251800,
+      "sha256": "e9d68b20112a707bd5756040b18c1f48aed44cd841c7c63b4e809fce7d58643b",
+      "name": {
+        "zh-TW": "巨章魚盤踞的沉船",
+        "zh-CN": "巨章鱼盘踞的沉船",
+        "en": "Giant Octopus among the Sunken Ruins",
+        "ja": "沈没船を抱く大蛸"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-05-thermal-vent-oasis",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-05-thermal-vent-oasis.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 132906,
+      "sha256": "640f11566dfee764c2cdd0b9786874e98572b2faaa98b735d0b143abd97df19d",
+      "name": {
+        "zh-TW": "黑煙熱泉旁的生命綠洲",
+        "zh-CN": "黑烟热泉旁的生命绿洲",
+        "en": "Living Oasis beside the Black-Smoker Vents",
+        "ja": "黒煙噴く熱水孔の生命の泉"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-06-glass-squid-drift",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-06-glass-squid-drift.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 83414,
+      "sha256": "ee3d6032e2e0962452d22e19a32921cfce8591a5221713632813996e42c94edf",
+      "name": {
+        "zh-TW": "星塵海流中的玻璃魷魚",
+        "zh-CN": "星尘海流中的玻璃鱿鱼",
+        "en": "Glass Squid Drifting through Starry Currents",
+        "ja": "星屑の海流を漂う透明なイカ"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-07-submarine-window",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-07-submarine-window.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 86456,
+      "sha256": "c48df50f784e8a561023d9a9cf48a9e41f82b76ccc81935e33382e7bbd2a1032",
+      "name": {
+        "zh-TW": "潛水艇窗外的幽藍來客",
+        "zh-CN": "潜水艇窗外的幽蓝来客",
+        "en": "Blue Visitor beyond the Submarine Window",
+        "ja": "潜水艇の窓をのぞく蒼い訪問者"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-08-giant-isopod-plain",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-08-giant-isopod-plain.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 112110,
+      "sha256": "ae0de1c9de5d15b0128666b8e87a03983c02814d6e8e44e284560b1787bbbb85",
+      "name": {
+        "zh-TW": "發光平原上的巨型具足蟲",
+        "zh-CN": "发光平原上的巨型具足虫",
+        "en": "Giant Isopod crossing the Luminous Plain",
+        "ja": "光る海底原を進む巨大具足虫"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-09-vampire-squid-stars",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-09-vampire-squid-stars.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 101746,
+      "sha256": "c65afd75c3430533d1aa053549c9e5b9e0ac88fec9b383f32dc8d7ffc8103e56",
+      "name": {
+        "zh-TW": "星雨下展翼的吸血烏賊",
+        "zh-CN": "星雨下展翼的吸血乌贼",
+        "en": "Vampire Squid beneath a Rain of Stars",
+        "ja": "星雨の下で翼を広げるコウモリダコ"
+      }
+    },
+    {
+      "id": "bioluminescent-deep-sea-10-abyssal-coral-city",
+      "file": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-10-abyssal-coral-city.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 163422,
+      "sha256": "ece3cb382ad8979879a2c1ca30304120f5df2855fd7fb73821d0c2f14e6d8389",
+      "name": {
+        "zh-TW": "深淵珊瑚的萬燈之城",
+        "zh-CN": "深渊珊瑚的万灯之城",
+        "en": "City of Ten Thousand Lights in the Abyssal Coral",
+        "ja": "深淵珊瑚に輝く万灯の都"
+      }
+    }
+  ]
+}

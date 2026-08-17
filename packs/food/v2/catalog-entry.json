@@ -1,0 +1,25 @@
+{
+  "packId": "food",
+  "version": 2,
+  "order": 4,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "title": {
+    "zh-TW": "世界好味巡禮",
+    "zh-CN": "世界美味巡礼",
+    "en": "A World of Signature Flavors",
+    "ja": "世界の名物料理めぐり"
+  },
+  "description": {
+    "zh-TW": "從台灣晨間蛋餅到四川麻辣火鍋，以十道代表料理走訪亞洲、歐洲與美洲的餐桌。",
+    "zh-CN": "从台湾晨间蛋饼到四川麻辣火锅，以十道代表料理走访亚洲、欧洲与美洲的餐桌。",
+    "en": "Ten signature dishes journey across the tables of Asia, Europe, and the Americas, from a Taiwanese breakfast to Sichuan hot pot.",
+    "ja": "台湾の朝ごはんから四川の麻辣火鍋まで、アジア・ヨーロッパ・アメリカを代表する10の料理をめぐります。"
+  },
+  "cover": "packs/food/v2/images/food-01-taiwan-breakfast.webp",
+  "manifest": "packs/food/v2/manifest.json",
+  "manifestBytes": 6062,
+  "manifestSha256": "69b70db70c991898d71e5c2f62ccfb6ac955d4a62dd04c0c50993519d49c6bcb",
+  "imageCount": 10,
+  "downloadBytes": 1996152
+}

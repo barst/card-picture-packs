@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "space",
+  "version": 2,
+  "order": 7,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "星海遠航",
+    "zh-CN": "星海远航",
+    "en": "Voyage across the Star Ocean",
+    "ja": "星の海への航海"
+  },
+  "description": {
+    "zh-TW": "從地球軌道啟程，探訪月球基地、火星荒原與遙遠星系；十幅宇宙景象收藏人類仰望未知的壯闊想像。",
+    "zh-CN": "从地球轨道启程，探访月球基地、火星荒原与遥远星系；十幅宇宙景象收藏人类仰望未知的壮阔想象。",
+    "en": "A ten-scene voyage departs Earth orbit for lunar bases, Martian plains, distant worlds, vast galaxies, and the bright edge of discovery.",
+    "ja": "地球軌道を出発し、月面基地、火星の大地、遠い惑星や銀河をめぐる、未知への憧れを描いた10の宇宙景観です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "space-01-earth-orbit",
+  "images": [
+    {
+      "id": "space-01-earth-orbit",
+      "file": "packs/space/v2/images/space-01-earth-orbit.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 111044,
+      "sha256": "7b0d1fa61a071ada095f6c5bea7dd7536ec42bf7df33ad32ad03003efb76d338",
+      "name": {
+        "zh-TW": "晨光中的地球軌道站",
+        "zh-CN": "晨光中的地球轨道站",
+        "en": "Orbital Station at Earth's Dawn",
+        "ja": "地球の夜明けを望む軌道ステーション"
+      }
+    },
+    {
+      "id": "space-02-lunar-base",
+      "file": "packs/space/v2/images/space-02-lunar-base.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 178354,
+      "sha256": "0a16524880228bc2d39f6a8cfdd1e46dbc1f003c8e2a92b79be108f45877ddf0",
+      "name": {
+        "zh-TW": "新月下的月球基地",
+        "zh-CN": "新月下的月球基地",
+        "en": "Lunar Base beneath the Crescent Earth",
+        "ja": "三日月の地球を望む月面基地"
+      }
+    },
+    {
+      "id": "space-03-mars-rover",
+      "file": "packs/space/v2/images/space-03-mars-rover.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 153556,
+      "sha256": "167341d635108d1c400325e1590d1eb72c9bf7e548fc5df815b2955af991b68d",
+      "name": {
+        "zh-TW": "火星峽谷探測車",
+        "zh-CN": "火星峡谷探测车",
+        "en": "Rover across the Martian Canyon",
+        "ja": "火星峡谷を進む探査車"
+      }
+    },
+    {
+      "id": "space-04-nebula",
+      "file": "packs/space/v2/images/space-04-nebula.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 102228,
+      "sha256": "11521d16d8ef1a48756add0086e688efb7d9608624074cdef5af1d6df3bc2dc1",
+      "name": {
+        "zh-TW": "恆星誕生的熾光星雲",
+        "zh-CN": "恒星诞生的炽光星云",
+        "en": "Radiant Nebula of a Newborn Star",
+        "ja": "新たな星が生まれる輝く星雲"
+      }
+    },
+    {
+      "id": "space-05-saturn",
+      "file": "packs/space/v2/images/space-05-saturn.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 35124,
+      "sha256": "5a14d191502b893267e78ed62c4ec0a13536ce1aff5f2e8456e9ac9cc528046b",
+      "name": {
+        "zh-TW": "土星與寂靜衛星群",
+        "zh-CN": "土星与寂静卫星群",
+        "en": "Saturn and Its Silent Moons",
+        "ja": "土星と静かな衛星たち"
+      }
+    },
+    {
+      "id": "space-06-asteroid-field",
+      "file": "packs/space/v2/images/space-06-asteroid-field.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 101848,
+      "sha256": "01a0be17489c08bc7bd88c32de9f661ac771e134c7a2ac9512cadb9d84d6a672",
+      "name": {
+        "zh-TW": "雙日下的隕石荒原",
+        "zh-CN": "双日下的陨石荒原",
+        "en": "Asteroid Wastes beneath Twin Suns",
+        "ja": "二つの太陽に照らされる小惑星原"
+      }
+    },
+    {
+      "id": "space-07-exoplanet",
+      "file": "packs/space/v2/images/space-07-exoplanet.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 84674,
+      "sha256": "a214cbc2a4334868ca21e3b86c8950d4e986d8f883bfcc0663b15169fbf49b2d",
+      "name": {
+        "zh-TW": "藍色系外行星初見",
+        "zh-CN": "蓝色系外行星初见",
+        "en": "First Sight of a Blue Exoplanet",
+        "ja": "青い系外惑星との出会い"
+      }
+    },
+    {
+      "id": "space-08-space-telescope",
+      "file": "packs/space/v2/images/space-08-space-telescope.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122078,
+      "sha256": "7a1d0dd28bac798bc8af61ab858a76a40c94d493c973c0730405dda8ae708cd8",
+      "name": {
+        "zh-TW": "深空望遠鏡凝望地球",
+        "zh-CN": "深空望远镜凝望地球",
+        "en": "Deep-Space Telescope above Earth",
+        "ja": "地球を見つめる深宇宙望遠鏡"
+      }
+    },
+    {
+      "id": "space-09-galaxy",
+      "file": "packs/space/v2/images/space-09-galaxy.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 170390,
+      "sha256": "37fa66ce82051fee0cd3bc417bf8c97f99d8bfab749a766225148461896e3012",
+      "name": {
+        "zh-TW": "旋臂深處的銀河之眼",
+        "zh-CN": "旋臂深处的银河之眼",
+        "en": "Eye of the Spiral Galaxy",
+        "ja": "渦巻銀河の瞳"
+      }
+    },
+    {
+      "id": "space-10-comet",
+      "file": "packs/space/v2/images/space-10-comet.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 81574,
+      "sha256": "38d2e50cd9aadff9e877bef9bf2984d36f4281e5300660c1dd3725f1d33996b2",
+      "name": {
+        "zh-TW": "彗星掠過星球曙光",
+        "zh-CN": "彗星掠过星球曙光",
+        "en": "Comet at the Edge of Planetary Dawn",
+        "ja": "惑星の夜明けをかすめる彗星"
+      }
+    }
+  ]
+}

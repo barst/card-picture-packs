@@ -1,0 +1,25 @@
+{
+  "packId": "female-athletes",
+  "version": 2,
+  "order": 14,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "她們的全力一刻",
+    "zh-CN": "她们的全力一刻",
+    "en": "Strength in Motion",
+    "ja": "彼女たちの全力"
+  },
+  "description": {
+    "zh-TW": "扣殺、衝刺、出拳與飛躍，十個鏡頭定格女運動員專注、力量與不放棄的瞬間。",
+    "zh-CN": "扣杀、冲刺、出拳与飞跃，十个镜头定格女运动员专注、力量与不放弃的瞬间。",
+    "en": "Ten defining moments of focus and resolve, from a decisive spike and a finish-line sprint to a fearless leap.",
+    "ja": "渾身のスパイク、ゴールへの疾走、鋭い一打、空中の跳躍。女性アスリートの集中と強さを捉えた10の瞬間です。"
+  },
+  "cover": "packs/female-athletes/v2/images/female-athletes-01-volleyball.webp",
+  "manifest": "packs/female-athletes/v2/manifest.json",
+  "manifestBytes": 6312,
+  "manifestSha256": "b2d0f3205eb18d9244caf71c337f516399140e02757ba5234e73c77ec0918286",
+  "imageCount": 10,
+  "downloadBytes": 1343622
+}

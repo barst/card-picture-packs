@@ -1,0 +1,25 @@
+{
+  "packId": "cat-artisan-street",
+  "version": 2,
+  "order": 40,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "貓咪手作街",
+    "zh-CN": "猫咪手作街",
+    "en": "Cat Artisans' Lane",
+    "ja": "猫職人の手仕事通り"
+  },
+  "description": {
+    "zh-TW": "陶藝、麵包、花束與玻璃工藝，十位貓咪職人守著各自的小店，讓整條老街飄散手作的溫度與香氣。",
+    "zh-CN": "陶艺、面包、花束与玻璃工艺，十位猫咪匠人守着各自的小店，让整条老街飘散手作的温度与香气。",
+    "en": "Ten devoted cat artisans shape pottery, bake bread, bind books, blow glass, and keep a charming old lane alive with the warmth of handmade craft.",
+    "ja": "陶芸やパン、花束、本作り、ガラス細工。10匹の猫職人が小さな店を守り、古い通りを手仕事のぬくもりで満たします。"
+  },
+  "cover": "packs/cat-artisan-street/v2/images/cat-artisan-street-01-potter-cat.webp",
+  "manifest": "packs/cat-artisan-street/v2/manifest.json",
+  "manifestBytes": 6921,
+  "manifestSha256": "3c0e6c7cda2cae9edd252876296250e41d48e1cbdf1b3b73af7416d7306bb3f5",
+  "imageCount": 10,
+  "downloadBytes": 1247514
+}

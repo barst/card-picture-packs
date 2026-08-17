@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "female-athletes",
+  "version": 2,
+  "order": 14,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "她們的全力一刻",
+    "zh-CN": "她们的全力一刻",
+    "en": "Strength in Motion",
+    "ja": "彼女たちの全力"
+  },
+  "description": {
+    "zh-TW": "扣殺、衝刺、出拳與飛躍，十個鏡頭定格女運動員專注、力量與不放棄的瞬間。",
+    "zh-CN": "扣杀、冲刺、出拳与飞跃，十个镜头定格女运动员专注、力量与不放弃的瞬间。",
+    "en": "Ten defining moments of focus and resolve, from a decisive spike and a finish-line sprint to a fearless leap.",
+    "ja": "渾身のスパイク、ゴールへの疾走、鋭い一打、空中の跳躍。女性アスリートの集中と強さを捉えた10の瞬間です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "female-athletes-01-volleyball",
+  "images": [
+    {
+      "id": "female-athletes-01-volleyball",
+      "file": "packs/female-athletes/v2/images/female-athletes-01-volleyball.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 111414,
+      "sha256": "ff803d23486049b1dc767488b9b5faf043eb21f383a221815375aff59eaf8787",
+      "name": {
+        "zh-TW": "高點決勝扣殺",
+        "zh-CN": "高点决胜扣杀",
+        "en": "Match-Point Spike",
+        "ja": "勝負を決めるスパイク"
+      }
+    },
+    {
+      "id": "female-athletes-02-kyudo",
+      "file": "packs/female-athletes/v2/images/female-athletes-02-kyudo.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 105436,
+      "sha256": "879925dab1915a24f1a3b71b65d7d0277ffe7ff3909b28d0b49b24d1b1df050d",
+      "name": {
+        "zh-TW": "心靜如弦的弓道",
+        "zh-CN": "心静如弦的弓道",
+        "en": "Focus at Full Draw",
+        "ja": "静寂を射抜く弓道"
+      }
+    },
+    {
+      "id": "female-athletes-03-ballet",
+      "file": "packs/female-athletes/v2/images/female-athletes-03-ballet.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 64542,
+      "sha256": "5428fb2eace4a921bd0d4402d987b828078eb653aa67a201902c16eb3e575277",
+      "name": {
+        "zh-TW": "舞台上的飛躍",
+        "zh-CN": "舞台上的飞跃",
+        "en": "Grand Jeté in the Spotlight",
+        "ja": "舞台を翔ける大跳躍"
+      }
+    },
+    {
+      "id": "female-athletes-04-sprinter",
+      "file": "packs/female-athletes/v2/images/female-athletes-04-sprinter.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 189996,
+      "sha256": "188351b46e323ddf85cbf2d2b3aefaa8aac655e2befa628dc111523fed97280f",
+      "name": {
+        "zh-TW": "衝破終點線",
+        "zh-CN": "冲破终点线",
+        "en": "Breaking the Finish Line",
+        "ja": "フィニッシュラインを駆け抜けて"
+      }
+    },
+    {
+      "id": "female-athletes-05-beach-volleyball",
+      "file": "packs/female-athletes/v2/images/female-athletes-05-beach-volleyball.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 132664,
+      "sha256": "6ccda94ba675eed2490ad88ef950476fa8ead24e9a76018f908039c0b51f57f0",
+      "name": {
+        "zh-TW": "飛身救起沙灘排球",
+        "zh-CN": "飞身救起沙滩排球",
+        "en": "Diving Save on the Sand",
+        "ja": "砂上のダイビングレシーブ"
+      }
+    },
+    {
+      "id": "female-athletes-06-motorcycle",
+      "file": "packs/female-athletes/v2/images/female-athletes-06-motorcycle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 120278,
+      "sha256": "bf1d92777283fe630ff1fa2c5ed4781c1a0595b577e40420169d22d65a25b311",
+      "name": {
+        "zh-TW": "雨夜賽道壓彎",
+        "zh-CN": "雨夜赛道压弯",
+        "en": "Leaning Into the Rain-Slick Turn",
+        "ja": "雨のコーナーを攻める"
+      }
+    },
+    {
+      "id": "female-athletes-07-boxer",
+      "file": "packs/female-athletes/v2/images/female-athletes-07-boxer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 116996,
+      "sha256": "c2fccda1f18c3a7c010c841cb0006081975c06d7ca8e5d8cac7436e829ea0bc9",
+      "name": {
+        "zh-TW": "汗水中的直拳",
+        "zh-CN": "汗水中的直拳",
+        "en": "Straight Punch Through the Sweat",
+        "ja": "汗を飛ばすストレート"
+      }
+    },
+    {
+      "id": "female-athletes-08-swimmer",
+      "file": "packs/female-athletes/v2/images/female-athletes-08-swimmer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 195922,
+      "sha256": "92e89ba9afd8d2d7a54f046d41369933d5b6c4ae32fa1e0e8ccb1618766ff004",
+      "name": {
+        "zh-TW": "破水而出的蝶式",
+        "zh-CN": "破水而出的蝶泳",
+        "en": "Butterfly Stroke in Full Flight",
+        "ja": "水しぶきを上げるバタフライ"
+      }
+    },
+    {
+      "id": "female-athletes-09-gymnast",
+      "file": "packs/female-athletes/v2/images/female-athletes-09-gymnast.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 62016,
+      "sha256": "366870832b7e9c405dbc60aa5a68869c13052dd91c56267a0d47d14f929eab22",
+      "name": {
+        "zh-TW": "平衡木上的凌空一躍",
+        "zh-CN": "平衡木上的凌空一跃",
+        "en": "Leap Above the Balance Beam",
+        "ja": "平均台を舞う跳躍"
+      }
+    },
+    {
+      "id": "female-athletes-10-soccer",
+      "file": "packs/female-athletes/v2/images/female-athletes-10-soccer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 244358,
+      "sha256": "180f33318a8695cd91ef4824ff8acec04dcb2489836a1f01a936cf7faf1902b4",
+      "name": {
+        "zh-TW": "燈光下的致勝凌空抽射",
+        "zh-CN": "灯光下的制胜凌空抽射",
+        "en": "Winning Volley Under the Lights",
+        "ja": "光の中の決勝ボレー"
+      }
+    }
+  ]
+}

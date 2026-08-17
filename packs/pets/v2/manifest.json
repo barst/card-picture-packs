@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "pets",
+  "version": 2,
+  "order": 2,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "毛孩晴日",
+    "zh-CN": "萌宠晴日",
+    "en": "Sunny Days with Cats and Dogs",
+    "ja": "猫と犬のひだまり日和"
+  },
+  "description": {
+    "zh-TW": "從草地追球、窗邊曬暖到雨後花園，十段貓狗相伴的可愛時光，收進每一個讓人微笑的日常瞬間。",
+    "zh-CN": "从草地追球、窗边晒暖到雨后花园，十段猫狗相伴的可爱时光，收进每一个让人微笑的日常瞬间。",
+    "en": "Ten cheerful moments with beloved cats and dogs, from garden play and sunny windows to picnics and quiet companionship.",
+    "ja": "庭遊びや日向ぼっこ、ピクニックまで、猫と犬が寄り添う笑顔いっぱいの10のひとときです。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "pets-01-golden-retriever",
+  "images": [
+    {
+      "id": "pets-01-golden-retriever",
+      "file": "packs/pets/v2/images/pets-01-golden-retriever.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 94278,
+      "sha256": "0d398fd3bbda9fc2a12c46baef9063ddac7c5612b5cbbaf0832b1403a9d79117",
+      "name": {
+        "zh-TW": "草地追球的黃金獵犬",
+        "zh-CN": "草地追球的金毛寻回犬",
+        "en": "Golden Retriever Chasing a Ball",
+        "ja": "芝生でボールを追うゴールデンレトリバー"
+      }
+    },
+    {
+      "id": "pets-02-tabby-cat",
+      "file": "packs/pets/v2/images/pets-02-tabby-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 102002,
+      "sha256": "2c084cd639f67b32b9737943aa026ab1c644878d67e91d4c32fdd60df9dae2b5",
+      "name": {
+        "zh-TW": "花窗邊的虎斑貓",
+        "zh-CN": "花窗边的虎斑猫",
+        "en": "Tabby Cat by the Flowered Window",
+        "ja": "花窓辺のキジトラ猫"
+      }
+    },
+    {
+      "id": "pets-03-corgi",
+      "file": "packs/pets/v2/images/pets-03-corgi.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 93960,
+      "sha256": "fa5e7379c5c8199845f177462d4d232d6331ef33a5e3cb4c342dfd041943c5fc",
+      "name": {
+        "zh-TW": "野花坡上的柯基",
+        "zh-CN": "野花坡上的柯基",
+        "en": "Corgi Running through Wildflowers",
+        "ja": "野花を駆けるコーギー"
+      }
+    },
+    {
+      "id": "pets-04-ragdoll-cat",
+      "file": "packs/pets/v2/images/pets-04-ragdoll-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 80146,
+      "sha256": "4ea07b15aa18d5c3599f8b6a44797046fe567da720aced51861dc7210ffaad70",
+      "name": {
+        "zh-TW": "毛線球旁的布偶貓",
+        "zh-CN": "毛线球旁的布偶猫",
+        "en": "Ragdoll Cat with a Ball of Yarn",
+        "ja": "毛糸玉と遊ぶラグドール"
+      }
+    },
+    {
+      "id": "pets-05-shiba",
+      "file": "packs/pets/v2/images/pets-05-shiba.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 211004,
+      "sha256": "70d80ecadbe2d88acd9479d7bc1d16316569a1f1fa9be10d9fe07d9dcab56015",
+      "name": {
+        "zh-TW": "秋葉小徑的柴犬",
+        "zh-CN": "秋叶小径的柴犬",
+        "en": "Shiba Inu on an Autumn Path",
+        "ja": "落ち葉の小径の柴犬"
+      }
+    },
+    {
+      "id": "pets-06-black-cat",
+      "file": "packs/pets/v2/images/pets-06-black-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 110318,
+      "sha256": "0692b155d6eeda497edff782f1e01c46980f8cb7d41fe9a19e1a225f7f34c74a",
+      "name": {
+        "zh-TW": "書店暖燈下的黑貓",
+        "zh-CN": "书店暖灯下的黑猫",
+        "en": "Black Cat beneath the Bookshop Lamp",
+        "ja": "本屋の灯りにくつろぐ黒猫"
+      }
+    },
+    {
+      "id": "pets-07-beagle",
+      "file": "packs/pets/v2/images/pets-07-beagle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 156336,
+      "sha256": "176edb11dc8add15acf0f169856aae6e2832bda8e244e004c899db1853518062",
+      "name": {
+        "zh-TW": "野餐墊上的米格魯",
+        "zh-CN": "野餐垫上的比格犬",
+        "en": "Beagle Ready for a Picnic",
+        "ja": "ピクニックを待つビーグル"
+      }
+    },
+    {
+      "id": "pets-08-kittens",
+      "file": "packs/pets/v2/images/pets-08-kittens.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 64094,
+      "sha256": "7835aaa27b76c3dc3656793b9b3101ef2854a74a42989e1b788fa8e58549d4ac",
+      "name": {
+        "zh-TW": "紙箱裡的三隻小貓",
+        "zh-CN": "纸箱里的三只小猫",
+        "en": "Three Kittens in a Cardboard Box",
+        "ja": "箱からのぞく三匹の子猫"
+      }
+    },
+    {
+      "id": "pets-09-poodle",
+      "file": "packs/pets/v2/images/pets-09-poodle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 124464,
+      "sha256": "43443fb574c2d90296002b2862113ba7d3ca8c1695ce350cec84ad57ec872acd",
+      "name": {
+        "zh-TW": "花園澆水的小貴賓",
+        "zh-CN": "花园浇水的小贵宾犬",
+        "en": "Little Poodle in the Garden",
+        "ja": "庭で水遊びするトイプードル"
+      }
+    },
+    {
+      "id": "pets-10-cat-dog-friends",
+      "file": "packs/pets/v2/images/pets-10-cat-dog-friends.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 88160,
+      "sha256": "b17f08f29d3d355ddc04343f9e9dd0d2a87ce16d5537f2a6308f503a308f1c02",
+      "name": {
+        "zh-TW": "窗台上的貓狗好友",
+        "zh-CN": "窗台上的猫狗好友",
+        "en": "Cat and Dog Friends at the Window",
+        "ja": "窓辺に並ぶ猫と犬の友だち"
+      }
+    }
+  ]
+}

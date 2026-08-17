@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "children-bible",
+  "version": 2,
+  "order": 33,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "給孩子的聖經故事",
+    "zh-CN": "给孩子的圣经故事",
+    "en": "Beloved Bible Stories for Children",
+    "ja": "子どもと読む聖書物語"
+  },
+  "description": {
+    "zh-TW": "從挪亞方舟、摩西過紅海到耶穌祝福孩子與復活清晨，以溫暖明亮的圖畫重述十段經典聖經故事。",
+    "zh-CN": "从挪亚方舟、摩西过红海到耶稣祝福孩子与复活清晨，以温暖明亮的图画重述十段经典圣经故事。",
+    "en": "Ten beloved Bible stories—from Noah's Ark and the Red Sea to Jesus welcoming the children and the morning of the Resurrection—are retold in warm, luminous art.",
+    "ja": "ノアの箱舟、紅海を渡るモーセ、子どもたちを祝福するイエス、復活の朝まで、親しまれてきた10の聖書物語を温かな絵で描きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "children-bible-01-noahs-ark-rainbow",
+  "images": [
+    {
+      "id": "children-bible-01-noahs-ark-rainbow",
+      "file": "packs/children-bible/v2/images/children-bible-01-noahs-ark-rainbow.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 373334,
+      "sha256": "dc404dde30169491e9aa2d0d6008bbd2de4e5cecabcd8b8e2d822f928de30f2a",
+      "name": {
+        "zh-TW": "彩虹下的挪亞方舟",
+        "zh-CN": "彩虹下的挪亚方舟",
+        "en": "Noah's Ark beneath the Rainbow",
+        "ja": "虹の下のノアの箱舟"
+      }
+    },
+    {
+      "id": "children-bible-02-moses-red-sea",
+      "file": "packs/children-bible/v2/images/children-bible-02-moses-red-sea.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 326730,
+      "sha256": "2077c838afaf038232b9a50ec7a35eaeec8a9a80adeebc1582189d51c940b41a",
+      "name": {
+        "zh-TW": "摩西帶領百姓過紅海",
+        "zh-CN": "摩西带领百姓过红海",
+        "en": "Moses Leads the People through the Red Sea",
+        "ja": "民を率いて紅海を渡るモーセ"
+      }
+    },
+    {
+      "id": "children-bible-03-david-goliath",
+      "file": "packs/children-bible/v2/images/children-bible-03-david-goliath.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 245738,
+      "sha256": "e0931b47558b50f07238d4a50178f9001c650e9b74c5853324cbd89bd197c53d",
+      "name": {
+        "zh-TW": "大衛勇敢面對歌利亞",
+        "zh-CN": "大卫勇敢面对歌利亚",
+        "en": "David Bravely Faces Goliath",
+        "ja": "ゴリアテに立ち向かうダビデ"
+      }
+    },
+    {
+      "id": "children-bible-04-daniel-lions-den",
+      "file": "packs/children-bible/v2/images/children-bible-04-daniel-lions-den.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 347068,
+      "sha256": "884fc7bc39eb016532af5740522237cef3f8c7fa49ba52c5cf11c31645153cfe",
+      "name": {
+        "zh-TW": "獅子坑中的但以理",
+        "zh-CN": "狮子坑中的但以理",
+        "en": "Daniel in the Lions' Den",
+        "ja": "獅子の穴のダニエル"
+      }
+    },
+    {
+      "id": "children-bible-05-jonah-great-fish",
+      "file": "packs/children-bible/v2/images/children-bible-05-jonah-great-fish.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 273658,
+      "sha256": "8c44fbdf22cd97c42fd9b1774076d3d11135de92e36997d1ee7eb99d5011138b",
+      "name": {
+        "zh-TW": "約拿與大魚",
+        "zh-CN": "约拿与大鱼",
+        "en": "Jonah and the Great Fish",
+        "ja": "ヨナと大きな魚"
+      }
+    },
+    {
+      "id": "children-bible-06-nativity-bethlehem",
+      "file": "packs/children-bible/v2/images/children-bible-06-nativity-bethlehem.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 292980,
+      "sha256": "1e969ea09cc720e1075295f706e8c04704d8e2a2559a85f4e69fe85ecb2bba69",
+      "name": {
+        "zh-TW": "伯利恆的聖誕夜",
+        "zh-CN": "伯利恒的圣诞夜",
+        "en": "The Nativity in Bethlehem",
+        "ja": "ベツレヘムの聖夜"
+      }
+    },
+    {
+      "id": "children-bible-07-jesus-blesses-children",
+      "file": "packs/children-bible/v2/images/children-bible-07-jesus-blesses-children.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 355512,
+      "sha256": "6fc372371367bc11eecb6a14d220affc9dbe839f687f0dca124e1382fd591d05",
+      "name": {
+        "zh-TW": "耶穌祝福孩子們",
+        "zh-CN": "耶稣祝福孩子们",
+        "en": "Jesus Blesses the Children",
+        "ja": "子どもたちを祝福するイエス"
+      }
+    },
+    {
+      "id": "children-bible-08-feeding-five-thousand",
+      "file": "packs/children-bible/v2/images/children-bible-08-feeding-five-thousand.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 353876,
+      "sha256": "2c5b5b340c09af65797c0b54cb6b490f4fbc90e5953341f88c2b6fd13700c100",
+      "name": {
+        "zh-TW": "五餅二魚的分享",
+        "zh-CN": "五饼二鱼的分享",
+        "en": "Five Loaves and Two Fish",
+        "ja": "五つのパンと二匹の魚"
+      }
+    },
+    {
+      "id": "children-bible-09-good-samaritan",
+      "file": "packs/children-bible/v2/images/children-bible-09-good-samaritan.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 376164,
+      "sha256": "ef3a6ab9ca9ee092da63e70d7e0c4bce1cade2c7b60b0022812a90cc1408dcbc",
+      "name": {
+        "zh-TW": "慈心的好撒瑪利亞人",
+        "zh-CN": "慈心的好撒玛利亚人",
+        "en": "The Compassionate Good Samaritan",
+        "ja": "思いやり深い善きサマリア人"
+      }
+    },
+    {
+      "id": "children-bible-10-empty-tomb-resurrection",
+      "file": "packs/children-bible/v2/images/children-bible-10-empty-tomb-resurrection.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 319906,
+      "sha256": "743c5a354274571357c1410b8b7c97f96dee441f60f5d4f186a7c85f71b1abae",
+      "name": {
+        "zh-TW": "空墳墓與復活清晨",
+        "zh-CN": "空坟墓与复活清晨",
+        "en": "Resurrection Morning at the Empty Tomb",
+        "ja": "空の墓と復活の朝"
+      }
+    }
+  ]
+}

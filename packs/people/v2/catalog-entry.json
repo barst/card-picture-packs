@@ -1,0 +1,25 @@
+{
+  "packId": "people",
+  "version": 2,
+  "order": 5,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "title": {
+    "zh-TW": "人間百景",
+    "zh-CN": "人间百景",
+    "en": "Portraits of Everyday Life",
+    "ja": "人々の暮らし百景"
+  },
+  "description": {
+    "zh-TW": "陶藝師、街頭樂手、漁夫與農人各自在熟悉的地方專注生活，十幅真誠肖像記下工作、節慶與相遇的溫度。",
+    "zh-CN": "陶艺师、街头乐手、渔夫与农人各自在熟悉的地方专注生活，十幅真诚肖像记下工作、节庆与相遇的温度。",
+    "en": "Ten honest portraits celebrate the focus, craft, and joy of potters, musicians, vendors, fishers, farmers, and neighbors at work and at play.",
+    "ja": "陶芸家、音楽家、市場の店主、漁師、農家など、仕事や祭りに生きる人々の温かな表情を描いた10の物語です。"
+  },
+  "cover": "packs/people/v2/images/people-01-potter.webp",
+  "manifest": "packs/people/v2/manifest.json",
+  "manifestBytes": 6085,
+  "manifestSha256": "6649fd865515f3d179893331fb3ede436fb4fc196b543d2f13e3fecdd4b8933a",
+  "imageCount": 10,
+  "downloadBytes": 2034936
+}

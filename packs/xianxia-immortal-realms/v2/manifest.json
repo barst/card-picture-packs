@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "xianxia-immortal-realms",
+  "version": 2,
+  "order": 49,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "仙俠雲海秘境",
+    "zh-CN": "仙侠云海秘境",
+    "en": "Immortal Realms Beyond the Clouds",
+    "ja": "雲海に眠る仙境"
+  },
+  "description": {
+    "zh-TW": "御劍穿雲、月瀑靜修、天火鑄劍，十幅水墨仙境展開修行者跨越雷劫、尋道飛升的旅程。",
+    "zh-CN": "御剑穿云、月瀑静修、天火铸剑，十幅水墨仙境展开修行者跨越雷劫、寻道飞升的旅程。",
+    "en": "Ten ink-wash realms follow a cultivator's path through swordflight, moonlit meditation, celestial forging, thunder trials, and final ascension.",
+    "ja": "剣に乗る飛行、月瀑での修行、天火の鍛剣。10の水墨仙境に、雷劫を越えて昇仙を目指す旅が広がります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "xianxia-immortal-realms-01-cloud-sword-ascent",
+  "images": [
+    {
+      "id": "xianxia-immortal-realms-01-cloud-sword-ascent",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-01-cloud-sword-ascent.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 141582,
+      "sha256": "eaf0ee4df9267ec2aa0f0863b8e381bf958798fdfe147c61d16408183bb2629f",
+      "name": {
+        "zh-TW": "御劍破雲登天路",
+        "zh-CN": "御剑破云登天路",
+        "en": "Swordflight Through the Clouds",
+        "ja": "剣に乗って雲海を昇る"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-02-moonfall-cultivation",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-02-moonfall-cultivation.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 289916,
+      "sha256": "5f290929e9bc8f04d0fcabdce2262e0e4dbac9ad63274b843e4614cd96c0dac9",
+      "name": {
+        "zh-TW": "月瀑之下靜修",
+        "zh-CN": "月瀑之下静修",
+        "en": "Moonlit Cultivation Beneath the Falls",
+        "ja": "月瀑の下の静かな修行"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-03-floating-scripture-pavilion",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-03-floating-scripture-pavilion.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 233608,
+      "sha256": "e018e12c91bd0a7e05fb25e6bb43fef9e64e884b46b01217860fe2981502f68e",
+      "name": {
+        "zh-TW": "雲端藏經閣",
+        "zh-CN": "云端藏经阁",
+        "en": "Scripture Pavilion Above the Clouds",
+        "ja": "雲上の経典楼閣"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-04-crane-mist-courtyard",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-04-crane-mist-courtyard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 229132,
+      "sha256": "a8fca93b5d73146762eb04e507971355afa6024d03f7478cb462daf344a01794",
+      "name": {
+        "zh-TW": "仙鶴霧庭",
+        "zh-CN": "仙鹤雾庭",
+        "en": "Crane Courtyard in the Morning Mist",
+        "ja": "仙鶴舞う霧の庭"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-05-celestial-sword-forge",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-05-celestial-sword-forge.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 282884,
+      "sha256": "3e4a7f6f5d28fa449d0bc7bef6a72898705b4ab5ce0343380d1414d1e706d101",
+      "name": {
+        "zh-TW": "天火鑄神劍",
+        "zh-CN": "天火铸神剑",
+        "en": "Celestial Fire at the Sword Forge",
+        "ja": "天火で神剣を鍛える"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-06-bamboo-ribbon-duel",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-06-bamboo-ribbon-duel.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 142944,
+      "sha256": "2ce5528475d4db0be1d65f43b819a2c21b26b0f370d6a9c392de6961b097cf24",
+      "name": {
+        "zh-TW": "竹影飛綾劍決",
+        "zh-CN": "竹影飞绫剑决",
+        "en": "Ribbonblade Duel in the Bamboo Mist",
+        "ja": "竹林を舞う剣と絹帯"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-07-thunder-tribulation-peak",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-07-thunder-tribulation-peak.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 249180,
+      "sha256": "3d2d6ab57403f3e4daf30f87c9ee3580c7142aa6b0bab9b5af621f7b19a809f6",
+      "name": {
+        "zh-TW": "雷劫臨峰",
+        "zh-CN": "雷劫临峰",
+        "en": "Thunder Tribulation at the Summit",
+        "ja": "山頂に落ちる雷劫"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-08-lotus-mirror-lake",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-08-lotus-mirror-lake.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 146550,
+      "sha256": "5cadaef41a1eb52aaac77884bf504165b7540c05278cddac446aacb72f47c4c2",
+      "name": {
+        "zh-TW": "蓮鏡湖孤舟",
+        "zh-CN": "莲镜湖孤舟",
+        "en": "Lone Boat on the Lotus Mirror Lake",
+        "ja": "蓮の鏡湖に浮かぶ一舟"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-09-ancient-seal-cavern",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-09-ancient-seal-cavern.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 313502,
+      "sha256": "6066c7ba57fe640c188b6021066ceb2c0b59df29d48ced0098687ddfdd10f8c4",
+      "name": {
+        "zh-TW": "古印封天洞",
+        "zh-CN": "古印封天洞",
+        "en": "Cavern of the Ancient Seal",
+        "ja": "古印に閉ざされた洞窟"
+      }
+    },
+    {
+      "id": "xianxia-immortal-realms-10-dawn-ascension-gate",
+      "file": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-10-dawn-ascension-gate.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 133112,
+      "sha256": "199c69b4cebbbb0731baa9884b7e300d7eb326fd460d34ee1b680df02c056828",
+      "name": {
+        "zh-TW": "曙光飛升門",
+        "zh-CN": "曙光飞升门",
+        "en": "Ascension Gate at Dawn",
+        "ja": "暁の昇仙門"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "children-bible",
+  "version": 2,
+  "order": 33,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "給孩子的聖經故事",
+    "zh-CN": "给孩子的圣经故事",
+    "en": "Beloved Bible Stories for Children",
+    "ja": "子どもと読む聖書物語"
+  },
+  "description": {
+    "zh-TW": "從挪亞方舟、摩西過紅海到耶穌祝福孩子與復活清晨，以溫暖明亮的圖畫重述十段經典聖經故事。",
+    "zh-CN": "从挪亚方舟、摩西过红海到耶稣祝福孩子与复活清晨，以温暖明亮的图画重述十段经典圣经故事。",
+    "en": "Ten beloved Bible stories—from Noah's Ark and the Red Sea to Jesus welcoming the children and the morning of the Resurrection—are retold in warm, luminous art.",
+    "ja": "ノアの箱舟、紅海を渡るモーセ、子どもたちを祝福するイエス、復活の朝まで、親しまれてきた10の聖書物語を温かな絵で描きます。"
+  },
+  "cover": "packs/children-bible/v2/images/children-bible-01-noahs-ark-rainbow.webp",
+  "manifest": "packs/children-bible/v2/manifest.json",
+  "manifestBytes": 6703,
+  "manifestSha256": "0a3bfa48524bef27afa84b4a0e88e94765211c6731bdf227f6dfa30ff61afb7f",
+  "imageCount": 10,
+  "downloadBytes": 3264966
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "lost-dinosaur-world",
+  "version": 2,
+  "order": 42,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "失落巨獸紀行",
+    "zh-CN": "失落巨兽纪行",
+    "en": "Chronicles of the Lost Giants",
+    "ja": "失われた巨獣紀行"
+  },
+  "description": {
+    "zh-TW": "暴龍迎向黎明、三角龍渡河、翼龍掠過海岸，十段壯闊風景重現恐龍仍漫步大地與海洋的遠古世界。",
+    "zh-CN": "暴龙迎向黎明、三角龙渡河、翼龙掠过海岸，十段壮阔风景重现恐龙仍漫步大地与海洋的远古世界。",
+    "en": "Ten sweeping scenes—from a tyrannosaur at dawn to a mosasaur beneath the waves—reawaken an ancient world ruled by giants of land, sea, and sky.",
+    "ja": "夜明けの暴君竜、川を渡る角竜、海岸を舞う翼竜。陸と海と空を巨獣が支配した太古の世界を10の壮景で描きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "lost-dinosaur-world-01-tyrannosaurus-dawn",
+  "images": [
+    {
+      "id": "lost-dinosaur-world-01-tyrannosaurus-dawn",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-01-tyrannosaurus-dawn.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 172082,
+      "sha256": "0e4b6f1c302de027c9fbf2e46659b824a163c1ff6006485ea5a0fa63de794175",
+      "name": {
+        "zh-TW": "晨霧山谷的暴龍王",
+        "zh-CN": "晨雾山谷的暴龙王",
+        "en": "Tyrannosaur King in the Misty Dawn Valley",
+        "ja": "朝霧の谷に立つ暴君竜"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-02-triceratops-river",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-02-triceratops-river.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 289668,
+      "sha256": "a7c7f9b971084e6d17112a4807cb825b4a2c90c8cd248f7871a00574ef9ef45d",
+      "name": {
+        "zh-TW": "三角龍家族的渡河時刻",
+        "zh-CN": "三角龙家族的渡河时刻",
+        "en": "Triceratops Family Crossing the River",
+        "ja": "川を渡る角竜の家族"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-03-brachiosaurus-forest",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-03-brachiosaurus-forest.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 216238,
+      "sha256": "405c18532b0b53369e1eade72495e9931d77cd9129293d8c21fd0b638827d5df",
+      "name": {
+        "zh-TW": "巨木森林裡的腕龍",
+        "zh-CN": "巨木森林里的腕龙",
+        "en": "Brachiosaurs among the Ancient Trees",
+        "ja": "巨木の森を歩く腕竜"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-04-feathered-raptor",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-04-feathered-raptor.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 163010,
+      "sha256": "7115a117a35acf1b30a4e9b565a41d6d3bf9a6bb8162608f48d3090c28a39946",
+      "name": {
+        "zh-TW": "蕨葉間疾行的羽毛迅猛龍",
+        "zh-CN": "蕨叶间疾行的羽毛迅猛龙",
+        "en": "Feathered Raptor Racing through the Ferns",
+        "ja": "シダの間を駆ける羽毛の狩猟竜"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-05-pterosaur-coast",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-05-pterosaur-coast.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 167324,
+      "sha256": "6e840b0656a6be62a8ba5994acbff839a7efd68309794f884bfeb117464f1923",
+      "name": {
+        "zh-TW": "翼龍群掠過碧海峭壁",
+        "zh-CN": "翼龙群掠过碧海峭壁",
+        "en": "Pterosaurs above the Turquoise Cliffs",
+        "ja": "碧海の断崖を舞う翼竜群"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-06-ankylosaurus-storm",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-06-ankylosaurus-storm.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 202078,
+      "sha256": "2fce247c07abf8544c65091bcb1abd94dae0505081c4db7112c152edd0f75a6a",
+      "name": {
+        "zh-TW": "雷雨荒原上的甲龍",
+        "zh-CN": "雷雨荒原上的甲龙",
+        "en": "Ankylosaur beneath the Thunderstorm",
+        "ja": "雷雨の荒野を行く鎧竜"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-07-stegosaurus-sunset",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-07-stegosaurus-sunset.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 303074,
+      "sha256": "c4a19107f6a790d7c39599d4e376a439c7e86db4e9c32622a61a0dc0bd11ac74",
+      "name": {
+        "zh-TW": "劍龍漫步金色夕野",
+        "zh-CN": "剑龙漫步金色夕野",
+        "en": "Stegosaurus in the Golden Sunset Meadow",
+        "ja": "金色の夕野を歩く剣竜"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-08-parasaurolophus-migration",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-08-parasaurolophus-migration.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 295918,
+      "sha256": "f764bc90fc835f240cda24fadc868e8d7506d0f7335458de63644f4ad7c31ea4",
+      "name": {
+        "zh-TW": "冠龍群穿越紅岩大地",
+        "zh-CN": "冠龙群穿越红岩大地",
+        "en": "Crested Herd across the Red-Rock Country",
+        "ja": "赤岩の大地を渡る冠竜の群れ"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-09-mosasaur-sea",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-09-mosasaur-sea.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 214834,
+      "sha256": "09dea24a51e943d889fdb08c94e039a66811eae1bdf27647b3a6240e1cbaf3a6",
+      "name": {
+        "zh-TW": "滄龍巡游的遠古藍海",
+        "zh-CN": "沧龙巡游的远古蓝海",
+        "en": "Mosasaur Patrolling the Ancient Blue",
+        "ja": "太古の蒼海を巡る海竜"
+      }
+    },
+    {
+      "id": "lost-dinosaur-world-10-fossil-discovery",
+      "file": "packs/lost-dinosaur-world/v2/images/lost-dinosaur-world-10-fossil-discovery.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 403628,
+      "sha256": "9a2622d018a523c290261b73e7dd49e391099f75990d6ea6641698630e9ffa19",
+      "name": {
+        "zh-TW": "暮色峽谷的化石發掘地",
+        "zh-CN": "暮色峡谷的化石发掘地",
+        "en": "Fossil Discovery in the Twilight Canyon",
+        "ja": "夕映えの峡谷に眠る化石発掘地"
+      }
+    }
+  ]
+}

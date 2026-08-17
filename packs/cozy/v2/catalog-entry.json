@@ -1,0 +1,25 @@
+{
+  "packId": "cozy",
+  "version": 2,
+  "order": 8,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "title": {
+    "zh-TW": "暖暖日常",
+    "zh-CN": "暖暖日常",
+    "en": "Little Days of Warmth",
+    "ja": "ほっとする日々"
+  },
+  "description": {
+    "zh-TW": "家人的早餐、雨站共傘、夜市散步與節日餐桌，十幅柔和插畫收藏那些平凡卻最讓人安心的相伴時光。",
+    "zh-CN": "家人的早餐、雨站共伞、夜市散步与节日餐桌，十幅柔和插画收藏那些平凡却最让人安心的相伴时光。",
+    "en": "Ten gentle illustrations treasure the comfort of family breakfasts, shared umbrellas, night-market walks, pets at home, and festive tables.",
+    "ja": "家族の朝食、相合傘、夜市の散歩、ペットとの時間、祝いの食卓など、何気ない幸せを描いた10のやさしい物語です。"
+  },
+  "cover": "packs/cozy/v2/images/cozy-01-family-kitchen.webp",
+  "manifest": "packs/cozy/v2/manifest.json",
+  "manifestBytes": 6157,
+  "manifestSha256": "6e8ddfbadc4e46a48212410ea9f19f191e4b4677d987a579aca019a357d19dfa",
+  "imageCount": 10,
+  "downloadBytes": 822522
+}

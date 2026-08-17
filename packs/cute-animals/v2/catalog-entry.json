@@ -1,0 +1,25 @@
+{
+  "packId": "cute-animals",
+  "version": 2,
+  "order": 13,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "毛茸茸小日子",
+    "zh-CN": "毛茸茸的小日子",
+    "en": "Little Days, Furry Friends",
+    "ja": "ふわもこ日和"
+  },
+  "description": {
+    "zh-TW": "從暖毯上的小貓到牧場裡的羊駝，十位毛茸茸的小夥伴帶來療癒又純真的日常。",
+    "zh-CN": "从暖毯上的小猫到牧场里的羊驼，十位毛茸茸的小伙伴带来治愈又纯真的日常。",
+    "en": "Ten gentle little companions bring warmth and wonder, from a kitten on a cozy blanket to an alpaca in the meadow.",
+    "ja": "ぬくもり毛布の子猫から牧場のアルパカまで、ふわふわの仲間たちが届ける心なごむ10のひとときです。"
+  },
+  "cover": "packs/cute-animals/v2/images/cute-animals-01-kitten.webp",
+  "manifest": "packs/cute-animals/v2/manifest.json",
+  "manifestBytes": 6382,
+  "manifestSha256": "c5b0b226cb148cb3cc3469a590003d108f377c4b6fd265a4d0b51e25c70f126b",
+  "imageCount": 10,
+  "downloadBytes": 1468264
+}

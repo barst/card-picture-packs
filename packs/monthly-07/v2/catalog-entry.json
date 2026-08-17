@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-07",
+  "version": 2,
+  "order": 27,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "七月・海島傳奇",
+    "zh-CN": "七月・海岛传奇",
+    "en": "July · Island Legends",
+    "ja": "7月・島々の伝説"
+  },
+  "description": {
+    "zh-TW": "石像守護者、海盜船、翡翠蜥蜴與暴風燈塔各自獨挑大梁，讓七月海島冒險在小畫面也鮮明有力。",
+    "zh-CN": "石像守护者、海盗船、翡翠蜥蜴与暴风灯塔各自独挑大梁，让七月海岛冒险在小画面中也鲜明有力。",
+    "en": "A stone guardian, pirate galleon, emerald iguana, and storm lighthouse each command the frame in ten vivid island adventures.",
+    "ja": "石像の守護者、海賊船、翡翠色のイグアナ、嵐の灯台がそれぞれ画面の主役となり、7月の島冒険を鮮やかに描きます。"
+  },
+  "cover": "packs/monthly-07/v2/images/monthly-07-01.webp",
+  "manifest": "packs/monthly-07/v2/manifest.json",
+  "manifestBytes": 6078,
+  "manifestSha256": "a728b3faa3a096097d90f7f241bd12e1376b4eebfc41b62834a8af792e51d94b",
+  "imageCount": 10,
+  "downloadBytes": 1563720
+}

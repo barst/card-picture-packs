@@ -1,0 +1,25 @@
+{
+  "packId": "future-dream-homes",
+  "version": 2,
+  "order": 48,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "與自然共生的未來居所",
+    "zh-CN": "与自然共生的未来居所",
+    "en": "Homes for a Living Future",
+    "ja": "自然と暮らす未来の家"
+  },
+  "description": {
+    "zh-TW": "從森林玻璃屋到河岸復育宅，十種未來建築讓能源、氣候與生活重新融入自然。",
+    "zh-CN": "从森林玻璃屋到河岸复育宅，十种未来建筑让能源、气候与生活重新融入自然。",
+    "en": "Ten forward-looking homes reconnect energy, climate, and everyday life with nature, from a forest glasshouse to a rewilded river retreat.",
+    "ja": "森のガラス住宅から再生した川辺の家まで、エネルギー、気候、暮らしを自然へつなぎ直す10の未来建築です。"
+  },
+  "cover": "packs/future-dream-homes/v2/images/future-dream-homes-01-forest-glasshouse.webp",
+  "manifest": "packs/future-dream-homes/v2/manifest.json",
+  "manifestBytes": 6768,
+  "manifestSha256": "dd837cc087b62e5a31cedb0ccb097141197cabb964a4a9ed786f50e5b26fc4ac",
+  "imageCount": 10,
+  "downloadBytes": 1933980
+}

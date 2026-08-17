@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "fantasy",
+  "version": 2,
+  "order": 6,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "雲端魔法紀行",
+    "zh-CN": "云端魔法纪行",
+    "en": "Chronicles of the Enchanted Realms",
+    "ja": "雲上の魔法紀行"
+  },
+  "description": {
+    "zh-TW": "飛龍掠過山谷，浮島懸在雲海，月城與海底書庫守著古老祕密；十幅奇景展開一場跨越天地的魔法遠行。",
+    "zh-CN": "飞龙掠过山谷，浮岛悬在云海，月城与海底书库守着古老秘密；十幅奇景展开一场跨越天地的魔法远行。",
+    "en": "Dragons, floating islands, moonlit castles, and underwater libraries unfold across ten wondrous scenes from a world alive with magic.",
+    "ja": "竜が谷を越え、浮島が雲海に漂い、月の城と海底図書館が秘密を守る、10の幻想世界をめぐる旅です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "fantasy-01-dragon-valley",
+  "images": [
+    {
+      "id": "fantasy-01-dragon-valley",
+      "file": "packs/fantasy/v2/images/fantasy-01-dragon-valley.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 200352,
+      "sha256": "50bd729ff54da45ab1530c50c773aa5d630c8816625a6ff15895a973e41c061e",
+      "name": {
+        "zh-TW": "飛龍越過蒼翠王谷",
+        "zh-CN": "飞龙越过苍翠王谷",
+        "en": "Dragon over the Verdant Valley",
+        "ja": "緑の王谷を越える竜"
+      }
+    },
+    {
+      "id": "fantasy-02-tree-city",
+      "file": "packs/fantasy/v2/images/fantasy-02-tree-city.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 322804,
+      "sha256": "34fa64a2971b9312511a75cb149a64eed9d614584076791cb5af6c6e60982e5d",
+      "name": {
+        "zh-TW": "世界樹下的橋城",
+        "zh-CN": "世界树下的桥城",
+        "en": "Bridge City beneath the World Tree",
+        "ja": "世界樹の麓の橋の都"
+      }
+    },
+    {
+      "id": "fantasy-03-floating-islands",
+      "file": "packs/fantasy/v2/images/fantasy-03-floating-islands.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 133286,
+      "sha256": "0c380ce66938f5a9882dd21a01a89f40274c4614d97088a423759d9b71f2f0a3",
+      "name": {
+        "zh-TW": "雲海飛瀑浮島",
+        "zh-CN": "云海飞瀑浮岛",
+        "en": "Waterfall Isles above the Clouds",
+        "ja": "雲海に浮かぶ滝の島々"
+      }
+    },
+    {
+      "id": "fantasy-04-crystal-cave",
+      "file": "packs/fantasy/v2/images/fantasy-04-crystal-cave.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 270502,
+      "sha256": "0493fa69e0b4e5a3d7229fc9e4c336e4446624c6cc4da34ecb47073b60292135",
+      "name": {
+        "zh-TW": "水晶洞窟的星門",
+        "zh-CN": "水晶洞窟的星门",
+        "en": "Stargate in the Crystal Cavern",
+        "ja": "水晶洞窟の星の門"
+      }
+    },
+    {
+      "id": "fantasy-05-moon-castle",
+      "file": "packs/fantasy/v2/images/fantasy-05-moon-castle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 108576,
+      "sha256": "08fe969023064f8181ffbd2e307a2463f651fc9b5d75e1ceeddf31ca200866cc",
+      "name": {
+        "zh-TW": "滿月瀑布城",
+        "zh-CN": "满月瀑布城",
+        "en": "Moonlit Castle of Falling Waters",
+        "ja": "満月に輝く滝の城"
+      }
+    },
+    {
+      "id": "fantasy-06-underwater-library",
+      "file": "packs/fantasy/v2/images/fantasy-06-underwater-library.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 231832,
+      "sha256": "924ecda416f7307f0e0b90576dff77f8f7ce7e86ba9cc445243649c9ca4bf7f5",
+      "name": {
+        "zh-TW": "珊瑚海底圖書館",
+        "zh-CN": "珊瑚海底图书馆",
+        "en": "Coral Library beneath the Sea",
+        "ja": "珊瑚の海底図書館"
+      }
+    },
+    {
+      "id": "fantasy-07-forest-spirit",
+      "file": "packs/fantasy/v2/images/fantasy-07-forest-spirit.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 183186,
+      "sha256": "ad377b156ec962731c0d4adaf90c0f6334e50d9f0720fb6bea1f32d615d933c6",
+      "name": {
+        "zh-TW": "螢光森林的守護靈",
+        "zh-CN": "荧光森林的守护灵",
+        "en": "Guardian of the Luminous Forest",
+        "ja": "光る森の守り人"
+      }
+    },
+    {
+      "id": "fantasy-08-sky-whale",
+      "file": "packs/fantasy/v2/images/fantasy-08-sky-whale.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 158228,
+      "sha256": "f408dd46239f4960c87d3edbc42c468175f262697d42c89f0e80c4603f8b030e",
+      "name": {
+        "zh-TW": "晴空鯨魚越山村",
+        "zh-CN": "晴空鲸鱼越山村",
+        "en": "Sky Whale above the Mountain Village",
+        "ja": "山里を越える空飛ぶクジラ"
+      }
+    },
+    {
+      "id": "fantasy-09-wizard-workshop",
+      "file": "packs/fantasy/v2/images/fantasy-09-wizard-workshop.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 149816,
+      "sha256": "33e0d0d9d5ba302398c70c58cccd05b8d3764c08c84b5cb5f3fa1195f929fdac",
+      "name": {
+        "zh-TW": "魔法師的星圖工坊",
+        "zh-CN": "魔法师的星图工坊",
+        "en": "Wizard's Celestial Map Workshop",
+        "ja": "魔法使いの星図工房"
+      }
+    },
+    {
+      "id": "fantasy-10-phoenix",
+      "file": "packs/fantasy/v2/images/fantasy-10-phoenix.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 206418,
+      "sha256": "a578306a358c056a36407e8d83a50d63db7ddd1c76ec032b2c0147174bcabfcf",
+      "name": {
+        "zh-TW": "烈焰鳳凰重生",
+        "zh-CN": "烈焰凤凰重生",
+        "en": "Rebirth of the Flame Phoenix",
+        "ja": "炎の不死鳥の再生"
+      }
+    }
+  ]
+}

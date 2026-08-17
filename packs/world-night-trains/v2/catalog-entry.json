@@ -1,0 +1,25 @@
+{
+  "packId": "world-night-trains",
+  "version": 2,
+  "order": 44,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "夜行列車夢旅",
+    "zh-CN": "夜行列车梦旅",
+    "en": "Night Trains, Dreaming Worlds",
+    "ja": "夜行列車の夢旅"
+  },
+  "description": {
+    "zh-TW": "沿著月光與星河出發，搭乘十班夜行列車穿越雪山、雨林、海岸、荒漠與極光。",
+    "zh-CN": "沿着月光与星河出发，搭乘十班夜行列车穿越雪山、雨林、海岸、荒漠与极光。",
+    "en": "Ten night trains follow moonlight and starlight across snowy peaks, rainforests, coastlines, deserts, and the aurora.",
+    "ja": "月明かりと星空を道しるべに、10本の夜行列車で雪山、密林、海岸、荒野、オーロラをめぐります。"
+  },
+  "cover": "packs/world-night-trains/v2/images/world-night-trains-01-alpine-sleeper.webp",
+  "manifest": "packs/world-night-trains/v2/manifest.json",
+  "manifestBytes": 6716,
+  "manifestSha256": "61e763d9e033141ecb499194d2dc89edf6b1d0bc81998b3a7478f89a176e5de6",
+  "imageCount": 10,
+  "downloadBytes": 1857708
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "oil",
+  "version": 2,
+  "order": 1,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "光影油彩藝廊",
+    "zh-CN": "光影油彩艺廊",
+    "en": "Gallery of Light and Oil",
+    "ja": "光と色彩の油絵ギャラリー"
+  },
+  "description": {
+    "zh-TW": "船港、花園、雪街與神話盛宴在厚實筆觸中緩緩展開，收藏十幅橫跨風景、人物與靜物的油彩故事。",
+    "zh-CN": "船港、花园、雪街与神话盛宴在厚实笔触中缓缓展开，收藏十幅横跨风景、人物与静物的油彩故事。",
+    "en": "Ten richly painted scenes move from harbor and orchard to snowy streets and a mythic feast, celebrating landscape, portrait, and still life.",
+    "ja": "港や果樹園、雪の街、神話の宴まで、風景・人物・静物を豊かな筆致で描いた10枚の油彩作品です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "oil-01-harbor",
+  "images": [
+    {
+      "id": "oil-01-harbor",
+      "file": "packs/oil/v2/images/oil-01-harbor.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 222038,
+      "sha256": "65dec9cfe92ac952f77513df5299466286418f932835c232557f730199caca29",
+      "name": {
+        "zh-TW": "港灣啟航",
+        "zh-CN": "港湾启航",
+        "en": "Departure from the Harbor",
+        "ja": "港からの船出"
+      }
+    },
+    {
+      "id": "oil-02-orchard",
+      "file": "packs/oil/v2/images/oil-02-orchard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 340518,
+      "sha256": "035b0a58197d2e26ee171b0705b4c99ba6fcf30c5a96c36f6a412d1a8ef7fad8",
+      "name": {
+        "zh-TW": "花樹果園的午後野餐",
+        "zh-CN": "花树果园的午后野餐",
+        "en": "Afternoon Picnic in the Blossoming Orchard",
+        "ja": "花咲く果樹園の午後"
+      }
+    },
+    {
+      "id": "oil-03-night-cafe",
+      "file": "packs/oil/v2/images/oil-03-night-cafe.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 279588,
+      "sha256": "d5a953840858b90eaffcc4652a8addd8052f862c2277654ca0e71522900e5f16",
+      "name": {
+        "zh-TW": "雨夜街角咖啡館",
+        "zh-CN": "雨夜街角咖啡馆",
+        "en": "Corner Café on a Rainy Night",
+        "ja": "雨夜の街角カフェ"
+      }
+    },
+    {
+      "id": "oil-04-mountain-storm",
+      "file": "packs/oil/v2/images/oil-04-mountain-storm.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 246594,
+      "sha256": "125955552a4097ec07ebdd659eba17fdaebf5b1b9017a3c10d2cc7ee645029d4",
+      "name": {
+        "zh-TW": "雷雨越過山谷",
+        "zh-CN": "雷雨越过山谷",
+        "en": "Thunderstorm Crossing the Valley",
+        "ja": "谷を越える雷雨"
+      }
+    },
+    {
+      "id": "oil-05-garden-portrait",
+      "file": "packs/oil/v2/images/oil-05-garden-portrait.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 294066,
+      "sha256": "451daa1fe95dd84a75e16f75537d7aa56ace72a54ee3a082551d8c590aaed7c5",
+      "name": {
+        "zh-TW": "玫瑰噴泉旁的仕女",
+        "zh-CN": "玫瑰喷泉旁的仕女",
+        "en": "Lady beside the Rose Fountain",
+        "ja": "薔薇の噴水に佇む貴婦人"
+      }
+    },
+    {
+      "id": "oil-06-river-village",
+      "file": "packs/oil/v2/images/oil-06-river-village.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 302136,
+      "sha256": "4de22eaaf71a65f8c5e02edefcc7627eae43815fc684bbea6aa8f64dc00991f6",
+      "name": {
+        "zh-TW": "風車河畔小鎮",
+        "zh-CN": "风车河畔小镇",
+        "en": "Windmill Village by the River",
+        "ja": "風車のある川辺の町"
+      }
+    },
+    {
+      "id": "oil-07-still-life",
+      "file": "packs/oil/v2/images/oil-07-still-life.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 113290,
+      "sha256": "6d531630bc76cfc0787188662ad16c8e2b23bad64268c3cbc76f3e0661e23591",
+      "name": {
+        "zh-TW": "花果與銅器靜物",
+        "zh-CN": "花果与铜器静物",
+        "en": "Flowers, Fruit, and Copper Still Life",
+        "ja": "花と果実と銅器の静物"
+      }
+    },
+    {
+      "id": "oil-08-winter-city",
+      "file": "packs/oil/v2/images/oil-08-winter-city.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 279796,
+      "sha256": "7f67aebc4d2f827aab1103c1943bf994238d752bca7357673f7e7c8743c62b34",
+      "name": {
+        "zh-TW": "雪街上的馬車",
+        "zh-CN": "雪街上的马车",
+        "en": "Carriage on a Snowy Street",
+        "ja": "雪の街を行く馬車"
+      }
+    },
+    {
+      "id": "oil-09-sunlit-field",
+      "file": "packs/oil/v2/images/oil-09-sunlit-field.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 246882,
+      "sha256": "9ed6a23ea70c16c52236cde0fd243d35f79b3a83f93c59c2a55526006d2b4220",
+      "name": {
+        "zh-TW": "麥田上的金色雲光",
+        "zh-CN": "麦田上的金色云光",
+        "en": "Golden Clouds over the Wheat Field",
+        "ja": "麦畑を照らす金色の雲"
+      }
+    },
+    {
+      "id": "oil-10-mythic-feast",
+      "file": "packs/oil/v2/images/oil-10-mythic-feast.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 266086,
+      "sha256": "4beb362374ce01733c0989d548300e4ad0563599038d790a6dce6a89f1c8c9e6",
+      "name": {
+        "zh-TW": "永恆果園的神話盛宴",
+        "zh-CN": "永恒果园的神话盛宴",
+        "en": "Mythic Feast in the Eternal Orchard",
+        "ja": "永遠の果樹園の神話の宴"
+      }
+    }
+  ]
+}

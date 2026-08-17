@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-03",
+  "version": 2,
+  "order": 23,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "三月・春日奇遇",
+    "zh-CN": "三月・春日奇遇",
+    "en": "March · Springtime Wonders",
+    "ja": "3月・春の奇遇"
+  },
+  "description": {
+    "zh-TW": "從花樹屋、櫻湖扁舟到琉璃溫室與紫晶洞窟，十個鮮明主角引領一趟繽紛的春日探險。",
+    "zh-CN": "从花树屋、樱湖扁舟到琉璃温室与紫晶洞窟，十个鲜明主角引领一场缤纷的春日探险。",
+    "en": "A flowering treehouse, cherry-lake skiff, glass conservatory, and amethyst cavern lead a colorful spring adventure through ten vivid centerpieces.",
+    "ja": "花咲く樹上の家、桜湖の小舟、ガラス温室、紫水晶の洞窟など、10の鮮やかな主役が春の冒険へ導きます。"
+  },
+  "cover": "packs/monthly-03/v2/images/monthly-03-01.webp",
+  "manifest": "packs/monthly-03/v2/manifest.json",
+  "manifestBytes": 5956,
+  "manifestSha256": "d7f5da9df73e0dc37f0f95a74c087c40096db91443ecfea2face00717d95fcc8",
+  "imageCount": 10,
+  "downloadBytes": 1725078
+}

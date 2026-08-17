@@ -1,0 +1,25 @@
+{
+  "packId": "luxury-beauty-treasures",
+  "version": 2,
+  "order": 50,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "華美妝奩珍藏",
+    "zh-CN": "华美妆奁珍藏",
+    "en": "Luxuries of the Vanity Table",
+    "ja": "華やかな鏡台の宝物"
+  },
+  "description": {
+    "zh-TW": "絲絨、寶石、香水與精緻妝品交映，十幅靜物收藏梳妝時刻裡細膩而耀眼的美。",
+    "zh-CN": "丝绒、宝石、香水与精致妆品交映，十幅静物收藏梳妆时刻里细腻而耀眼的美。",
+    "en": "Ten polished still lifes bring together velvet, gemstones, fragrance, skincare, and makeup in a luminous vanity collection.",
+    "ja": "ベルベット、宝石、香水、化粧品が響き合う、鏡台の繊細な美しさを集めた10の静物画です。"
+  },
+  "cover": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-01-sculpted-lipstick-trio.webp",
+  "manifest": "packs/luxury-beauty-treasures/v2/manifest.json",
+  "manifestBytes": 6977,
+  "manifestSha256": "01d0947114427222d7903a1393f5951d713e4fed5e85d946528069160f30350f",
+  "imageCount": 10,
+  "downloadBytes": 1118266
+}

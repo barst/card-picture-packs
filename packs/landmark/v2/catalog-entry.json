@@ -1,0 +1,25 @@
+{
+  "packId": "landmark",
+  "version": 2,
+  "order": 9,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "title": {
+    "zh-TW": "世界奇景之旅",
+    "zh-CN": "世界奇景之旅",
+    "en": "Wonders Around the World",
+    "ja": "世界の名景をめぐる旅"
+  },
+  "description": {
+    "zh-TW": "從塞納河畔到台北夜空，走訪十座跨越文明與時代的世界名勝。",
+    "zh-CN": "从塞纳河畔到台北夜空，走访十座跨越文明与时代的世界名胜。",
+    "en": "A journey through ten landmarks shaped by different civilizations and eras, from the Seine to Taipei's night sky.",
+    "ja": "セーヌ河畔から台北の夜空まで、文明と時代を越えて受け継がれる10の名所を旅します。"
+  },
+  "cover": "packs/landmark/v2/images/landmark-01-eiffel.webp",
+  "manifest": "packs/landmark/v2/manifest.json",
+  "manifestBytes": 6182,
+  "manifestSha256": "b1a583142592e8528061621c96f00191ee4a89e052efc39103b121d31017b206",
+  "imageCount": 10,
+  "downloadBytes": 1883572
+}

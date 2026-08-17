@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-12",
+  "version": 2,
+  "order": 32,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "十二月・冬日慶典",
+    "zh-CN": "十二月・冬日庆典",
+    "en": "December · Winter Celebrations",
+    "ja": "12月・冬の祝祭"
+  },
+  "description": {
+    "zh-TW": "巨型聖誕樹、祈願天燈、極光彩帳與紅色節慶電車各領風采，串起世界各地明亮溫暖的冬日慶典。",
+    "zh-CN": "巨型圣诞树、祈愿天灯、极光彩帐与红色节庆电车各领风采，串起世界各地明亮温暖的冬日庆典。",
+    "en": "A grand Christmas tree, wish lantern, aurora tent, and red holiday streetcar each take center stage in bright winter celebrations around the world.",
+    "ja": "巨大なクリスマスツリー、願いの天灯、オーロラの彩りテント、赤い祝祭電車が、世界の温かな冬祭りをつなぎます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-12-01",
+  "images": [
+    {
+      "id": "monthly-12-01",
+      "file": "packs/monthly-12/v2/images/monthly-12-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 157876,
+      "sha256": "ca3fd0e7bc07dcd7024c22d2e8d46c94cd3601caecc696a744ac14e7922dad4e",
+      "name": {
+        "zh-TW": "雪城巨型聖誕樹",
+        "zh-CN": "雪城巨型圣诞树",
+        "en": "Grand Christmas Tree in the Snowy Square",
+        "ja": "雪の広場の巨大クリスマスツリー"
+      }
+    },
+    {
+      "id": "monthly-12-02",
+      "file": "packs/monthly-12/v2/images/monthly-12-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 133536,
+      "sha256": "16cce539af9d812ac6982b7b627307e8c83e298151eed77ed83d9f4b49553ac6",
+      "name": {
+        "zh-TW": "雪夜祈願天燈",
+        "zh-CN": "雪夜祈愿天灯",
+        "en": "Wish Lantern in the Snowy Night",
+        "ja": "雪夜に昇る願いの天灯"
+      }
+    },
+    {
+      "id": "monthly-12-03",
+      "file": "packs/monthly-12/v2/images/monthly-12-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 194192,
+      "sha256": "467cd20575fa85b4f780fadb5bb753c9d3b2329c9791bf2199eed1fc24fd5707",
+      "name": {
+        "zh-TW": "星彩祭典大鼓",
+        "zh-CN": "星彩庆典大鼓",
+        "en": "Starry Festival Drum",
+        "ja": "星飾りの祝祭大太鼓"
+      }
+    },
+    {
+      "id": "monthly-12-04",
+      "file": "packs/monthly-12/v2/images/monthly-12-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 220732,
+      "sha256": "6c51e712b6b1538233d6b52cce47405190c66dc30e3a7a7c65c27497ed95c093",
+      "name": {
+        "zh-TW": "極光稜彩帳篷",
+        "zh-CN": "极光棱彩帐篷",
+        "en": "Prismatic Tent beneath the Aurora",
+        "ja": "オーロラの下の虹色テント"
+      }
+    },
+    {
+      "id": "monthly-12-05",
+      "file": "packs/monthly-12/v2/images/monthly-12-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 119850,
+      "sha256": "1d6624288dc9d0419a86669ebd79c88f242c7aff8340d39c20949b83af630985",
+      "name": {
+        "zh-TW": "沙漠星燈帳篷",
+        "zh-CN": "沙漠星灯帐篷",
+        "en": "Starlit Lantern Tent in the Desert",
+        "ja": "砂漠の星灯りテント"
+      }
+    },
+    {
+      "id": "monthly-12-06",
+      "file": "packs/monthly-12/v2/images/monthly-12-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130124,
+      "sha256": "3b5ccec2bbbed9a39c027a4167a88cd821fb5b876eee7203f6044fc09b6186c9",
+      "name": {
+        "zh-TW": "雪原蒸汽火車",
+        "zh-CN": "雪原蒸汽火车",
+        "en": "Steam Train across the Snowfields",
+        "ja": "雪原を走る蒸気機関車"
+      }
+    },
+    {
+      "id": "monthly-12-07",
+      "file": "packs/monthly-12/v2/images/monthly-12-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 96938,
+      "sha256": "3726c089115ffcbbcb18501413a678e5a84730765e70c8af8fb105db02d24592",
+      "name": {
+        "zh-TW": "花島節慶燈柱",
+        "zh-CN": "花岛节庆灯柱",
+        "en": "Festival Lantern Column on the Flower Isle",
+        "ja": "花の島の祝祭灯柱"
+      }
+    },
+    {
+      "id": "monthly-12-08",
+      "file": "packs/monthly-12/v2/images/monthly-12-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 118444,
+      "sha256": "b7679c4bc96cf2b41ac42baf7b5655186bf127118c33ce90728cb15409ff9b20",
+      "name": {
+        "zh-TW": "銀河觀星望遠鏡",
+        "zh-CN": "银河观星望远镜",
+        "en": "Stargazing Telescope beneath the Milky Way",
+        "ja": "天の川を望む天体望遠鏡"
+      }
+    },
+    {
+      "id": "monthly-12-09",
+      "file": "packs/monthly-12/v2/images/monthly-12-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 164164,
+      "sha256": "3c8c01cad90923d519b04680d60305b44829b849e3ccee33c8998294eaaf5e05",
+      "name": {
+        "zh-TW": "雨夜紅色節慶電車",
+        "zh-CN": "雨夜红色节庆电车",
+        "en": "Red Holiday Streetcar in the Rain",
+        "ja": "雨夜の赤い祝祭電車"
+      }
+    },
+    {
+      "id": "monthly-12-10",
+      "file": "packs/monthly-12/v2/images/monthly-12-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 141600,
+      "sha256": "4b3cc49064f2c6720da14cdfbbd95540f9e2062c72d29d398f95e277e3a13425",
+      "name": {
+        "zh-TW": "燭光冬日盛宴桌",
+        "zh-CN": "烛光冬日盛宴桌",
+        "en": "Candlelit Winter Feast Table",
+        "ja": "ろうそく灯りの冬の祝宴卓"
+      }
+    }
+  ]
+}

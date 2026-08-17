@@ -1,0 +1,25 @@
+{
+  "packId": "sino-japanese-art",
+  "version": 2,
+  "order": 17,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "墨韻和風",
+    "zh-CN": "墨韵和风",
+    "en": "Ink and Eastern Elegance",
+    "ja": "墨韻と和の雅"
+  },
+  "description": {
+    "zh-TW": "以水墨山河、漢服仕女、錦鯉與和服美人，交織中華筆韻與日本浮世繪的典雅情境。",
+    "zh-CN": "以水墨山河、汉服仕女、锦鲤与和服美人，交织中华笔韵与日本浮世绘的典雅意境。",
+    "en": "Ten graceful works weave Chinese ink traditions with Japanese decorative art through misty peaks, elegant figures, koi, cranes, and moonlit legends.",
+    "ja": "水墨の山河、漢服の女性、錦鯉や着物美人を通して、中国絵画の筆致と日本美術の雅を織りなす10の情景です。"
+  },
+  "cover": "packs/sino-japanese-art/v2/images/sino-japanese-art-01-mountains.webp",
+  "manifest": "packs/sino-japanese-art/v2/manifest.json",
+  "manifestBytes": 6250,
+  "manifestSha256": "d9ad09207f0fd1e9a6b75e74f6b836763c3285bef64bd9430cf521277f6a5d0f",
+  "imageCount": 10,
+  "downloadBytes": 3494296
+}

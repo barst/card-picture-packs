@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-10",
+  "version": 2,
+  "order": 30,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "十月・萬聖奇譚",
+    "zh-CN": "十月・万圣奇谭",
+    "en": "October · Halloween Tales",
+    "ja": "10月・ハロウィン奇譚"
+  },
+  "description": {
+    "zh-TW": "鬧鬼莊園、南瓜魔法鍋、月光書梯與糖果小屋各自佔據視線，帶來可愛又神祕的十月奇譚。",
+    "zh-CN": "闹鬼庄园、南瓜魔法锅、月光书梯与糖果小屋各自占据视线，带来可爱又神秘的十月奇谭。",
+    "en": "A haunted manor, pumpkin cauldron, moonlit library ladder, and candy cottage each command the frame in ten playful October tales.",
+    "ja": "幽霊屋敷、かぼちゃの魔法鍋、月光の書架梯子、お菓子の家がそれぞれ大きく主役となる、かわいく不思議な10月物語です。"
+  },
+  "cover": "packs/monthly-10/v2/images/monthly-10-01.webp",
+  "manifest": "packs/monthly-10/v2/manifest.json",
+  "manifestBytes": 6063,
+  "manifestSha256": "f87a54d082fd4b68b249e4d1c980ef579962e3f5c7697c8e416ca606af15d901",
+  "imageCount": 10,
+  "downloadBytes": 968978
+}

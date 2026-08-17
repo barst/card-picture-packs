@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "people",
+  "version": 2,
+  "order": 5,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "人間百景",
+    "zh-CN": "人间百景",
+    "en": "Portraits of Everyday Life",
+    "ja": "人々の暮らし百景"
+  },
+  "description": {
+    "zh-TW": "陶藝師、街頭樂手、漁夫與農人各自在熟悉的地方專注生活，十幅真誠肖像記下工作、節慶與相遇的溫度。",
+    "zh-CN": "陶艺师、街头乐手、渔夫与农人各自在熟悉的地方专注生活，十幅真诚肖像记下工作、节庆与相遇的温度。",
+    "en": "Ten honest portraits celebrate the focus, craft, and joy of potters, musicians, vendors, fishers, farmers, and neighbors at work and at play.",
+    "ja": "陶芸家、音楽家、市場の店主、漁師、農家など、仕事や祭りに生きる人々の温かな表情を描いた10の物語です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "people-01-potter",
+  "images": [
+    {
+      "id": "people-01-potter",
+      "file": "packs/people/v2/images/people-01-potter.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 176262,
+      "sha256": "0b80900f6031cf8a569bfc8d3441908426e8282a0fa186fa41c07b80330a0c88",
+      "name": {
+        "zh-TW": "窗光裡的陶藝師",
+        "zh-CN": "窗光里的陶艺师",
+        "en": "Potter at the Sunlit Wheel",
+        "ja": "窓明かりのろくろ職人"
+      }
+    },
+    {
+      "id": "people-02-musicians",
+      "file": "packs/people/v2/images/people-02-musicians.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 88474,
+      "sha256": "8f78b9db055552c89bbafeca6b64fe08746de57ae624a0f7d533491dbd4d6f4e",
+      "name": {
+        "zh-TW": "廣場上的街頭樂章",
+        "zh-CN": "广场上的街头乐章",
+        "en": "Street Music in the Square",
+        "ja": "広場に響く街角の音楽"
+      }
+    },
+    {
+      "id": "people-03-market-vendor",
+      "file": "packs/people/v2/images/people-03-market-vendor.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 121230,
+      "sha256": "35524ed4e937e8dff3019f68ae48412beb588b54947f1df3b419daf5184040a9",
+      "name": {
+        "zh-TW": "花市老闆的清晨",
+        "zh-CN": "花市老板的清晨",
+        "en": "Morning at the Flower Stall",
+        "ja": "花市場の店主の朝"
+      }
+    },
+    {
+      "id": "people-04-chef",
+      "file": "packs/people/v2/images/people-04-chef.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 101744,
+      "sha256": "ea4919e2464168caf4f215e1c5c4b394b00b39efb040f60b578b472c23b0fa72",
+      "name": {
+        "zh-TW": "餐廳主廚的最後擺盤",
+        "zh-CN": "餐厅主厨的最后摆盘",
+        "en": "Chef's Finishing Touch",
+        "ja": "料理人、仕上げの一皿"
+      }
+    },
+    {
+      "id": "people-05-cyclists",
+      "file": "packs/people/v2/images/people-05-cyclists.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 239022,
+      "sha256": "df18352fdfc920a9b8e0d91a540ac0462b5661490e178e244ce58c867cc7381d",
+      "name": {
+        "zh-TW": "老街單車同遊",
+        "zh-CN": "老街单车同游",
+        "en": "Cycling Together through the Old Quarter",
+        "ja": "旧市街を走る仲間たち"
+      }
+    },
+    {
+      "id": "people-06-fisher",
+      "file": "packs/people/v2/images/people-06-fisher.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 261478,
+      "sha256": "43e1c0ba3765fae28069c5de543961316f9c4b78c601394f6005bc63f7554915",
+      "name": {
+        "zh-TW": "漁港收網時分",
+        "zh-CN": "渔港收网时分",
+        "en": "Hauling Nets at the Fishing Harbor",
+        "ja": "漁港の網揚げ"
+      }
+    },
+    {
+      "id": "people-07-dancers",
+      "file": "packs/people/v2/images/people-07-dancers.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 233294,
+      "sha256": "b0e1a4dd903124fb005a2c9f955aab36296b5b6ef0d87d05f465269ca8f9ff98",
+      "name": {
+        "zh-TW": "慶典街上的旋舞",
+        "zh-CN": "庆典街上的旋舞",
+        "en": "Festival Dance in the Street",
+        "ja": "祝祭の街を彩る踊り"
+      }
+    },
+    {
+      "id": "people-08-bookshop",
+      "file": "packs/people/v2/images/people-08-bookshop.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 220118,
+      "sha256": "d0db9f8358448e1bc25d39d5ebe4ffb91b635a8ead2f42eba14fe7858455ec3f",
+      "name": {
+        "zh-TW": "書海深處的店主",
+        "zh-CN": "书海深处的店主",
+        "en": "Bookseller among the Stacks",
+        "ja": "本の森に佇む店主"
+      }
+    },
+    {
+      "id": "people-09-farmers",
+      "file": "packs/people/v2/images/people-09-farmers.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 321194,
+      "sha256": "a26bcd18a99ea1fd38f35b0ff1255216cb04766c5b9c9c847153357466340659",
+      "name": {
+        "zh-TW": "金黃菜園的豐收",
+        "zh-CN": "金黄菜园的丰收",
+        "en": "Harvest in the Golden Garden",
+        "ja": "黄金色の畑の収穫"
+      }
+    },
+    {
+      "id": "people-10-crafts-fair",
+      "file": "packs/people/v2/images/people-10-crafts-fair.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 272120,
+      "sha256": "e98e792b7fe3570ce68ecaf749035e29298fcb74ff108d8bd7b63782c7438e71",
+      "name": {
+        "zh-TW": "陶器市集的午後",
+        "zh-CN": "陶器市集的午后",
+        "en": "Afternoon at the Pottery Fair",
+        "ja": "陶器市の午後"
+      }
+    }
+  ]
+}

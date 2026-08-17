@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "modern-art",
+  "version": 2,
+  "order": 16,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "世紀交會的藝術夢境",
+    "zh-CN": "世纪交会的艺术梦境",
+    "en": "Art Dreams Across an Era",
+    "ja": "世紀を彩る芸術の夢"
+  },
+  "description": {
+    "zh-TW": "從新藝術的花葉曲線到裝飾藝術的璀璨都會，以十幅夢境走過現代藝術的多彩風貌。",
+    "zh-CN": "从新艺术的花叶曲线到装饰艺术的璀璨都会，以十幅梦境走过现代艺术的多彩风貌。",
+    "en": "Ten dreamlike scenes explore a rich range of modern styles, from Art Nouveau florals to the brilliance of the Art Deco city.",
+    "ja": "アール・ヌーヴォーの花の曲線からアール・デコの輝く都市まで、近代の多彩な芸術様式を10の夢景色でたどります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "modern-art-01-lilies",
+  "images": [
+    {
+      "id": "modern-art-01-lilies",
+      "file": "packs/modern-art/v2/images/modern-art-01-lilies.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 423068,
+      "sha256": "4f841b1cd1c0bddda1846acac2f4d031acf4e627fb3abe928237db3e7bbd2713",
+      "name": {
+        "zh-TW": "百合花中的新藝術繆思",
+        "zh-CN": "百合花中的新艺术缪斯",
+        "en": "Art Nouveau Muse Among Lilies",
+        "ja": "百合に包まれたアール・ヌーヴォーのミューズ"
+      }
+    },
+    {
+      "id": "modern-art-02-gold-dove",
+      "file": "packs/modern-art/v2/images/modern-art-02-gold-dove.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 526474,
+      "sha256": "49545792eb96ccd9c4d8e958d7b47940bd8a967cce58f87626e323c37fe0942c",
+      "name": {
+        "zh-TW": "金色光環與和平鴿",
+        "zh-CN": "金色光环与和平鸽",
+        "en": "Golden Halo and Dove of Peace",
+        "ja": "金の光輪と平和の鳩"
+      }
+    },
+    {
+      "id": "modern-art-03-moon-lake",
+      "file": "packs/modern-art/v2/images/modern-art-03-moon-lake.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 215570,
+      "sha256": "a27e5433d33b0bc0dce028d37c62ca89699853453058e89be11ad254bf911502",
+      "name": {
+        "zh-TW": "月湖畔的白鳥夢",
+        "zh-CN": "月湖畔的白鸟梦",
+        "en": "Swan Dream by the Moonlit Lake",
+        "ja": "月の湖畔の白鳥の夢"
+      }
+    },
+    {
+      "id": "modern-art-04-four-seasons",
+      "file": "packs/modern-art/v2/images/modern-art-04-four-seasons.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 515928,
+      "sha256": "66915633aec26d76097aca872636eca2e12b1ef96a0359779a7558709c05e0fa",
+      "name": {
+        "zh-TW": "花環中的四季女神",
+        "zh-CN": "花环中的四季女神",
+        "en": "Goddesses of the Four Seasons",
+        "ja": "花環に宿る四季の女神"
+      }
+    },
+    {
+      "id": "modern-art-05-ballerina",
+      "file": "packs/modern-art/v2/images/modern-art-05-ballerina.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 325360,
+      "sha256": "195cbd1d1b3d98141c65f9335b84077e2073302a87979f06f601e4987dcff419",
+      "name": {
+        "zh-TW": "孔雀之夜的芭蕾舞者",
+        "zh-CN": "孔雀之夜的芭蕾舞者",
+        "en": "Ballerina in a Peacock Night",
+        "ja": "孔雀の夜のバレリーナ"
+      }
+    },
+    {
+      "id": "modern-art-06-orchard",
+      "file": "packs/modern-art/v2/images/modern-art-06-orchard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 459408,
+      "sha256": "97ed086067351a374310fff1eda6419da76daf08663d41e14d6dd1d86e97002a",
+      "name": {
+        "zh-TW": "果園裡的豐收午後",
+        "zh-CN": "果园里的丰收午后",
+        "en": "Harvest Afternoon in the Orchard",
+        "ja": "果樹園の実りの午後"
+      }
+    },
+    {
+      "id": "modern-art-07-reader",
+      "file": "packs/modern-art/v2/images/modern-art-07-reader.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 204248,
+      "sha256": "3eb262c42645967017d263d2b7e609d8edca059ea0c11ed0b7d34fc04c68bc34",
+      "name": {
+        "zh-TW": "野獸派窗邊讀者",
+        "zh-CN": "野兽派窗边读者",
+        "en": "Fauvist Reader by the Window",
+        "ja": "窓辺の野獣派の読書家"
+      }
+    },
+    {
+      "id": "modern-art-08-still-life",
+      "file": "packs/modern-art/v2/images/modern-art-08-still-life.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 169242,
+      "sha256": "da169521cdc56982c6188b86e7a170e879e8fd2e9839b02a1e25907fd1cfc5cd",
+      "name": {
+        "zh-TW": "提琴與果實的立體派靜物",
+        "zh-CN": "提琴与果实的立体派静物",
+        "en": "Cubist Still Life with Violin and Fruit",
+        "ja": "バイオリンと果実の立体派静物画"
+      }
+    },
+    {
+      "id": "modern-art-09-city-dancer",
+      "file": "packs/modern-art/v2/images/modern-art-09-city-dancer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 238130,
+      "sha256": "eb9ded8601ee063c8b940a8fa701c556f4069120a4496359b35ffeda9922371c",
+      "name": {
+        "zh-TW": "裝飾藝術之城的月下舞者",
+        "zh-CN": "装饰艺术之城的月下舞者",
+        "en": "Moonlit Dancer in the Art Deco City",
+        "ja": "アール・デコの街の月夜の踊り子"
+      }
+    },
+    {
+      "id": "modern-art-10-starry-hill",
+      "file": "packs/modern-art/v2/images/modern-art-10-starry-hill.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 482202,
+      "sha256": "d6bba766cf1376ea143ad5567961d7383f5cd3ae9c9e5012c5938c29d16b37c0",
+      "name": {
+        "zh-TW": "星旋下的山城",
+        "zh-CN": "星旋下的山城",
+        "en": "Hill Town Beneath the Swirling Stars",
+        "ja": "星渦の下の丘の町"
+      }
+    }
+  ]
+}

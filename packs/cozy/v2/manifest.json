@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "cozy",
+  "version": 2,
+  "order": 8,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 20,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "暖暖日常",
+    "zh-CN": "暖暖日常",
+    "en": "Little Days of Warmth",
+    "ja": "ほっとする日々"
+  },
+  "description": {
+    "zh-TW": "家人的早餐、雨站共傘、夜市散步與節日餐桌，十幅柔和插畫收藏那些平凡卻最讓人安心的相伴時光。",
+    "zh-CN": "家人的早餐、雨站共伞、夜市散步与节日餐桌，十幅柔和插画收藏那些平凡却最让人安心的相伴时光。",
+    "en": "Ten gentle illustrations treasure the comfort of family breakfasts, shared umbrellas, night-market walks, pets at home, and festive tables.",
+    "ja": "家族の朝食、相合傘、夜市の散歩、ペットとの時間、祝いの食卓など、何気ない幸せを描いた10のやさしい物語です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "cozy-01-family-kitchen",
+  "images": [
+    {
+      "id": "cozy-01-family-kitchen",
+      "file": "packs/cozy/v2/images/cozy-01-family-kitchen.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 71716,
+      "sha256": "43b2931d45e4d7e490b8cea30bc63eaf4320aeb735051aac938f44ce877c0e24",
+      "name": {
+        "zh-TW": "全家人的早餐時光",
+        "zh-CN": "全家人的早餐时光",
+        "en": "Breakfast with the Whole Family",
+        "ja": "家族みんなの朝ごはん"
+      }
+    },
+    {
+      "id": "cozy-02-reading-room",
+      "file": "packs/cozy/v2/images/cozy-02-reading-room.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 64438,
+      "sha256": "4513b2a65aaf2073a4fa526359b61403796ef6ac4196425c96d9f8ed8ca2e0d2",
+      "name": {
+        "zh-TW": "午後燈下的閱讀角落",
+        "zh-CN": "午后灯下的阅读角落",
+        "en": "Afternoon Reading by the Lamp",
+        "ja": "午後の灯りの読書時間"
+      }
+    },
+    {
+      "id": "cozy-03-camping",
+      "file": "packs/cozy/v2/images/cozy-03-camping.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 88812,
+      "sha256": "ade1e437f749ea82f5f5b53d818a3a16ec850630e5f25de8236c59c708d225d2",
+      "name": {
+        "zh-TW": "星空下的森林晚餐",
+        "zh-CN": "星空下的森林晚餐",
+        "en": "Forest Supper beneath the Stars",
+        "ja": "星空の森の晩ごはん"
+      }
+    },
+    {
+      "id": "cozy-04-grandparents",
+      "file": "packs/cozy/v2/images/cozy-04-grandparents.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 72516,
+      "sha256": "9c95c01fc1b5f40d4ed3465303b23f9e96dcd66deb3095aeeb55fd62122eae86",
+      "name": {
+        "zh-TW": "祖孫共種的小花園",
+        "zh-CN": "祖孙共种的小花园",
+        "en": "Grandparents' Little Garden",
+        "ja": "祖父母と育てる小さな庭"
+      }
+    },
+    {
+      "id": "cozy-05-bakery",
+      "file": "packs/cozy/v2/images/cozy-05-bakery.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 73670,
+      "sha256": "ec8a7cbbb9df41ac66f811cda489196ca6df7bbde66b008fdb0eb4bf00434f23",
+      "name": {
+        "zh-TW": "街角麵包店的清晨",
+        "zh-CN": "街角面包店的清晨",
+        "en": "Morning at the Corner Bakery",
+        "ja": "街角のパン屋さんの朝"
+      }
+    },
+    {
+      "id": "cozy-06-pet-home",
+      "file": "packs/cozy/v2/images/cozy-06-pet-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 65078,
+      "sha256": "fc907815e3e73cc932863cffcc373f74722e157b4aed06e942a37da8261ed70d",
+      "name": {
+        "zh-TW": "貓狗陪伴的午茶",
+        "zh-CN": "猫狗陪伴的午茶",
+        "en": "Tea Time with the Cat and Dog",
+        "ja": "猫と犬と過ごすティータイム"
+      }
+    },
+    {
+      "id": "cozy-07-night-market",
+      "file": "packs/cozy/v2/images/cozy-07-night-market.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 115806,
+      "sha256": "246205d4b52fe47e4ed456f3548471c55d4b6c11839d369a2c888d75d360cd30",
+      "name": {
+        "zh-TW": "燈火夜市散步",
+        "zh-CN": "灯火夜市散步",
+        "en": "Strolling through the Lantern-Lit Night Market",
+        "ja": "灯りともる夜市の散歩"
+      }
+    },
+    {
+      "id": "cozy-08-school-walk",
+      "file": "packs/cozy/v2/images/cozy-08-school-walk.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 77812,
+      "sha256": "aca4dae5d0f7b968c4149ca2f4e56cde66ff62424002616a3040629f369bbdcd",
+      "name": {
+        "zh-TW": "放學隊伍穿過小鎮",
+        "zh-CN": "放学队伍穿过小镇",
+        "en": "Walking Home from School",
+        "ja": "町を歩く放課後の列"
+      }
+    },
+    {
+      "id": "cozy-09-rainy-bus",
+      "file": "packs/cozy/v2/images/cozy-09-rainy-bus.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 96928,
+      "sha256": "975013228f89b6ce931b92cf9c2c449986da63d0306db0148826135185dec125",
+      "name": {
+        "zh-TW": "雨站裡的兩把傘",
+        "zh-CN": "雨站里的两把伞",
+        "en": "Two Umbrellas at the Rainy Bus Stop",
+        "ja": "雨のバス停、二本の傘"
+      }
+    },
+    {
+      "id": "cozy-10-holiday-table",
+      "file": "packs/cozy/v2/images/cozy-10-holiday-table.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 95746,
+      "sha256": "57e3e131ffa1f5f4c7e9366677c37cf1f417db220c687805d7fa989bf8717b98",
+      "name": {
+        "zh-TW": "團圓節日餐桌",
+        "zh-CN": "团圆节日餐桌",
+        "en": "A Holiday Table for Everyone",
+        "ja": "みんなが集う祝いの食卓"
+      }
+    }
+  ]
+}

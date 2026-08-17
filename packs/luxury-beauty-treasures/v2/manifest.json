@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "luxury-beauty-treasures",
+  "version": 2,
+  "order": 50,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "華美妝奩珍藏",
+    "zh-CN": "华美妆奁珍藏",
+    "en": "Luxuries of the Vanity Table",
+    "ja": "華やかな鏡台の宝物"
+  },
+  "description": {
+    "zh-TW": "絲絨、寶石、香水與精緻妝品交映，十幅靜物收藏梳妝時刻裡細膩而耀眼的美。",
+    "zh-CN": "丝绒、宝石、香水与精致妆品交映，十幅静物收藏梳妆时刻里细腻而耀眼的美。",
+    "en": "Ten polished still lifes bring together velvet, gemstones, fragrance, skincare, and makeup in a luminous vanity collection.",
+    "ja": "ベルベット、宝石、香水、化粧品が響き合う、鏡台の繊細な美しさを集めた10の静物画です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "luxury-beauty-treasures-01-sculpted-lipstick-trio",
+  "images": [
+    {
+      "id": "luxury-beauty-treasures-01-sculpted-lipstick-trio",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-01-sculpted-lipstick-trio.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 35508,
+      "sha256": "4c0fbc9a28273d14563420a93acdad1ad7d4b466862af2e74959d8af89c7bc87",
+      "name": {
+        "zh-TW": "絲絨夜色經典唇彩",
+        "zh-CN": "丝绒夜色经典唇彩",
+        "en": "Classic Lip Color on Crimson Velvet",
+        "ja": "深紅のベルベットに並ぶ口紅"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-02-crystal-serum-drops",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-02-crystal-serum-drops.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 48606,
+      "sha256": "b242fbc99fc7c291895a0d1cead6b8cbda84dd2dacc7da2d8e47a530db35f761",
+      "name": {
+        "zh-TW": "水晶光感精華滴",
+        "zh-CN": "水晶光感精华滴",
+        "en": "Crystal-Clear Serum Drops",
+        "ja": "水晶光の美容液"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-03-eyeshadow-pigment-wave",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-03-eyeshadow-pigment-wave.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 175118,
+      "sha256": "1f7eb4003cf13500c32dbb7da3080b9f5217064092e27c49bcf44d24ed243d9a",
+      "name": {
+        "zh-TW": "金粉漣漪眼影盤",
+        "zh-CN": "金粉涟漪眼影盘",
+        "en": "Eyeshadow Palette in a Golden Pigment Wave",
+        "ja": "金の粉彩をまとうアイシャドウ"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-04-faceted-perfume-glass",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-04-faceted-perfume-glass.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 112354,
+      "sha256": "1bdf5e5d5f6c359c6671ccd6665e79195be0c633a8b3f57a84712940ab628e05",
+      "name": {
+        "zh-TW": "紫晶切面香水瓶",
+        "zh-CN": "紫晶切面香水瓶",
+        "en": "Amethyst-Faceted Perfume",
+        "ja": "アメジスト色のカットガラス香水瓶"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-05-diamond-earrings-velvet",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-05-diamond-earrings-velvet.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 193296,
+      "sha256": "ff3aecc224d78ec60a52bac8b8f7d4a7ffdf551537a13b45770a13cba131a9e7",
+      "name": {
+        "zh-TW": "夜藍絲絨鑽石耳墜",
+        "zh-CN": "夜蓝丝绒钻石耳坠",
+        "en": "Diamond Drops on Midnight Velvet",
+        "ja": "夜紺のベルベットに輝くダイヤの耳飾り"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-06-jade-gold-necklace",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-06-jade-gold-necklace.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 153188,
+      "sha256": "ec9c60d084ddc7b07a3c630a3256a1cd019e6708c04dba65d9546dd642f0517c",
+      "name": {
+        "zh-TW": "白玉金鍊項墜",
+        "zh-CN": "白玉金链项坠",
+        "en": "White Jade Pendant on a Gold Chain",
+        "ja": "白玉と金鎖のペンダント"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-07-brushes-on-silk",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-07-brushes-on-silk.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 175580,
+      "sha256": "e832dc1c74d85951d596bfeacf30995711c87b4ff3a72021b0522f4e32b0d019",
+      "name": {
+        "zh-TW": "香檳絲緞上的妝刷",
+        "zh-CN": "香槟丝缎上的化妆刷",
+        "en": "Makeup Brushes on Champagne Silk",
+        "ja": "シャンパンシルクに並ぶ化粧筆"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-08-marble-skincare-ritual",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-08-marble-skincare-ritual.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 34546,
+      "sha256": "62d27ffc2a8a388302f955aa5ffe1f5babb812d3531ae1a5cb697af6a6f3aa4a",
+      "name": {
+        "zh-TW": "大理石晨光保養儀式",
+        "zh-CN": "大理石晨光护肤仪式",
+        "en": "Morning Skincare on Marble",
+        "ja": "大理石の朝のスキンケア"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-09-gemstone-ring-spectrum",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-09-gemstone-ring-spectrum.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 86182,
+      "sha256": "4e813e872c8ecf7039240cee980e0f366788ea19d35ccd04ac35322e99274268",
+      "name": {
+        "zh-TW": "寶石光譜戒指",
+        "zh-CN": "宝石光谱戒指",
+        "en": "Rings Across the Gemstone Spectrum",
+        "ja": "宝石色にきらめく指輪"
+      }
+    },
+    {
+      "id": "luxury-beauty-treasures-10-evening-vanity-collection",
+      "file": "packs/luxury-beauty-treasures/v2/images/luxury-beauty-treasures-10-evening-vanity-collection.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 103888,
+      "sha256": "144ac98f3b73ced09b57967b341dbc2675bd472e4fa1d5795a0d0b061e345ed6",
+      "name": {
+        "zh-TW": "琥珀夜光梳妝珍藏",
+        "zh-CN": "琥珀夜光梳妆珍藏",
+        "en": "Amber-Lit Evening Vanity",
+        "ja": "琥珀の灯りの鏡台コレクション"
+      }
+    }
+  ]
+}

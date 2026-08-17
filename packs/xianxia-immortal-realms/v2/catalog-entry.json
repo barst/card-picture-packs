@@ -1,0 +1,25 @@
+{
+  "packId": "xianxia-immortal-realms",
+  "version": 2,
+  "order": 49,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "仙俠雲海秘境",
+    "zh-CN": "仙侠云海秘境",
+    "en": "Immortal Realms Beyond the Clouds",
+    "ja": "雲海に眠る仙境"
+  },
+  "description": {
+    "zh-TW": "御劍穿雲、月瀑靜修、天火鑄劍，十幅水墨仙境展開修行者跨越雷劫、尋道飛升的旅程。",
+    "zh-CN": "御剑穿云、月瀑静修、天火铸剑，十幅水墨仙境展开修行者跨越雷劫、寻道飞升的旅程。",
+    "en": "Ten ink-wash realms follow a cultivator's path through swordflight, moonlit meditation, celestial forging, thunder trials, and final ascension.",
+    "ja": "剣に乗る飛行、月瀑での修行、天火の鍛剣。10の水墨仙境に、雷劫を越えて昇仙を目指す旅が広がります。"
+  },
+  "cover": "packs/xianxia-immortal-realms/v2/images/xianxia-immortal-realms-01-cloud-sword-ascent.webp",
+  "manifest": "packs/xianxia-immortal-realms/v2/manifest.json",
+  "manifestBytes": 6774,
+  "manifestSha256": "15e1945dec0554a9ff574e717af85dbc80696803c7e11f0f1d9aeb90e34bf01e",
+  "imageCount": 10,
+  "downloadBytes": 2162410
+}

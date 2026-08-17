@@ -1,0 +1,25 @@
+{
+  "packId": "plush-toys",
+  "version": 2,
+  "order": 35,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "棉花糖玩伴",
+    "zh-CN": "棉花糖玩伴",
+    "en": "Soft Friends for Cozy Days",
+    "ja": "ふわふわ夢の仲間たち"
+  },
+  "description": {
+    "zh-TW": "泰迪熊、垂耳兔、企鵝與小飛龍排排坐好，十位柔軟玩伴為房間添上安心又甜美的童話氣息。",
+    "zh-CN": "泰迪熊、垂耳兔、企鹅与小飞龙排排坐好，十位柔软玩伴为房间添上安心又甜美的童话气息。",
+    "en": "Ten soft companions, from a classic teddy bear to a tiny dragon, fill the room with comfort, sweetness, and a touch of storybook wonder.",
+    "ja": "テディベアやたれ耳ウサギ、ペンギン、小さなドラゴンまで、10体のぬいぐるみが部屋に安心と物語のぬくもりを届けます。"
+  },
+  "cover": "packs/plush-toys/v2/images/plush-toys-01-teddy-bear.webp",
+  "manifest": "packs/plush-toys/v2/manifest.json",
+  "manifestBytes": 6395,
+  "manifestSha256": "92865ce67c341001cf6cc688ebb80124e9873234e03adf50274e625e42a7fa5f",
+  "imageCount": 10,
+  "downloadBytes": 1222016
+}

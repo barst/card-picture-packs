@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-03",
+  "version": 2,
+  "order": 23,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "三月・春日奇遇",
+    "zh-CN": "三月・春日奇遇",
+    "en": "March · Springtime Wonders",
+    "ja": "3月・春の奇遇"
+  },
+  "description": {
+    "zh-TW": "從花樹屋、櫻湖扁舟到琉璃溫室與紫晶洞窟，十個鮮明主角引領一趟繽紛的春日探險。",
+    "zh-CN": "从花树屋、樱湖扁舟到琉璃温室与紫晶洞窟，十个鲜明主角引领一场缤纷的春日探险。",
+    "en": "A flowering treehouse, cherry-lake skiff, glass conservatory, and amethyst cavern lead a colorful spring adventure through ten vivid centerpieces.",
+    "ja": "花咲く樹上の家、桜湖の小舟、ガラス温室、紫水晶の洞窟など、10の鮮やかな主役が春の冒険へ導きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-03-01",
+  "images": [
+    {
+      "id": "monthly-03-01",
+      "file": "packs/monthly-03/v2/images/monthly-03-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 251634,
+      "sha256": "413cd9007245381878c49656e0d3b050b52e8a69008b2e08c363f5161e9bac5a",
+      "name": {
+        "zh-TW": "花開森林樹屋",
+        "zh-CN": "花开森林树屋",
+        "en": "Flowering Forest Treehouse",
+        "ja": "花咲く森の樹上の家"
+      }
+    },
+    {
+      "id": "monthly-03-02",
+      "file": "packs/monthly-03/v2/images/monthly-03-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 126880,
+      "sha256": "aacd9d341422b397795986fb7990651702805b103cb246d12572f62ef356fb05",
+      "name": {
+        "zh-TW": "櫻湖花瓣扁舟",
+        "zh-CN": "樱湖花瓣扁舟",
+        "en": "Petal Skiff on a Cherry-Blossom Lake",
+        "ja": "桜湖に浮かぶ花びらの小舟"
+      }
+    },
+    {
+      "id": "monthly-03-03",
+      "file": "packs/monthly-03/v2/images/monthly-03-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 219304,
+      "sha256": "889250158ba04e82c4fb973aa08135ca54c41d92ded4ccbc87d965f4016340a2",
+      "name": {
+        "zh-TW": "雨光琉璃溫室",
+        "zh-CN": "雨光琉璃温室",
+        "en": "Rainlit Glass Conservatory",
+        "ja": "雨光きらめくガラス温室"
+      }
+    },
+    {
+      "id": "monthly-03-04",
+      "file": "packs/monthly-03/v2/images/monthly-03-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 176116,
+      "sha256": "95c4f5748fc264c93631a362665bc304fb680a4f806da50dfb3088182328d500",
+      "name": {
+        "zh-TW": "春風彩虹風箏",
+        "zh-CN": "春风彩虹风筝",
+        "en": "Rainbow Kite in the Spring Wind",
+        "ja": "春風を舞う虹色の凧"
+      }
+    },
+    {
+      "id": "monthly-03-05",
+      "file": "packs/monthly-03/v2/images/monthly-03-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 170682,
+      "sha256": "7ccaa26d310d6720122ef1f023979035d44de81b6f95cdbb0f766c08b457c395",
+      "name": {
+        "zh-TW": "森心紫晶洞窟",
+        "zh-CN": "森心紫晶洞窟",
+        "en": "Amethyst Cavern in the Heart of the Forest",
+        "ja": "森の奥の紫水晶洞窟"
+      }
+    },
+    {
+      "id": "monthly-03-06",
+      "file": "packs/monthly-03/v2/images/monthly-03-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 172186,
+      "sha256": "71bf9f1f036006439eca5a6eb4ed0f5ce8a026d2dce5402f98d2c77344670c53",
+      "name": {
+        "zh-TW": "花海岬角燈塔",
+        "zh-CN": "花海岬角灯塔",
+        "en": "Cape Lighthouse amid Spring Flowers",
+        "ja": "花の岬の灯台"
+      }
+    },
+    {
+      "id": "monthly-03-07",
+      "file": "packs/monthly-03/v2/images/monthly-03-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130172,
+      "sha256": "47c1331ff909ba5494243ca8871b497f46692b121e9fd74134915f6c44e62c58",
+      "name": {
+        "zh-TW": "春雨紫藤傘",
+        "zh-CN": "春雨紫藤伞",
+        "en": "Wisteria Parasol in the Spring Rain",
+        "ja": "春雨に咲く藤色の傘"
+      }
+    },
+    {
+      "id": "monthly-03-08",
+      "file": "packs/monthly-03/v2/images/monthly-03-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 95944,
+      "sha256": "ff41cb0fb7f89b93f278c6cb1381c604527f417e84d5f8aad3e0d9494f92ad54",
+      "name": {
+        "zh-TW": "月夜螢光花",
+        "zh-CN": "月夜荧光花",
+        "en": "Moonlit Glowflower",
+        "ja": "月夜に光る幻想花"
+      }
+    },
+    {
+      "id": "monthly-03-09",
+      "file": "packs/monthly-03/v2/images/monthly-03-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 156344,
+      "sha256": "a78969727cfb837ee3a4287d0ab17edacc07cf3989cce8654615810780b0e52a",
+      "name": {
+        "zh-TW": "山風帝王蝶",
+        "zh-CN": "山风帝王蝶",
+        "en": "Monarch Butterfly on the Mountain Breeze",
+        "ja": "山風に舞うオオカバマダラ"
+      }
+    },
+    {
+      "id": "monthly-03-10",
+      "file": "packs/monthly-03/v2/images/monthly-03-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 225816,
+      "sha256": "7b4b1c44411b63ac0c0b16088201a608afcd269cd9bc41c46e098f7893619336",
+      "name": {
+        "zh-TW": "霞谷古櫻樹",
+        "zh-CN": "霞谷古樱树",
+        "en": "Ancient Cherry Tree in the Rosy Valley",
+        "ja": "霞の谷の古桜"
+      }
+    }
+  ]
+}

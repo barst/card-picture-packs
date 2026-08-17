@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "adventure-items",
+  "version": 2,
+  "order": 38,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "勇者祕藏圖鑑",
+    "zh-CN": "勇者秘藏图鉴",
+    "en": "Treasures of the Adventurers' Guild",
+    "ja": "冒険者ギルドの秘宝図鑑"
+  },
+  "description": {
+    "zh-TW": "從戰士的盾劍、法師的星光杖到吟遊詩人的豎琴，十組冒險行囊靜靜訴說各種職業踏上旅途前的故事。",
+    "zh-CN": "从战士的盾剑、法师的星光杖到吟游诗人的竖琴，十组冒险行囊静静诉说各种职业踏上旅途前的故事。",
+    "en": "Ten carefully arranged adventuring kits, from a warrior's battered shield to a bard's traveling harp, hint at the quests waiting beyond the guild hall.",
+    "ja": "戦士の盾と剣、魔法使いの星杖、吟遊詩人の竪琴まで、10組の旅支度がギルドを発つ前の物語を静かに語ります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "adventure-items-01-warrior",
+  "images": [
+    {
+      "id": "adventure-items-01-warrior",
+      "file": "packs/adventure-items/v2/images/adventure-items-01-warrior.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 232476,
+      "sha256": "5d3989ef6032a3124d28a094260a2b2df7a4313c56ec4af49d49b843808f7b13",
+      "name": {
+        "zh-TW": "歷戰勇士的盾與劍",
+        "zh-CN": "历战勇士的盾与剑",
+        "en": "Shield and Sword of the Seasoned Warrior",
+        "ja": "歴戦の戦士の盾と剣"
+      }
+    },
+    {
+      "id": "adventure-items-02-mage",
+      "file": "packs/adventure-items/v2/images/adventure-items-02-mage.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130346,
+      "sha256": "f86bc0485b92300efb1a4d0bc8cb91451b0c5dc72fb14d7d94614188e522ad1e",
+      "name": {
+        "zh-TW": "星火法師的祕典",
+        "zh-CN": "星火法师的秘典",
+        "en": "The Starfire Mage's Grimoire",
+        "ja": "星火の魔法使いの秘典"
+      }
+    },
+    {
+      "id": "adventure-items-03-ranger",
+      "file": "packs/adventure-items/v2/images/adventure-items-03-ranger.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 135442,
+      "sha256": "792d3649817db2d8ff97d22afbf0f6473c3139691e0bad56fb8e675821692a39",
+      "name": {
+        "zh-TW": "林野遊俠的弓與獵刀",
+        "zh-CN": "林野游侠的弓与猎刀",
+        "en": "Woodland Ranger's Bow and Hunting Knife",
+        "ja": "森の遊撃手の弓と狩猟刀"
+      }
+    },
+    {
+      "id": "adventure-items-04-healer",
+      "file": "packs/adventure-items/v2/images/adventure-items-04-healer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 103404,
+      "sha256": "ea561e7971f45e5d9097731af96183a472e05c0538504e7a2b939a7e3cb8e979",
+      "name": {
+        "zh-TW": "月白療癒師的聖杯",
+        "zh-CN": "月白疗愈师的圣杯",
+        "en": "Moonlit Chalice of the Healer",
+        "ja": "月白の癒やし手の聖杯"
+      }
+    },
+    {
+      "id": "adventure-items-05-rogue",
+      "file": "packs/adventure-items/v2/images/adventure-items-05-rogue.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 178084,
+      "sha256": "508c496661e9e935fed905c26adec1e19f69d4d1213e3a258fee208737419b52",
+      "name": {
+        "zh-TW": "暗巷盜賊的雙刃行囊",
+        "zh-CN": "暗巷盗贼的双刃行囊",
+        "en": "Twin Blades from the Rogue's Satchel",
+        "ja": "路地裏の盗賊の双刃道具袋"
+      }
+    },
+    {
+      "id": "adventure-items-06-alchemist",
+      "file": "packs/adventure-items/v2/images/adventure-items-06-alchemist.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130262,
+      "sha256": "bd4bb8af9de30fec4ee408544fb0d81d87afce883ac8ccbcd01ad754e9de597d",
+      "name": {
+        "zh-TW": "鍊金術師的虹彩藥桌",
+        "zh-CN": "炼金术师的虹彩药桌",
+        "en": "The Alchemist's Iridescent Worktable",
+        "ja": "錬金術師の虹色調合台"
+      }
+    },
+    {
+      "id": "adventure-items-07-bard",
+      "file": "packs/adventure-items/v2/images/adventure-items-07-bard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 146940,
+      "sha256": "102ee227b4cd01a2e60861b63e117833281fb5d9a9f3b365190a6475f7c3c8e9",
+      "name": {
+        "zh-TW": "旅歌詩人的琴笛與書袋",
+        "zh-CN": "旅歌诗人的琴笛与书袋",
+        "en": "Harp, Flute, and Songbook of the Wandering Bard",
+        "ja": "旅の吟遊詩人の竪琴と笛と歌集"
+      }
+    },
+    {
+      "id": "adventure-items-08-summoner",
+      "file": "packs/adventure-items/v2/images/adventure-items-08-summoner.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 167992,
+      "sha256": "c8eedae3eea2469d2d8dd0f39b61153ece3797affe037f451f7d722f6f0bc696",
+      "name": {
+        "zh-TW": "召喚師的藍晶法陣",
+        "zh-CN": "召唤师的蓝晶法阵",
+        "en": "Azure Crystal Circle of the Summoner",
+        "ja": "召喚士の蒼晶魔法陣"
+      }
+    },
+    {
+      "id": "adventure-items-09-cursed-skull",
+      "file": "packs/adventure-items/v2/images/adventure-items-09-cursed-skull.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 124566,
+      "sha256": "3c58b3392caba114a1bc8f20f4f43a9569e592315c39a74b49468aaa3e64ca8f",
+      "name": {
+        "zh-TW": "禁咒祭壇上的幽火骷髏",
+        "zh-CN": "禁咒祭坛上的幽火骷髅",
+        "en": "Ghostflame Skull upon the Forbidden Altar",
+        "ja": "禁呪の祭壇に眠る鬼火の髑髏"
+      }
+    },
+    {
+      "id": "adventure-items-10-paladin",
+      "file": "packs/adventure-items/v2/images/adventure-items-10-paladin.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 151964,
+      "sha256": "32fc9eb457b0c19c2f25904dde4347fd0325b0a225633e0dcbee01a363bf5b9f",
+      "name": {
+        "zh-TW": "晨光聖騎士的金紋武裝",
+        "zh-CN": "晨光圣骑士的金纹武装",
+        "en": "Golden Arms of the Dawn Paladin",
+        "ja": "暁の聖騎士の金紋装備"
+      }
+    }
+  ]
+}

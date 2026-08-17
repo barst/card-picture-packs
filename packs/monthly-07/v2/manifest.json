@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-07",
+  "version": 2,
+  "order": 27,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "七月・海島傳奇",
+    "zh-CN": "七月・海岛传奇",
+    "en": "July · Island Legends",
+    "ja": "7月・島々の伝説"
+  },
+  "description": {
+    "zh-TW": "石像守護者、海盜船、翡翠蜥蜴與暴風燈塔各自獨挑大梁，讓七月海島冒險在小畫面也鮮明有力。",
+    "zh-CN": "石像守护者、海盗船、翡翠蜥蜴与暴风灯塔各自独挑大梁，让七月海岛冒险在小画面中也鲜明有力。",
+    "en": "A stone guardian, pirate galleon, emerald iguana, and storm lighthouse each command the frame in ten vivid island adventures.",
+    "ja": "石像の守護者、海賊船、翡翠色のイグアナ、嵐の灯台がそれぞれ画面の主役となり、7月の島冒険を鮮やかに描きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-07-01",
+  "images": [
+    {
+      "id": "monthly-07-01",
+      "file": "packs/monthly-07/v2/images/monthly-07-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 151028,
+      "sha256": "14b6c7dc955647e1dfdd0d374332811e453d09bbada06bfbbe24209ef0c024f5",
+      "name": {
+        "zh-TW": "海崖石像守護者",
+        "zh-CN": "海崖石像守护者",
+        "en": "Stone Guardian of the Sea Cliff",
+        "ja": "海崖の石像守護者"
+      }
+    },
+    {
+      "id": "monthly-07-02",
+      "file": "packs/monthly-07/v2/images/monthly-07-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 143138,
+      "sha256": "e5f2f2d003f17a37fb4889af63951ea2c6f3e514ce43dd050042e171f316c7b2",
+      "name": {
+        "zh-TW": "秘灣黃金海盜船",
+        "zh-CN": "秘湾黄金海盗船",
+        "en": "Golden Pirate Galleon in a Hidden Cove",
+        "ja": "秘湾の黄金海賊船"
+      }
+    },
+    {
+      "id": "monthly-07-03",
+      "file": "packs/monthly-07/v2/images/monthly-07-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 185428,
+      "sha256": "36679ec1d8a144ee0b27c0fc479b82b3406ad020fcef70bea50fdeb6ddca97d9",
+      "name": {
+        "zh-TW": "火光海島戰鼓",
+        "zh-CN": "火光海岛战鼓",
+        "en": "Island Drum by Firelight",
+        "ja": "炎に照らされた島の大太鼓"
+      }
+    },
+    {
+      "id": "monthly-07-04",
+      "file": "packs/monthly-07/v2/images/monthly-07-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 183942,
+      "sha256": "f1924281deab51ceb9f8c18db5173555d43828d5401dfb0e78e68fd9387d7107",
+      "name": {
+        "zh-TW": "月光玻璃獨木舟",
+        "zh-CN": "月光玻璃独木舟",
+        "en": "Glass Canoe beneath the Moon",
+        "ja": "月光に透けるガラスのカヌー"
+      }
+    },
+    {
+      "id": "monthly-07-05",
+      "file": "packs/monthly-07/v2/images/monthly-07-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 216028,
+      "sha256": "c7bbea83798d37f53dd0d05dafe7283b5ad6ba6b398e2c3ccfbead38e76b8365",
+      "name": {
+        "zh-TW": "瀑布谷翡翠蜥蜴",
+        "zh-CN": "瀑布谷翡翠蜥蜴",
+        "en": "Emerald Iguana of the Waterfall Valley",
+        "ja": "滝の谷の翡翠色イグアナ"
+      }
+    },
+    {
+      "id": "monthly-07-06",
+      "file": "packs/monthly-07/v2/images/monthly-07-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 96760,
+      "sha256": "b9bdba019547ccc4dfb0748cc16a3ed7975cd77cc398944d99ff92682fbf91b0",
+      "name": {
+        "zh-TW": "火山島星空望遠鏡",
+        "zh-CN": "火山岛星空望远镜",
+        "en": "Stargazing Telescope on the Volcano Isle",
+        "ja": "火山島の星空望遠鏡"
+      }
+    },
+    {
+      "id": "monthly-07-07",
+      "file": "packs/monthly-07/v2/images/monthly-07-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 85636,
+      "sha256": "cc4a91f08fe820ef6e1dd2ab6aad8ae96fd51db60cb1f863a029529886d16208",
+      "name": {
+        "zh-TW": "彩帆雲海飛船",
+        "zh-CN": "彩帆云海飞船",
+        "en": "Bright-Sailed Airship over the Clouds",
+        "ja": "雲海を渡る彩り帆の飛行船"
+      }
+    },
+    {
+      "id": "monthly-07-08",
+      "file": "packs/monthly-07/v2/images/monthly-07-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 148356,
+      "sha256": "1245c493f1bf533bd1168fe4ddbf264a7a12ff5ceeb067c1232487834e35e70f",
+      "name": {
+        "zh-TW": "森林沉睡石巨人",
+        "zh-CN": "森林沉睡石巨人",
+        "en": "Sleeping Stone Giant of the Forest",
+        "ja": "森に眠る石の巨人"
+      }
+    },
+    {
+      "id": "monthly-07-09",
+      "file": "packs/monthly-07/v2/images/monthly-07-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 164430,
+      "sha256": "7e23b88e701e553cbe599740e37a45cec24f9f72600208d8c9fdad6490e71640",
+      "name": {
+        "zh-TW": "深海珊瑚宮門",
+        "zh-CN": "深海珊瑚宫门",
+        "en": "Coral Gate to the Deep-Sea Palace",
+        "ja": "深海宮殿の珊瑚門"
+      }
+    },
+    {
+      "id": "monthly-07-10",
+      "file": "packs/monthly-07/v2/images/monthly-07-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 188974,
+      "sha256": "5a17d486d03d547508148453357bd37bc4e847d58952b0ee252f14b5dd59584a",
+      "name": {
+        "zh-TW": "暴風岬孤燈塔",
+        "zh-CN": "暴风岬孤灯塔",
+        "en": "Lone Lighthouse on the Storm Cape",
+        "ja": "嵐の岬に立つ孤灯台"
+      }
+    }
+  ]
+}

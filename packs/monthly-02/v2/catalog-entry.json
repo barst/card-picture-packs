@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-02",
+  "version": 2,
+  "order": 22,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "二月・瑞彩新春",
+    "zh-CN": "二月・瑞彩新春",
+    "en": "February · Auspicious New Year",
+    "ja": "2月・瑞光の春節"
+  },
+  "description": {
+    "zh-TW": "讓金獅、祥龍、團圓桌與巨型月兔花燈成為畫面焦點，以紅金瑞彩迎接熱鬧又溫暖的新春。",
+    "zh-CN": "让金狮、祥龙、团圆桌与巨型月兔花灯成为画面焦点，以红金瑞彩迎接热闹又温暖的新春。",
+    "en": "Golden lions, auspicious dragons, a reunion table, and a giant moon-rabbit lantern take center stage in a warm red-and-gold Lunar New Year.",
+    "ja": "金獅子、瑞龍、団らんの食卓、巨大な月兎灯籠を主役に、赤と金に彩られた温かな春節を祝います。"
+  },
+  "cover": "packs/monthly-02/v2/images/monthly-02-01.webp",
+  "manifest": "packs/monthly-02/v2/manifest.json",
+  "manifestBytes": 5923,
+  "manifestSha256": "2136bfdfbbe2c9a014073413dfd0aeb4267f0c42507a286777acc27e38c3bb8b",
+  "imageCount": 10,
+  "downloadBytes": 1488308
+}

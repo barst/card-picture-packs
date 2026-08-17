@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "future-dream-homes",
+  "version": 2,
+  "order": 48,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "與自然共生的未來居所",
+    "zh-CN": "与自然共生的未来居所",
+    "en": "Homes for a Living Future",
+    "ja": "自然と暮らす未来の家"
+  },
+  "description": {
+    "zh-TW": "從森林玻璃屋到河岸復育宅，十種未來建築讓能源、氣候與生活重新融入自然。",
+    "zh-CN": "从森林玻璃屋到河岸复育宅，十种未来建筑让能源、气候与生活重新融入自然。",
+    "en": "Ten forward-looking homes reconnect energy, climate, and everyday life with nature, from a forest glasshouse to a rewilded river retreat.",
+    "ja": "森のガラス住宅から再生した川辺の家まで、エネルギー、気候、暮らしを自然へつなぎ直す10の未来建築です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "future-dream-homes-01-forest-glasshouse",
+  "images": [
+    {
+      "id": "future-dream-homes-01-forest-glasshouse",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-01-forest-glasshouse.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 360820,
+      "sha256": "9ce15185a89ce7102e748f4303165618d48764b8718f9130ce0c20d8bd6a6497",
+      "name": {
+        "zh-TW": "森林水庭玻璃屋",
+        "zh-CN": "森林水庭玻璃屋",
+        "en": "Forest Glasshouse by the Water Garden",
+        "ja": "森の水庭に建つガラスの家"
+      }
+    },
+    {
+      "id": "future-dream-homes-02-ocean-cliff-home",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-02-ocean-cliff-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 176616,
+      "sha256": "2b6819b73f45b49c6f1910da49b57e2fd7edb1ef7ba30bd385870ba4a07a2db7",
+      "name": {
+        "zh-TW": "海崖風力之家",
+        "zh-CN": "海崖风力之家",
+        "en": "Wind-Powered Home on the Ocean Cliff",
+        "ja": "海崖の風力発電住宅"
+      }
+    },
+    {
+      "id": "future-dream-homes-03-compact-urban-loft",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-03-compact-urban-loft.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 113168,
+      "sha256": "a24b6ab76ced152ec797cb36c195bfd531c1ce98fbdf90c5a53938b49795a519",
+      "name": {
+        "zh-TW": "城市挑高微型宅",
+        "zh-CN": "城市挑高微型宅",
+        "en": "Sunlit Compact Urban Loft",
+        "ja": "陽光差す都市の小さな吹き抜け住宅"
+      }
+    },
+    {
+      "id": "future-dream-homes-04-desert-solar-courtyard",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-04-desert-solar-courtyard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 162858,
+      "sha256": "7fe361c4c183c7c178318883fb330c49f3ebe95f98220a00ce98ad5aa4fad108",
+      "name": {
+        "zh-TW": "沙漠太陽能庭院",
+        "zh-CN": "沙漠太阳能庭院",
+        "en": "Solar Courtyard in the Desert",
+        "ja": "砂漠の太陽光中庭住宅"
+      }
+    },
+    {
+      "id": "future-dream-homes-05-floating-wetland-home",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-05-floating-wetland-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 171914,
+      "sha256": "6fd40a8034f6fdbdb990a342821f9d5d5bb9f6d7efec9f7d7d53f2bd5763fd46",
+      "name": {
+        "zh-TW": "濕地上的漂浮之家",
+        "zh-CN": "湿地上的漂浮之家",
+        "en": "Floating Home in the Wetlands",
+        "ja": "湿地に浮かぶ家"
+      }
+    },
+    {
+      "id": "future-dream-homes-06-snow-thermal-dome",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-06-snow-thermal-dome.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 129992,
+      "sha256": "1e654ea00da6081be3ecf3b92839ea4a31ced7a2a2484bbccfe866acc53b8488",
+      "name": {
+        "zh-TW": "雪原地熱穹頂屋",
+        "zh-CN": "雪原地热穹顶屋",
+        "en": "Geothermal Dome in the Snow",
+        "ja": "雪原の地熱ドーム住宅"
+      }
+    },
+    {
+      "id": "future-dream-homes-07-tropical-courtyard",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-07-tropical-courtyard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 201914,
+      "sha256": "ca93ca7270f01119b7277acbce7c81ffa955f85e90623d2ebe5203707930af15",
+      "name": {
+        "zh-TW": "熱帶綠意中庭宅",
+        "zh-CN": "热带绿意中庭宅",
+        "en": "Tropical Courtyard in the Green",
+        "ja": "緑に包まれた熱帯の中庭住宅"
+      }
+    },
+    {
+      "id": "future-dream-homes-08-modular-rooftop-village",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-08-modular-rooftop-village.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 126628,
+      "sha256": "ceff6073a712cf005c66ae16e5479d8441be463e52463152dd9859827a38dccc",
+      "name": {
+        "zh-TW": "屋頂模組綠村",
+        "zh-CN": "屋顶模块绿村",
+        "en": "Modular Rooftop Garden Village",
+        "ja": "屋上に広がる組み立て式の緑の村"
+      }
+    },
+    {
+      "id": "future-dream-homes-09-canyon-earth-home",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-09-canyon-earth-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 295624,
+      "sha256": "279afbc531c074af0a9b4f73194be7d10cc6db7de756d325621a28e46d5da15c",
+      "name": {
+        "zh-TW": "紅岩峽谷覆土之家",
+        "zh-CN": "红岩峡谷覆土之家",
+        "en": "Earth-Sheltered Home in the Canyon",
+        "ja": "赤い峡谷の半地下住宅"
+      }
+    },
+    {
+      "id": "future-dream-homes-10-river-rewilding-home",
+      "file": "packs/future-dream-homes/v2/images/future-dream-homes-10-river-rewilding-home.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 194446,
+      "sha256": "fc8adc920f318863ae32a4082d92cc63ae3ba1380f1febfcf6c46883ca853fef",
+      "name": {
+        "zh-TW": "河岸復育林居",
+        "zh-CN": "河岸复育林居",
+        "en": "Riverside Home in a Rewilded Landscape",
+        "ja": "よみがえる川辺の森の家"
+      }
+    }
+  ]
+}

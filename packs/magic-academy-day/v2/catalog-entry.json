@@ -1,0 +1,25 @@
+{
+  "packId": "magic-academy-day",
+  "version": 2,
+  "order": 43,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "浮空魔法學院日誌",
+    "zh-CN": "浮空魔法学院日记",
+    "en": "A Day at the Skybound Magic Academy",
+    "ja": "空に浮かぶ魔法学院日誌"
+  },
+  "description": {
+    "zh-TW": "從乘船抵達浮空校園，到元素課、飛天掃帚訓練與燈籠畢業夜，十幅畫記下魔法學徒忙碌又閃亮的一天。",
+    "zh-CN": "从乘船抵达浮空校园，到元素课、飞天扫帚训练与灯笼毕业夜，十幅画记下魔法学徒忙碌又闪亮的一天。",
+    "en": "From arrival at a floating campus to elemental lessons, broom practice, hidden archives, and a lantern-lit graduation, ten scenes capture one enchanted school day.",
+    "ja": "空飛ぶ学院への到着から元素の授業、箒の訓練、秘密書庫、灯籠が輝く卒業式まで、魔法の学び舎の一日を10場面で綴ります。"
+  },
+  "cover": "packs/magic-academy-day/v2/images/magic-academy-day-01-floating-campus-arrival.webp",
+  "manifest": "packs/magic-academy-day/v2/manifest.json",
+  "manifestBytes": 7088,
+  "manifestSha256": "d7aa1f34c6f430249bb79521707eb0b667c21b4fa138b7cbbaa6af5d62526aef",
+  "imageCount": 10,
+  "downloadBytes": 1317858
+}

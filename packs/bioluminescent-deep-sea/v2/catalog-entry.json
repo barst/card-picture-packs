@@ -1,0 +1,25 @@
+{
+  "packId": "bioluminescent-deep-sea",
+  "version": 2,
+  "order": 41,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "深藍發光奇境",
+    "zh-CN": "深蓝发光奇境",
+    "en": "Wonders of the Luminous Deep",
+    "ja": "深青に光る海の奇境"
+  },
+  "description": {
+    "zh-TW": "燈籠魚游過峽谷，水母照亮穹頂，熱泉與深海珊瑚築成不可思議的藍色世界，邀你潛入十幅幽光祕境。",
+    "zh-CN": "灯笼鱼游过峡谷，水母照亮穹顶，热泉与深海珊瑚筑成不可思议的蓝色世界，邀你潜入十幅幽光秘境。",
+    "en": "Anglerfish, glass squid, glowing jellyfish, and impossible coral cities illuminate ten mysterious scenes hidden in the ocean's deepest blue.",
+    "ja": "チョウチンアンコウやクラゲ、透明なイカ、深海珊瑚の街が光を放ち、海の最も深い青に隠れた10の奇景へ誘います。"
+  },
+  "cover": "packs/bioluminescent-deep-sea/v2/images/bioluminescent-deep-sea-01-anglerfish-canyon.webp",
+  "manifest": "packs/bioluminescent-deep-sea/v2/manifest.json",
+  "manifestBytes": 7235,
+  "manifestSha256": "7cf22a699344b03508257b707e57c3ef6d533d1060066ba541c525a8fa5074b6",
+  "imageCount": 10,
+  "downloadBytes": 1344576
+}

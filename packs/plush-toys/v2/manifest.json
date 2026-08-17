@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "plush-toys",
+  "version": 2,
+  "order": 35,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "棉花糖玩伴",
+    "zh-CN": "棉花糖玩伴",
+    "en": "Soft Friends for Cozy Days",
+    "ja": "ふわふわ夢の仲間たち"
+  },
+  "description": {
+    "zh-TW": "泰迪熊、垂耳兔、企鵝與小飛龍排排坐好，十位柔軟玩伴為房間添上安心又甜美的童話氣息。",
+    "zh-CN": "泰迪熊、垂耳兔、企鹅与小飞龙排排坐好，十位柔软玩伴为房间添上安心又甜美的童话气息。",
+    "en": "Ten soft companions, from a classic teddy bear to a tiny dragon, fill the room with comfort, sweetness, and a touch of storybook wonder.",
+    "ja": "テディベアやたれ耳ウサギ、ペンギン、小さなドラゴンまで、10体のぬいぐるみが部屋に安心と物語のぬくもりを届けます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "plush-toys-01-teddy-bear",
+  "images": [
+    {
+      "id": "plush-toys-01-teddy-bear",
+      "file": "packs/plush-toys/v2/images/plush-toys-01-teddy-bear.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 119988,
+      "sha256": "d0c9e3ef5ae955ca796ed876bf43e8b4c9b6fa42172e864a934e898c267b92e4",
+      "name": {
+        "zh-TW": "暖陽床畔泰迪熊",
+        "zh-CN": "暖阳床畔泰迪熊",
+        "en": "Teddy Bear in the Morning Light",
+        "ja": "朝日のベッドサイド・テディベア"
+      }
+    },
+    {
+      "id": "plush-toys-02-bunny",
+      "file": "packs/plush-toys/v2/images/plush-toys-02-bunny.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 66228,
+      "sha256": "182144b4fd2f40557a97f03f4d631ad7d1bc191bb7369a77e4703eb5b79b4aec",
+      "name": {
+        "zh-TW": "彩毯上的垂耳兔",
+        "zh-CN": "彩毯上的垂耳兔",
+        "en": "Lop-Eared Bunny on a Pastel Blanket",
+        "ja": "パステル毛布のたれ耳ウサギ"
+      }
+    },
+    {
+      "id": "plush-toys-03-kitten",
+      "file": "packs/plush-toys/v2/images/plush-toys-03-kitten.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 150542,
+      "sha256": "913ba7bb7fc0d0089e37b3819b32d6b04bb465add8d44620c798d415355f29ea",
+      "name": {
+        "zh-TW": "粉紅枕邊虎斑小貓",
+        "zh-CN": "粉红枕边虎斑小猫",
+        "en": "Tabby Kitten by the Pink Pillow",
+        "ja": "桃色枕のそばの子猫"
+      }
+    },
+    {
+      "id": "plush-toys-04-puppy",
+      "file": "packs/plush-toys/v2/images/plush-toys-04-puppy.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 132308,
+      "sha256": "be19d0f61c0dc9bad916a5f091940a33c2a58d2821891436c2ab3ce1231588e4",
+      "name": {
+        "zh-TW": "午後地毯上的小黃狗",
+        "zh-CN": "午后地毯上的小黄狗",
+        "en": "Golden Puppy on the Afternoon Rug",
+        "ja": "午後のラグに座る子犬"
+      }
+    },
+    {
+      "id": "plush-toys-05-penguin",
+      "file": "packs/plush-toys/v2/images/plush-toys-05-penguin.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 116230,
+      "sha256": "fdf8705284ef5ed2d6282777eca446121c515a2121ed4c35ddd501c960619de7",
+      "name": {
+        "zh-TW": "毛毯窩裡的小企鵝",
+        "zh-CN": "毛毯窝里的小企鹅",
+        "en": "Little Penguin in a Blanket Nest",
+        "ja": "毛布の巣の小さなペンギン"
+      }
+    },
+    {
+      "id": "plush-toys-06-dinosaur",
+      "file": "packs/plush-toys/v2/images/plush-toys-06-dinosaur.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 106956,
+      "sha256": "81c1fadb1566a60fc11d2db75e5e059b9102020b2111cc18464eb30224a04da8",
+      "name": {
+        "zh-TW": "彩虹遊戲房的小恐龍",
+        "zh-CN": "彩虹游戏房的小恐龙",
+        "en": "Little Dinosaur in the Rainbow Playroom",
+        "ja": "虹色の遊び部屋の小さな恐竜"
+      }
+    },
+    {
+      "id": "plush-toys-07-whale",
+      "file": "packs/plush-toys/v2/images/plush-toys-07-whale.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 129070,
+      "sha256": "356113862404d3ab8683d8b755949443ed5ef6a2592eba8608c53b2e1465fc48",
+      "name": {
+        "zh-TW": "藍色毛毯上的微笑鯨魚",
+        "zh-CN": "蓝色毛毯上的微笑鲸鱼",
+        "en": "Smiling Whale on a Blue Blanket",
+        "ja": "青い毛布のほほえむクジラ"
+      }
+    },
+    {
+      "id": "plush-toys-08-sheep",
+      "file": "packs/plush-toys/v2/images/plush-toys-08-sheep.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 150492,
+      "sha256": "42208e96d596155cdd09780d9fdf5b93fcb3bcb2566b2cabdeb0829f2dac0ad2",
+      "name": {
+        "zh-TW": "籐籃旁的雲朵綿羊",
+        "zh-CN": "藤篮旁的云朵绵羊",
+        "en": "Cloud-Soft Sheep by the Wicker Basket",
+        "ja": "籐かごのそばの雲みたいな子羊"
+      }
+    },
+    {
+      "id": "plush-toys-09-dragon",
+      "file": "packs/plush-toys/v2/images/plush-toys-09-dragon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122240,
+      "sha256": "5558522a1f72f14d681d750f2e82b8f3cd5f2b38d303d755a07c67b78cc8cbf5",
+      "name": {
+        "zh-TW": "星星小屋的紫色飛龍",
+        "zh-CN": "星星小屋的紫色飞龙",
+        "en": "Purple Dragon in the Starlit Nook",
+        "ja": "星の小部屋の紫ドラゴン"
+      }
+    },
+    {
+      "id": "plush-toys-10-turtle",
+      "file": "packs/plush-toys/v2/images/plush-toys-10-turtle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 127962,
+      "sha256": "3719eedb1787c42a7200c5637cf7801b941bc2d7593b69aaafe08ccb7dac7c8b",
+      "name": {
+        "zh-TW": "午睡時光的小海龜",
+        "zh-CN": "午睡时光的小海龟",
+        "en": "Little Sea Turtle at Naptime",
+        "ja": "お昼寝時間の子ウミガメ"
+      }
+    }
+  ]
+}

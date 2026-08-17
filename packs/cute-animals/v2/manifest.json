@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "cute-animals",
+  "version": 2,
+  "order": 13,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "毛茸茸小日子",
+    "zh-CN": "毛茸茸的小日子",
+    "en": "Little Days, Furry Friends",
+    "ja": "ふわもこ日和"
+  },
+  "description": {
+    "zh-TW": "從暖毯上的小貓到牧場裡的羊駝，十位毛茸茸的小夥伴帶來療癒又純真的日常。",
+    "zh-CN": "从暖毯上的小猫到牧场里的羊驼，十位毛茸茸的小伙伴带来治愈又纯真的日常。",
+    "en": "Ten gentle little companions bring warmth and wonder, from a kitten on a cozy blanket to an alpaca in the meadow.",
+    "ja": "ぬくもり毛布の子猫から牧場のアルパカまで、ふわふわの仲間たちが届ける心なごむ10のひとときです。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "cute-animals-01-kitten",
+  "images": [
+    {
+      "id": "cute-animals-01-kitten",
+      "file": "packs/cute-animals/v2/images/cute-animals-01-kitten.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 176218,
+      "sha256": "1d8ff8c0b1b5db247b104aaae39df2924cba07d4ee844cce4389c1d16f7403b8",
+      "name": {
+        "zh-TW": "暖毯上的窗邊小貓",
+        "zh-CN": "暖毯上的窗边小猫",
+        "en": "Window Kitten on a Cozy Blanket",
+        "ja": "ぬくもり毛布の窓辺の子猫"
+      }
+    },
+    {
+      "id": "cute-animals-02-golden-retriever",
+      "file": "packs/cute-animals/v2/images/cute-animals-02-golden-retriever.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 256708,
+      "sha256": "a9d8e5369502398e768764a118f5d16f7177df59d787de0b6e27a0fe1970f9d5",
+      "name": {
+        "zh-TW": "花園裡的黃金獵犬寶寶",
+        "zh-CN": "花园里的金毛寻回犬宝宝",
+        "en": "Golden Retriever Puppy in Bloom",
+        "ja": "花咲く庭のゴールデンレトリバー"
+      }
+    },
+    {
+      "id": "cute-animals-03-rabbit",
+      "file": "packs/cute-animals/v2/images/cute-animals-03-rabbit.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 129998,
+      "sha256": "4f1f58760ea17a80ef7260d7f364ce1114158fbae47d6af9e61244c032ec9216",
+      "name": {
+        "zh-TW": "幸運草地的小兔子",
+        "zh-CN": "幸运草地的小兔子",
+        "en": "Little Rabbit in the Clover",
+        "ja": "クローバー畑の子ウサギ"
+      }
+    },
+    {
+      "id": "cute-animals-04-duckling",
+      "file": "packs/cute-animals/v2/images/cute-animals-04-duckling.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 185754,
+      "sha256": "9d3eebdb7975b0997b3f40aa85725b0aa38774f2b4ccfda7ac1aaf003b801342",
+      "name": {
+        "zh-TW": "池畔曬太陽的小鴨",
+        "zh-CN": "池畔晒太阳的小鸭",
+        "en": "Duckling in the Pondside Sun",
+        "ja": "池辺で日なたぼっこのアヒルの子"
+      }
+    },
+    {
+      "id": "cute-animals-05-hedgehog",
+      "file": "packs/cute-animals/v2/images/cute-animals-05-hedgehog.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 118306,
+      "sha256": "e206a124c99a982339dc07609423f15a2c08eb6fa0d3d9a86ec1346d67dee5b0",
+      "name": {
+        "zh-TW": "秋葉窩裡的小刺蝟",
+        "zh-CN": "秋叶窝里的小刺猬",
+        "en": "Hedgehog Nestled in Autumn Leaves",
+        "ja": "落ち葉にもぐるハリネズミ"
+      }
+    },
+    {
+      "id": "cute-animals-06-fox",
+      "file": "packs/cute-animals/v2/images/cute-animals-06-fox.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 104766,
+      "sha256": "57ac4c8aeee9c7e9594c3e878c417b5d44248fa97dc7f8977d5fbc4a1e113f16",
+      "name": {
+        "zh-TW": "雪地晨光的小狐狸",
+        "zh-CN": "雪地晨光的小狐狸",
+        "en": "Fox Cub in the Snowy Dawn",
+        "ja": "雪の朝のキツネの子"
+      }
+    },
+    {
+      "id": "cute-animals-07-penguin",
+      "file": "packs/cute-animals/v2/images/cute-animals-07-penguin.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 95316,
+      "sha256": "6abc21cbbdadfd28558df49a801ceff25ec2af56a54570f20342d69f2cb6bbaa",
+      "name": {
+        "zh-TW": "依偎親鳥的企鵝寶寶",
+        "zh-CN": "依偎亲鸟的企鹅宝宝",
+        "en": "Penguin Chick Nestled with Its Parent",
+        "ja": "親鳥に寄り添うペンギンのひな"
+      }
+    },
+    {
+      "id": "cute-animals-08-otter",
+      "file": "packs/cute-animals/v2/images/cute-animals-08-otter.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 143968,
+      "sha256": "0b08bcd9c4ef6fae648d579c8dc6f871f09be0c0a60f9b07fe33bc90d3831e5a",
+      "name": {
+        "zh-TW": "水面玩石的小水獺",
+        "zh-CN": "水面玩石的小水獭",
+        "en": "Otter Pup Playing with a Pebble",
+        "ja": "小石で遊ぶカワウソの子"
+      }
+    },
+    {
+      "id": "cute-animals-09-hamster",
+      "file": "packs/cute-animals/v2/images/cute-animals-09-hamster.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 84588,
+      "sha256": "168d7d6eef06fcb3fe0f037d3c222edb12b2eb63d3bd1cc62c28f1800da16705",
+      "name": {
+        "zh-TW": "抱著葵花籽的小倉鼠",
+        "zh-CN": "抱着葵花籽的小仓鼠",
+        "en": "Hamster Hugging a Sunflower Seed",
+        "ja": "ヒマワリの種を抱くハムスター"
+      }
+    },
+    {
+      "id": "cute-animals-10-alpaca",
+      "file": "packs/cute-animals/v2/images/cute-animals-10-alpaca.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 172642,
+      "sha256": "19c593707db4745dd4722a35cd033641139cea65ef7d5d5d066aa56b0a3c9fb2",
+      "name": {
+        "zh-TW": "牧場裡的羊駝寶寶",
+        "zh-CN": "牧场里的羊驼宝宝",
+        "en": "Baby Alpaca in a Sunny Pasture",
+        "ja": "牧場のアルパカの赤ちゃん"
+      }
+    }
+  ]
+}

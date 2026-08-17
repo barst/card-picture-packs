@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-01",
+  "version": 2,
+  "order": 21,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "一月・雪夜奇光",
+    "zh-CN": "一月・雪夜奇光",
+    "en": "January · Wonders of Winter Light",
+    "ja": "1月・雪夜のきらめき"
+  },
+  "description": {
+    "zh-TW": "以冰晶天鵝、提燈雪狐、極光天文台與火龍花燈為主角，點亮一月雪夜的十種奇幻光景。",
+    "zh-CN": "以冰晶天鹅、提灯雪狐、极光天文台与火龙花灯为主角，点亮一月雪夜的十种奇幻光景。",
+    "en": "Ten bold winter icons—an ice swan, a lantern fox, an aurora observatory, a fiery dragon lantern, and more—illuminate January nights.",
+    "ja": "氷晶の白鳥、提灯を持つ雪狐、オーロラ天文台、火龍の灯籠など、10の大きな主役が1月の雪夜を照らします。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-01-01",
+  "images": [
+    {
+      "id": "monthly-01-01",
+      "file": "packs/monthly-01/v2/images/monthly-01-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 291974,
+      "sha256": "95408dfa86282c17716d96e9074d0b7bf9320c46aae71d4194520fca8d6e90bb",
+      "name": {
+        "zh-TW": "湖畔冰晶天鵝",
+        "zh-CN": "湖畔冰晶天鹅",
+        "en": "Crystal Ice Swan by the Lake",
+        "ja": "湖畔の氷晶の白鳥"
+      }
+    },
+    {
+      "id": "monthly-01-02",
+      "file": "packs/monthly-01/v2/images/monthly-01-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 110978,
+      "sha256": "f1922ee55123fc882a29416859cfae54dd157ff4bdcfe732d67fa55c1c5d06f4",
+      "name": {
+        "zh-TW": "雪城朱紅燈籠",
+        "zh-CN": "雪城朱红灯笼",
+        "en": "Crimson Lantern of the Snowy Town",
+        "ja": "雪の街の朱色大提灯"
+      }
+    },
+    {
+      "id": "monthly-01-03",
+      "file": "packs/monthly-01/v2/images/monthly-01-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 137862,
+      "sha256": "0f2792ccde5dd90f52e3fb3614e807371f217045d24baadbbf38a2d4af4c29d7",
+      "name": {
+        "zh-TW": "提燈雪狐",
+        "zh-CN": "提灯雪狐",
+        "en": "Snow Fox with a Lantern",
+        "ja": "提灯を携えた雪狐"
+      }
+    },
+    {
+      "id": "monthly-01-04",
+      "file": "packs/monthly-01/v2/images/monthly-01-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 154716,
+      "sha256": "062586fea2d9f1d067a579b6a9eed8682a781afbf784a220f6f061f474c92c34",
+      "name": {
+        "zh-TW": "月光冰宮舞者",
+        "zh-CN": "月光冰宫舞者",
+        "en": "Moonlit Dancer of the Ice Palace",
+        "ja": "月光の氷宮を舞う踊り子"
+      }
+    },
+    {
+      "id": "monthly-01-05",
+      "file": "packs/monthly-01/v2/images/monthly-01-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 246408,
+      "sha256": "d529f0ab05c7c13ae3bf6c9fcbe738e821e36fb169b9dbf68290e8644e5c9625",
+      "name": {
+        "zh-TW": "雪湖提燈孤舟",
+        "zh-CN": "雪湖提灯孤舟",
+        "en": "Lantern Skiff on a Frozen Lake",
+        "ja": "凍てつく湖の提灯舟"
+      }
+    },
+    {
+      "id": "monthly-01-06",
+      "file": "packs/monthly-01/v2/images/monthly-01-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 180570,
+      "sha256": "5f6512c3a11eb76d07c0a3494e75b130fe5a398c5aa62c5cc5c45da4accccdce",
+      "name": {
+        "zh-TW": "雪屋暖爐銅壺",
+        "zh-CN": "雪屋暖炉铜壶",
+        "en": "Copper Kettle by the Snow-Cottage Hearth",
+        "ja": "雪小屋の暖炉にかかる銅のやかん"
+      }
+    },
+    {
+      "id": "monthly-01-07",
+      "file": "packs/monthly-01/v2/images/monthly-01-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 156192,
+      "sha256": "5e4869c57b49039b6352fe71366895825e84aa586b7f13968dcbe104102cbd0d",
+      "name": {
+        "zh-TW": "極光山巔天文台",
+        "zh-CN": "极光山巅天文台",
+        "en": "Mountaintop Observatory beneath the Aurora",
+        "ja": "オーロラを仰ぐ山頂天文台"
+      }
+    },
+    {
+      "id": "monthly-01-08",
+      "file": "packs/monthly-01/v2/images/monthly-01-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 202210,
+      "sha256": "01b1c81ce08848fb6f16200b99c21e872da534ba8740cfeb73a64e24be7463ae",
+      "name": {
+        "zh-TW": "雪夜火龍花燈",
+        "zh-CN": "雪夜火龙花灯",
+        "en": "Fiery Dragon Lantern in the Snow",
+        "ja": "雪夜を駆ける火龍の灯籠"
+      }
+    },
+    {
+      "id": "monthly-01-09",
+      "file": "packs/monthly-01/v2/images/monthly-01-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 154656,
+      "sha256": "38782871bc1356e95ef56ba4c27f67fb0bbd4931ffa80994aea5b71f329ed24d",
+      "name": {
+        "zh-TW": "金光冰晶隧道",
+        "zh-CN": "金光冰晶隧道",
+        "en": "Golden Passage through Crystal Ice",
+        "ja": "金色に輝く氷晶の回廊"
+      }
+    },
+    {
+      "id": "monthly-01-10",
+      "file": "packs/monthly-01/v2/images/monthly-01-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122350,
+      "sha256": "9fd3ca974d32fd1e43ee7baa39d47cd74ed284b441b9a1a2592b15b1a712f3f2",
+      "name": {
+        "zh-TW": "冬港彩帆船",
+        "zh-CN": "冬港彩帆船",
+        "en": "Painted Sailboat in the Winter Harbor",
+        "ja": "冬の港の彩り帆船"
+      }
+    }
+  ]
+}

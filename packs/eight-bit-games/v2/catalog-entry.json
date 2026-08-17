@@ -1,0 +1,25 @@
+{
+  "packId": "eight-bit-games",
+  "version": 2,
+  "order": 37,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "像素冒險機台",
+    "zh-CN": "像素冒险街机",
+    "en": "Pixel Arcade Adventures",
+    "ja": "ドット絵アーケード冒険譚"
+  },
+  "description": {
+    "zh-TW": "勇者古堡、星艦彈幕、霓虹賽道與溫暖農場，十種經典玩法化成色彩鮮明的像素遊戲世界。",
+    "zh-CN": "勇者古堡、星舰弹幕、霓虹赛道与温暖农场，十种经典玩法化成色彩鲜明的像素游戏世界。",
+    "en": "Ten colorful pixel worlds celebrate classic game genres, from castle quests and starship barrages to neon racing, farming, puzzles, and fighters.",
+    "ja": "勇者の城、宇宙の弾幕、ネオンのレース、のどかな農場まで、定番ジャンルを鮮やかなドット絵で描いた10のゲーム世界です。"
+  },
+  "cover": "packs/eight-bit-games/v2/images/eight-bit-games-01-fantasy-rpg.webp",
+  "manifest": "packs/eight-bit-games/v2/manifest.json",
+  "manifestBytes": 6595,
+  "manifestSha256": "e8cd10a023f4a0cf635dd6c7e28662c4d6706d465e869c99288d5bf0fd77b096",
+  "imageCount": 10,
+  "downloadBytes": 1444034
+}

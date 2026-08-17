@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 2,
+  "packId": "zodiac",
+  "version": 2,
+  "order": 34,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "星座幻境",
+    "zh-CN": "星座幻境",
+    "en": "Zodiac Realms",
+    "ja": "星座の幻想世界"
+  },
+  "description": {
+    "zh-TW": "十二幅以動物、人物與奇幻場景演繹的星座肖像，淡淡星圖在夜空中留下各自的印記。",
+    "zh-CN": "十二幅以动物、人物与奇幻场景演绎的星座肖像，淡淡星图在夜空中留下各自的印记。",
+    "en": "Twelve richly illustrated zodiac portraits told through animals, people, and mythical landscapes, each marked by a subtle constellation in the night sky.",
+    "ja": "動物や人物、幻想風景で十二星座を描き、夜空に淡い星座線を重ねた12枚の物語的コレクション。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "zodiac-01-aries",
+  "images": [
+    {
+      "id": "zodiac-01-aries",
+      "file": "packs/zodiac/v2/images/zodiac-01-aries.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 228088,
+      "sha256": "d8c51ea67e24a9635be31d00b6b0becb03e66bf6f04be95b864a4e6ec9d5f0b1",
+      "name": {
+        "zh-TW": "晨曦金角牡羊",
+        "zh-CN": "晨曦金角白羊",
+        "en": "Golden-Horned Aries at Dawn",
+        "ja": "暁の金角おひつじ"
+      }
+    },
+    {
+      "id": "zodiac-02-taurus",
+      "file": "packs/zodiac/v2/images/zodiac-02-taurus.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 362544,
+      "sha256": "f3afe4419b9d8e947f9174db5db2b2a27115c0c7a941eb330f5298229b998c9c",
+      "name": {
+        "zh-TW": "豐野大地金牛",
+        "zh-CN": "丰野大地金牛",
+        "en": "Taurus of the Golden Fields",
+        "ja": "黄金の大地のおうし"
+      }
+    },
+    {
+      "id": "zodiac-03-gemini",
+      "file": "packs/zodiac/v2/images/zodiac-03-gemini.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 186594,
+      "sha256": "c395af430c17f00b08cb473f6b8f074883b84e69b9b10d65b1e46f6d2977991f",
+      "name": {
+        "zh-TW": "星鏡雙生旅人",
+        "zh-CN": "星镜双生旅人",
+        "en": "Gemini Mirror Travelers",
+        "ja": "星鏡のふたご旅人"
+      }
+    },
+    {
+      "id": "zodiac-04-cancer",
+      "file": "packs/zodiac/v2/images/zodiac-04-cancer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 250306,
+      "sha256": "6e664a780accfbb6822b3f5b1df35ab09dc4d4a045e47745421bda4d9cd3d52b",
+      "name": {
+        "zh-TW": "月潮銀甲巨蟹",
+        "zh-CN": "月潮银甲巨蟹",
+        "en": "Moon-Tide Cancer",
+        "ja": "月潮の銀甲かに"
+      }
+    },
+    {
+      "id": "zodiac-05-leo",
+      "file": "packs/zodiac/v2/images/zodiac-05-leo.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 243662,
+      "sha256": "7a5e1a3b95e038a2046999d3f8564bd1da2f65d1c672e048f71af5a297c51d2d",
+      "name": {
+        "zh-TW": "烈陽王者獅子",
+        "zh-CN": "烈阳王者狮子",
+        "en": "Leo, Sovereign of the Sun",
+        "ja": "烈日の王たるしし"
+      }
+    },
+    {
+      "id": "zodiac-06-virgo",
+      "file": "packs/zodiac/v2/images/zodiac-06-virgo.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 253146,
+      "sha256": "a4cf116944dda84780b0451a6e19cebb4b98d8b4a68d59dfa8a803dc3599b78d",
+      "name": {
+        "zh-TW": "麥穗月光少女",
+        "zh-CN": "麦穗月光少女",
+        "en": "Virgo of Moonlit Wheat",
+        "ja": "月麦の乙女"
+      }
+    },
+    {
+      "id": "zodiac-07-libra",
+      "file": "packs/zodiac/v2/images/zodiac-07-libra.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 277986,
+      "sha256": "d37f01305486beeb371ceb490b3be6bd1e2920e8d945cf33f7806596d7fd7cb8",
+      "name": {
+        "zh-TW": "天空之庭天秤",
+        "zh-CN": "天空之庭天秤",
+        "en": "Libra of the Sky Garden",
+        "ja": "天空庭園のてんびん"
+      }
+    },
+    {
+      "id": "zodiac-08-scorpio",
+      "file": "packs/zodiac/v2/images/zodiac-08-scorpio.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 244938,
+      "sha256": "f37031d4593f154ce9872953d75fab39afe03cb2ab6dd03f18a764aad67c44fe",
+      "name": {
+        "zh-TW": "緋月守護天蠍",
+        "zh-CN": "绯月守护天蝎",
+        "en": "Scorpio under the Crimson Moon",
+        "ja": "緋月のさそり"
+      }
+    },
+    {
+      "id": "zodiac-09-sagittarius",
+      "file": "packs/zodiac/v2/images/zodiac-09-sagittarius.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 240664,
+      "sha256": "a2681e89cab9643e5bafd918a22296b0f1a864534bc1089e79bb531d06e5e3e4",
+      "name": {
+        "zh-TW": "星野奔行射手",
+        "zh-CN": "星野奔行射手",
+        "en": "Sagittarius of the Starry Plains",
+        "ja": "星野を駆けるいて"
+      }
+    },
+    {
+      "id": "zodiac-10-capricorn",
+      "file": "packs/zodiac/v2/images/zodiac-10-capricorn.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 357712,
+      "sha256": "b66fc59b4c41d7d5a3f59d480cbb074d32f6e69908e47cc52f7d530a14a3b3c3",
+      "name": {
+        "zh-TW": "雪峰靈角摩羯",
+        "zh-CN": "雪峰灵角摩羯",
+        "en": "Capricorn of the Snow Peaks",
+        "ja": "雪峰のやぎ"
+      }
+    },
+    {
+      "id": "zodiac-11-aquarius",
+      "file": "packs/zodiac/v2/images/zodiac-11-aquarius.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 241778,
+      "sha256": "b1ec8e645a6243706e6fb8bdf440fb6fae6abc9dd4009c34334ca65f2a2bd91f",
+      "name": {
+        "zh-TW": "光泉引流水瓶",
+        "zh-CN": "光泉引流水瓶",
+        "en": "Aquarius and the Luminous Spring",
+        "ja": "光泉のみずがめ"
+      }
+    },
+    {
+      "id": "zodiac-12-pisces",
+      "file": "packs/zodiac/v2/images/zodiac-12-pisces.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 277696,
+      "sha256": "88d195a11d1425fd6843b0a8453f42ed4741a9998682d4a15b0c2edd20bd8981",
+      "name": {
+        "zh-TW": "雙魚夢海巡游",
+        "zh-CN": "双鱼梦海巡游",
+        "en": "Pisces in the Dreaming Sea",
+        "ja": "夢海を泳ぐうお"
+      }
+    }
+  ]
+}

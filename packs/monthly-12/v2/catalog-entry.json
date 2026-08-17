@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-12",
+  "version": 2,
+  "order": 32,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "十二月・冬日慶典",
+    "zh-CN": "十二月・冬日庆典",
+    "en": "December · Winter Celebrations",
+    "ja": "12月・冬の祝祭"
+  },
+  "description": {
+    "zh-TW": "巨型聖誕樹、祈願天燈、極光彩帳與紅色節慶電車各領風采，串起世界各地明亮溫暖的冬日慶典。",
+    "zh-CN": "巨型圣诞树、祈愿天灯、极光彩帐与红色节庆电车各领风采，串起世界各地明亮温暖的冬日庆典。",
+    "en": "A grand Christmas tree, wish lantern, aurora tent, and red holiday streetcar each take center stage in bright winter celebrations around the world.",
+    "ja": "巨大なクリスマスツリー、願いの天灯、オーロラの彩りテント、赤い祝祭電車が、世界の温かな冬祭りをつなぎます。"
+  },
+  "cover": "packs/monthly-12/v2/images/monthly-12-01.webp",
+  "manifest": "packs/monthly-12/v2/manifest.json",
+  "manifestBytes": 6119,
+  "manifestSha256": "5b4e2cb372e8497f97b408d90274617a8a06c25c17c7a0f9f9ad30f9de1babf5",
+  "imageCount": 10,
+  "downloadBytes": 1477456
+}

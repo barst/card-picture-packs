@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "k-pop-mv-idol-quartet",
+  "version": 2,
+  "order": 51,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "韓流四人女團舞台",
+    "zh-CN": "韩流四人女团舞台",
+    "en": "Idol Quartet: Lights, Camera, Dance",
+    "ja": "四人組アイドル、光の舞台へ"
+  },
+  "description": {
+    "zh-TW": "從稜鏡天空、金色鏡廳到霓虹伸展台，十個鏡頭記錄四人女團精準編舞與耀眼舞台魅力。",
+    "zh-CN": "从棱镜天空、金色镜厅到霓虹伸展台，十个镜头记录四人女团精准编舞与耀眼舞台魅力。",
+    "en": "Ten music-video moments follow an idol quartet through prism skies, golden mirror rooms, neon runways, and a blazing finale.",
+    "ja": "プリズムの空、金色の鏡の間、ネオンの花道。4人組アイドルの息の合った振り付けと輝く舞台を10の場面で描きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "k-pop-mv-idol-quartet-01-prism-sky-formation",
+  "images": [
+    {
+      "id": "k-pop-mv-idol-quartet-01-prism-sky-formation",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-01-prism-sky-formation.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 84838,
+      "sha256": "9e14bf3de7b9c03fb50eefcd0c7f864fb4153e9d9638e0361919554261df151b",
+      "name": {
+        "zh-TW": "稜鏡天空的開場隊形",
+        "zh-CN": "棱镜天空的开场队形",
+        "en": "Opening Formation Under a Prism Sky",
+        "ja": "プリズムの空のオープニング隊形"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-02-grand-doorway-costume",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-02-grand-doorway-costume.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130296,
+      "sha256": "0d18d6843069c88c8d5c096e0c6afb6a5e5246b721e00ab9ce80dcdbcc200d0e",
+      "name": {
+        "zh-TW": "華麗門廊的時裝登場",
+        "zh-CN": "华丽门廊的时装登场",
+        "en": "Fashion Entrance Through the Grand Doorway",
+        "ja": "壮麗な扉からの衣装登場"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-03-mirror-hand-choreography",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-03-mirror-hand-choreography.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 103702,
+      "sha256": "434f383abce1c6b43a4ded2358433a8424394f3fb5a45342c3fa5f66451b3c21",
+      "name": {
+        "zh-TW": "金色鏡廳的手勢舞",
+        "zh-CN": "金色镜厅的手势舞",
+        "en": "Hand Choreography in the Golden Mirror Room",
+        "ja": "金色の鏡の間の手先の振り付け"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-04-paparazzi-flash-pose",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-04-paparazzi-flash-pose.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 77834,
+      "sha256": "4524c737758ee0db32508d41d5832d6e2543dc5a724da249c4f801792dfe0b5b",
+      "name": {
+        "zh-TW": "閃光燈前的焦點姿勢",
+        "zh-CN": "闪光灯前的焦点姿势",
+        "en": "Spotlight Pose Amid the Camera Flashes",
+        "ja": "フラッシュを浴びる決めポーズ"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-05-neon-runway-dance",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-05-neon-runway-dance.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 100158,
+      "sha256": "5e44c72a2b8584ac40569c2694438b50fdeb35cf2f544dc160dc4c635dd0ff38",
+      "name": {
+        "zh-TW": "霓虹伸展台齊舞",
+        "zh-CN": "霓虹伸展台齐舞",
+        "en": "Neon Runway Dance",
+        "ja": "ネオンの花道でそろうダンス"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-06-crimson-staircase-formation",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-06-crimson-staircase-formation.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 92894,
+      "sha256": "e366a18192b45fa7e4181708877873bebb7f66c2255432060355cb89a37698e3",
+      "name": {
+        "zh-TW": "緋紅階梯隊形",
+        "zh-CN": "绯红阶梯队形",
+        "en": "Formation on the Crimson Staircase",
+        "ja": "深紅の階段隊形"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-07-chrome-fisheye-performance",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-07-chrome-fisheye-performance.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 112040,
+      "sha256": "396b767ec992470d7a206bf78111a62cc96b9b7d0b5eb5be576e2a785ddc1d28",
+      "name": {
+        "zh-TW": "銀色廣角舞台",
+        "zh-CN": "银色广角舞台",
+        "en": "Chrome Wide-Angle Performance",
+        "ja": "銀色の広角舞台"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-08-rooftop-wind-chorus",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-08-rooftop-wind-chorus.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 109126,
+      "sha256": "bdf2b9e814cd27e2db5ed82f3c7a4d489fa8720832f3de8ce45b5a1436178ed4",
+      "name": {
+        "zh-TW": "天台風中的副歌齊舞",
+        "zh-CN": "天台风中的副歌齐舞",
+        "en": "Rooftop Chorus in the Wind",
+        "ja": "風の屋上で踊るサビ"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-09-winter-editorial-huddle",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-09-winter-editorial-huddle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 85754,
+      "sha256": "8207002dbd60ae29d5274e3978ee3d2551a152d041e065d810610b3d1133dcc2",
+      "name": {
+        "zh-TW": "冬日造型拍攝空檔",
+        "zh-CN": "冬日造型拍摄空档",
+        "en": "Winter Editorial Between Takes",
+        "ja": "冬の撮影、ひと休み"
+      }
+    },
+    {
+      "id": "k-pop-mv-idol-quartet-10-amber-stage-finale",
+      "file": "packs/k-pop-mv-idol-quartet/v2/images/k-pop-mv-idol-quartet-10-amber-stage-finale.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 116494,
+      "sha256": "a881b40da76d2d13038fddcc21d6e1a60fe4a9208d1975960cc6954efdf9a5a8",
+      "name": {
+        "zh-TW": "琥珀舞台的最終姿勢",
+        "zh-CN": "琥珀舞台的最终姿势",
+        "en": "Final Pose on the Amber Stage",
+        "ja": "琥珀色の舞台のフィナーレ"
+      }
+    }
+  ]
+}

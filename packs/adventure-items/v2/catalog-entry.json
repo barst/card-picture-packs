@@ -1,0 +1,25 @@
+{
+  "packId": "adventure-items",
+  "version": 2,
+  "order": 38,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "勇者祕藏圖鑑",
+    "zh-CN": "勇者秘藏图鉴",
+    "en": "Treasures of the Adventurers' Guild",
+    "ja": "冒険者ギルドの秘宝図鑑"
+  },
+  "description": {
+    "zh-TW": "從戰士的盾劍、法師的星光杖到吟遊詩人的豎琴，十組冒險行囊靜靜訴說各種職業踏上旅途前的故事。",
+    "zh-CN": "从战士的盾剑、法师的星光杖到吟游诗人的竖琴，十组冒险行囊静静诉说各种职业踏上旅途前的故事。",
+    "en": "Ten carefully arranged adventuring kits, from a warrior's battered shield to a bard's traveling harp, hint at the quests waiting beyond the guild hall.",
+    "ja": "戦士の盾と剣、魔法使いの星杖、吟遊詩人の竪琴まで、10組の旅支度がギルドを発つ前の物語を静かに語ります。"
+  },
+  "cover": "packs/adventure-items/v2/images/adventure-items-01-warrior.webp",
+  "manifest": "packs/adventure-items/v2/manifest.json",
+  "manifestBytes": 6632,
+  "manifestSha256": "50b8ee6b0eda5ce8a4cbed48c6dc67d8faf2d6452ee6055830ffa8867f19d5a3",
+  "imageCount": 10,
+  "downloadBytes": 1501476
+}

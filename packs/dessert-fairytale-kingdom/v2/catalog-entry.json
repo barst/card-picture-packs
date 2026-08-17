@@ -1,0 +1,25 @@
+{
+  "packId": "dessert-fairytale-kingdom",
+  "version": 2,
+  "order": 46,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "甜點童話王國",
+    "zh-CN": "甜点童话王国",
+    "en": "Dessert Fairytale Kingdom",
+    "ja": "お菓子の童話王国"
+  },
+  "description": {
+    "zh-TW": "越過馬卡龍彩虹橋，搭上蛋糕列車，探索由布丁火山、果凍瀉湖與巧克力城鎮築成的甜蜜國度。",
+    "zh-CN": "越过马卡龙彩虹桥，搭上蛋糕列车，探索由布丁火山、果冻潟湖与巧克力城镇筑成的甜蜜国度。",
+    "en": "Cross the macaron rainbow bridge and board the cake train for ten sweet adventures among pudding volcanoes, jelly lagoons, and chocolate towns.",
+    "ja": "マカロンの虹橋を渡り、ケーキ列車に乗って、プリン火山やゼリーの潟湖、チョコレートの街をめぐる10の甘い冒険へ。"
+  },
+  "cover": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-01-macaron-bridge.webp",
+  "manifest": "packs/dessert-fairytale-kingdom/v2/manifest.json",
+  "manifestBytes": 6988,
+  "manifestSha256": "4d9340d5bb5e38f9e66538e3e0e14c198e773644a179a7ca01119e7b2e4f8cbc",
+  "imageCount": 10,
+  "downloadBytes": 1534278
+}

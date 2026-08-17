@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "dessert-fairytale-kingdom",
+  "version": 2,
+  "order": 46,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "甜點童話王國",
+    "zh-CN": "甜点童话王国",
+    "en": "Dessert Fairytale Kingdom",
+    "ja": "お菓子の童話王国"
+  },
+  "description": {
+    "zh-TW": "越過馬卡龍彩虹橋，搭上蛋糕列車，探索由布丁火山、果凍瀉湖與巧克力城鎮築成的甜蜜國度。",
+    "zh-CN": "越过马卡龙彩虹桥，搭上蛋糕列车，探索由布丁火山、果冻潟湖与巧克力城镇筑成的甜蜜国度。",
+    "en": "Cross the macaron rainbow bridge and board the cake train for ten sweet adventures among pudding volcanoes, jelly lagoons, and chocolate towns.",
+    "ja": "マカロンの虹橋を渡り、ケーキ列車に乗って、プリン火山やゼリーの潟湖、チョコレートの街をめぐる10の甘い冒険へ。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "dessert-fairytale-kingdom-01-macaron-bridge",
+  "images": [
+    {
+      "id": "dessert-fairytale-kingdom-01-macaron-bridge",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-01-macaron-bridge.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 154704,
+      "sha256": "b7d2d17fb17ac4066d219e0129d8226e15deff626cc9511be235cb3789bb3019",
+      "name": {
+        "zh-TW": "覆盆莓馬卡龍彩虹橋",
+        "zh-CN": "覆盆子马卡龙彩虹桥",
+        "en": "Raspberry Macaron Rainbow Bridge",
+        "ja": "ラズベリーマカロンの虹橋"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-02-pudding-volcano",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-02-pudding-volcano.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 147978,
+      "sha256": "ff4ea1d9494d44ef65cab9c884138aa7d803de5f41337c78d8a7a098757cd35e",
+      "name": {
+        "zh-TW": "焦糖布丁火山谷",
+        "zh-CN": "焦糖布丁火山谷",
+        "en": "Caramel Pudding Volcano Valley",
+        "ja": "プリン火山のキャラメル谷"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-03-cake-train",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-03-cake-train.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 145676,
+      "sha256": "b209090ff0c97d79af5dcef3a3ba7eeed1fd232b544e710651ec64eefc41583d",
+      "name": {
+        "zh-TW": "鮮奶油蛋糕小火車",
+        "zh-CN": "鲜奶油蛋糕小火车",
+        "en": "Whipped-Cream Cake Train",
+        "ja": "生クリームケーキの小列車"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-04-cookie-forest",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-04-cookie-forest.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 209426,
+      "sha256": "72165cb69644aa8829df7cd9fd3b16e030d767ea851be6573ba23f9eeeb640d0",
+      "name": {
+        "zh-TW": "薑餅森林城堡",
+        "zh-CN": "姜饼森林城堡",
+        "en": "Gingerbread Castle in the Cookie Forest",
+        "ja": "クッキーの森のジンジャーブレッド城"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-05-jelly-lagoon",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-05-jelly-lagoon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 128736,
+      "sha256": "1c2082d340ae13ce725e1a1e9d5f8d360356daa03c85aec2c054de915dbd91cf",
+      "name": {
+        "zh-TW": "果凍瀉湖的水果小船",
+        "zh-CN": "果冻潟湖的水果小船",
+        "en": "Fruit Boats on the Jelly Lagoon",
+        "ja": "ゼリーの潟湖に浮かぶフルーツボート"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-06-chocolate-clocktower",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-06-chocolate-clocktower.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 96432,
+      "sha256": "769d795a3b813d8dcb2fab17b37d9eb1766fa33b6a426f12b5f88029ac7b0262",
+      "name": {
+        "zh-TW": "巧克力鐘塔城",
+        "zh-CN": "巧克力钟塔城",
+        "en": "Chocolate Clocktower Town",
+        "ja": "チョコレート時計塔の街"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-07-icecream-aurora",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-07-icecream-aurora.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 179922,
+      "sha256": "3575bdfc30a78d61eaa762d1fe78fa7fa99d88d9a1cee4f98d20494857484a74",
+      "name": {
+        "zh-TW": "冰淇淋極光城堡",
+        "zh-CN": "冰淇淋极光城堡",
+        "en": "Ice-Cream Castle Under the Aurora",
+        "ja": "オーロラに輝くアイスクリーム城"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-08-teapot-airship",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-08-teapot-airship.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 97940,
+      "sha256": "24521255261a8ef53be922f19aae80f491a8b466786639bc0394a66b8539ae2c",
+      "name": {
+        "zh-TW": "草莓茶壺飛行船",
+        "zh-CN": "草莓茶壶飞行船",
+        "en": "Strawberry Teapot Airship",
+        "ja": "いちごのティーポット飛行船"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-09-fruit-tart-garden",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-09-fruit-tart-garden.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 199250,
+      "sha256": "41e1d773dff12bccdd435d10846cec554d03dd47c38b582b1b2da6cb6d9fa319",
+      "name": {
+        "zh-TW": "莓果塔花園噴泉",
+        "zh-CN": "莓果挞花园喷泉",
+        "en": "Berry Tart Garden Fountain",
+        "ja": "ベリータルトの庭園噴水"
+      }
+    },
+    {
+      "id": "dessert-fairytale-kingdom-10-bakery-celebration",
+      "file": "packs/dessert-fairytale-kingdom/v2/images/dessert-fairytale-kingdom-10-bakery-celebration.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 174214,
+      "sha256": "5316aa39ca41e2d4e2c908b902910ec415c1e6ad10d8a2a2fb34bb3ab52ef7a1",
+      "name": {
+        "zh-TW": "星夜烘焙坊慶典",
+        "zh-CN": "星夜烘焙坊庆典",
+        "en": "Starlit Bakery Celebration",
+        "ja": "星降るパン屋さんの祝祭"
+      }
+    }
+  ]
+}

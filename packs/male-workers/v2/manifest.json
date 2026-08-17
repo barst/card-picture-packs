@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "male-workers",
+  "version": 2,
+  "order": 15,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "堅毅的工作者",
+    "zh-CN": "坚毅的工作者",
+    "en": "Hands That Get the Job Done",
+    "ja": "現場を支える男たち"
+  },
+  "description": {
+    "zh-TW": "走進鋼梁、火場、林場與礦坑，記錄十位工作者以雙手、技術與勇氣扛起任務的身影。",
+    "zh-CN": "走进钢梁、火场、林场与矿坑，记录十位工作者以双手、技术与勇气扛起任务的身影。",
+    "en": "Ten portraits of skill, courage, and hard work across steel beams, fire grounds, forests, workshops, mines, and shipyards.",
+    "ja": "鉄骨、火災現場、森林、工房、鉱山、造船所。技と勇気で仕事を担う10人の姿を描きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "male-workers-01-construction",
+  "images": [
+    {
+      "id": "male-workers-01-construction",
+      "file": "packs/male-workers/v2/images/male-workers-01-construction.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 180954,
+      "sha256": "2e6615c0f9bcf814fa4b124a1549cd95d87890671c4c376a135303926f36a7c8",
+      "name": {
+        "zh-TW": "夕陽鋼梁上的建築工",
+        "zh-CN": "夕阳钢梁上的建筑工",
+        "en": "Construction Worker on the Sunset Beam",
+        "ja": "夕陽の鉄骨を担う建設作業員"
+      }
+    },
+    {
+      "id": "male-workers-02-firefighter",
+      "file": "packs/male-workers/v2/images/male-workers-02-firefighter.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 193516,
+      "sha256": "0f6c1e2fa0664dfb716655a9def8e059872c31fc6b589577bad2dd3721e16517",
+      "name": {
+        "zh-TW": "烈焰任務後的消防員",
+        "zh-CN": "烈焰任务后的消防员",
+        "en": "Firefighter After the Call",
+        "ja": "消火任務を終えた消防士"
+      }
+    },
+    {
+      "id": "male-workers-03-lumberjack",
+      "file": "packs/male-workers/v2/images/male-workers-03-lumberjack.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 243216,
+      "sha256": "3c3fdbbc8dc132ce018d77f3ddd7a5f2dca6bd48f1ab68d2971445ea9332f60c",
+      "name": {
+        "zh-TW": "林場裡的伐木工",
+        "zh-CN": "林场里的伐木工",
+        "en": "Lumberjack at the Timber Yard",
+        "ja": "林業現場のきこり"
+      }
+    },
+    {
+      "id": "male-workers-04-marine",
+      "file": "packs/male-workers/v2/images/male-workers-04-marine.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 127624,
+      "sha256": "50301f0515194d3fa4f4e7c200123d440df0f3b77444986e0d095e4f4febeab3",
+      "name": {
+        "zh-TW": "泥濘中的負重救援",
+        "zh-CN": "泥泞中的负重救援",
+        "en": "Carrying a Comrade Through the Mud",
+        "ja": "泥の中で仲間を背負う"
+      }
+    },
+    {
+      "id": "male-workers-05-mechanic",
+      "file": "packs/male-workers/v2/images/male-workers-05-mechanic.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 144586,
+      "sha256": "e370af2bae94d0ace9c66427e85524e61c5eb7e9b0feac17f2181f3d9ddf05d6",
+      "name": {
+        "zh-TW": "引擎間的維修技師",
+        "zh-CN": "引擎间的维修技师",
+        "en": "Engine Mechanic at Work",
+        "ja": "エンジンに向き合う整備士"
+      }
+    },
+    {
+      "id": "male-workers-06-welder",
+      "file": "packs/male-workers/v2/images/male-workers-06-welder.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 112812,
+      "sha256": "5e938c7f7b815744dbc104b1a429f4d3dac5a47bdfcf0b94abd45cf4d89e8deb",
+      "name": {
+        "zh-TW": "火花飛濺的焊接手",
+        "zh-CN": "火花飞溅的焊接工",
+        "en": "Welder Amid the Sparks",
+        "ja": "火花を浴びる溶接工"
+      }
+    },
+    {
+      "id": "male-workers-07-blacksmith",
+      "file": "packs/male-workers/v2/images/male-workers-07-blacksmith.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 146788,
+      "sha256": "829e1fc5152aebc92a87f39734649433b6a49e9c569ea54b114718a5ef76f835",
+      "name": {
+        "zh-TW": "爐火前的鍛造鐵匠",
+        "zh-CN": "炉火前的锻造铁匠",
+        "en": "Blacksmith at the Forge",
+        "ja": "炉火に向かう鍛冶職人"
+      }
+    },
+    {
+      "id": "male-workers-08-rescue",
+      "file": "packs/male-workers/v2/images/male-workers-08-rescue.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 157972,
+      "sha256": "bc3830718696f7f702972a682d541d53ec68eb90f83fa4e8e66c5d8248d423a9",
+      "name": {
+        "zh-TW": "風雨峭壁上的繩索救援",
+        "zh-CN": "风雨峭壁上的绳索救援",
+        "en": "Rope Rescue on a Stormy Cliff",
+        "ja": "嵐の岩壁でのロープ救助"
+      }
+    },
+    {
+      "id": "male-workers-09-miner",
+      "file": "packs/male-workers/v2/images/male-workers-09-miner.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 228238,
+      "sha256": "bf90a0d359d0d902e41ec58ddd3fa6e708b9000465f6b547af52cf8a6c06cff0",
+      "name": {
+        "zh-TW": "礦坑深處的鑽探工",
+        "zh-CN": "矿坑深处的钻探工",
+        "en": "Drilling Deep Underground",
+        "ja": "坑道深くで掘削する鉱夫"
+      }
+    },
+    {
+      "id": "male-workers-10-shipyard",
+      "file": "packs/male-workers/v2/images/male-workers-10-shipyard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 168540,
+      "sha256": "67c6422982d9da0a60a2e861e3289a82803ed9758b1b492928a255188e6758ce",
+      "name": {
+        "zh-TW": "船塢晨光裡的錨鏈工",
+        "zh-CN": "船坞晨光里的锚链工",
+        "en": "Dockworker and the Heavy Chain",
+        "ja": "朝の造船所で鎖を扱う作業員"
+      }
+    }
+  ]
+}

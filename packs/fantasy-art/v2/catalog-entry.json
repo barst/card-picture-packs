@@ -1,0 +1,25 @@
+{
+  "packId": "fantasy-art",
+  "version": 2,
+  "order": 20,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "夢境博物館",
+    "zh-CN": "梦境博物馆",
+    "en": "Museum of Waking Dreams",
+    "ja": "目覚める夢の博物館"
+  },
+  "description": {
+    "zh-TW": "推開星空圖書館、浮空鯨魚與發條花園的展廳大門，漫遊一座收藏季節、甜點與光之巨樹的奇幻博物館。",
+    "zh-CN": "推开星空图书馆、浮空鲸鱼与发条花园的展厅大门，漫游一座收藏季节、甜点与光之巨树的奇幻博物馆。",
+    "en": "Wander through a wondrous museum where star libraries, floating whales, clockwork gardens, dessert mountains, and a radiant world tree become living exhibits.",
+    "ja": "星空の図書館、宙を泳ぐ鯨、歯車の庭園、お菓子の山、光の巨樹が展示された幻想博物館をめぐります。"
+  },
+  "cover": "packs/fantasy-art/v2/images/fantasy-art-01-library.webp",
+  "manifest": "packs/fantasy-art/v2/manifest.json",
+  "manifestBytes": 6245,
+  "manifestSha256": "96236b7d20c201a4abcee8b63470004163bf984e1cfff348ee484cb8f500a0b3",
+  "imageCount": 10,
+  "downloadBytes": 3068814
+}

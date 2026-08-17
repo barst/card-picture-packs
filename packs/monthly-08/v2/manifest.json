@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-08",
+  "version": 2,
+  "order": 28,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "八月・星際假期",
+    "zh-CN": "八月・星际假期",
+    "en": "August · Holiday among the Stars",
+    "ja": "8月・星間バカンス"
+  },
+  "description": {
+    "zh-TW": "月球度假圓頂、土星摩天輪、銀河臥鋪列車與星光巨鯨，以十個大型主體展開繽紛的宇宙假期。",
+    "zh-CN": "月球度假圆顶、土星摩天轮、银河卧铺列车与星光巨鲸，以十个大型主体展开缤纷的宇宙假期。",
+    "en": "A lunar resort dome, Saturn Ferris wheel, galaxy sleeper train, and starlight whale anchor a colorful holiday across the cosmos.",
+    "ja": "月面リゾートドーム、土星の観覧車、銀河寝台列車、星光の巨鯨など、10の大きな主役が宇宙旅行を彩ります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-08-01",
+  "images": [
+    {
+      "id": "monthly-08-01",
+      "file": "packs/monthly-08/v2/images/monthly-08-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 123912,
+      "sha256": "2c67d00262368b7c8975ff52925bd4f412bf43c7978dd81bfc598a605c15edbd",
+      "name": {
+        "zh-TW": "月球海灘度假圓頂",
+        "zh-CN": "月球海滩度假圆顶",
+        "en": "Lunar Beach Resort Dome",
+        "ja": "月面ビーチのリゾートドーム"
+      }
+    },
+    {
+      "id": "monthly-08-02",
+      "file": "packs/monthly-08/v2/images/monthly-08-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 188344,
+      "sha256": "b3502c88029fcab4b299b6009cbe03de1c1d2a92e3ef543920b52031082bf1d9",
+      "name": {
+        "zh-TW": "土星霓虹摩天輪",
+        "zh-CN": "土星霓虹摩天轮",
+        "en": "Neon Ferris Wheel beneath Saturn",
+        "ja": "土星を仰ぐネオン観覧車"
+      }
+    },
+    {
+      "id": "monthly-08-03",
+      "file": "packs/monthly-08/v2/images/monthly-08-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 194158,
+      "sha256": "d058bc7154c231de3f774c43136ba219a35e0d5071add50236de28660ba1adff",
+      "name": {
+        "zh-TW": "小行星沙堡",
+        "zh-CN": "小行星沙堡",
+        "en": "Sandcastle on an Asteroid",
+        "ja": "小惑星の砂の城"
+      }
+    },
+    {
+      "id": "monthly-08-04",
+      "file": "packs/monthly-08/v2/images/monthly-08-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 267938,
+      "sha256": "1d922bc3b5f94961d9aa144d21b7bf18eb6c551e98a744beda674ccb2f5bb119",
+      "name": {
+        "zh-TW": "軌道溫室果樹",
+        "zh-CN": "轨道温室果树",
+        "en": "Fruit Tree in an Orbital Greenhouse",
+        "ja": "軌道温室の果樹"
+      }
+    },
+    {
+      "id": "monthly-08-05",
+      "file": "packs/monthly-08/v2/images/monthly-08-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 297184,
+      "sha256": "fd866439bdf7762c16876c1f92cebf513c542fe68c4b4a54d2ccd3a87a192fd2",
+      "name": {
+        "zh-TW": "銀河全景臥鋪列車",
+        "zh-CN": "银河全景卧铺列车",
+        "en": "Panoramic Sleeper Train through the Galaxy",
+        "ja": "銀河を走る展望寝台列車"
+      }
+    },
+    {
+      "id": "monthly-08-06",
+      "file": "packs/monthly-08/v2/images/monthly-08-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 171288,
+      "sha256": "d37b2b26ea87b8dae8bca66aaf2416630ee6936ac5571339bba3b79fbfb3c5e5",
+      "name": {
+        "zh-TW": "火星玻璃花房",
+        "zh-CN": "火星玻璃花房",
+        "en": "Glass Flowerhouse on Mars",
+        "ja": "火星のガラス花房"
+      }
+    },
+    {
+      "id": "monthly-08-07",
+      "file": "packs/monthly-08/v2/images/monthly-08-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 235410,
+      "sha256": "e5f5738cb3a244437e38f762311297aafe6c40de769eedb9afd8cf596053c2b1",
+      "name": {
+        "zh-TW": "行星旋轉木馬",
+        "zh-CN": "行星旋转木马",
+        "en": "Planetary Carousel",
+        "ja": "惑星のメリーゴーラウンド"
+      }
+    },
+    {
+      "id": "monthly-08-08",
+      "file": "packs/monthly-08/v2/images/monthly-08-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 204314,
+      "sha256": "4ec33e3ecee6bf2f159347c499a1f7173e88e85fd6c8d56c8f53ed3ce5e40098",
+      "name": {
+        "zh-TW": "極光月面探險家",
+        "zh-CN": "极光月面探险家",
+        "en": "Lunar Explorer beneath the Aurora",
+        "ja": "オーロラを仰ぐ月面探検家"
+      }
+    },
+    {
+      "id": "monthly-08-09",
+      "file": "packs/monthly-08/v2/images/monthly-08-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 147228,
+      "sha256": "e3de7bd339cdd496a56be38d6465bb8575dcf3eb61db2a3ede011f9f1c6263fd",
+      "name": {
+        "zh-TW": "星霧水晶巨花",
+        "zh-CN": "星雾水晶巨花",
+        "en": "Giant Crystal Flower in the Star Mist",
+        "ja": "星霧に咲く巨大水晶花"
+      }
+    },
+    {
+      "id": "monthly-08-10",
+      "file": "packs/monthly-08/v2/images/monthly-08-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 205666,
+      "sha256": "58b287db5705cd2c9493dd4a5a3af545aeac3b1a49c736887abb23e690c65a06",
+      "name": {
+        "zh-TW": "星河巨鯨",
+        "zh-CN": "星河巨鲸",
+        "en": "Great Whale of the Star River",
+        "ja": "星河を泳ぐ巨鯨"
+      }
+    }
+  ]
+}

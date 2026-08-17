@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-06",
+  "version": 2,
+  "order": 26,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "六月・盛夏活力",
+    "zh-CN": "六月・盛夏活力",
+    "en": "June · Full-Power Summer",
+    "ja": "6月・全開サマー"
+  },
+  "description": {
+    "zh-TW": "滑板、街機、籃框、水上摩托車與熱氣球化身醒目的夏日主角，帶來色彩飽滿、節奏明快的六月能量。",
+    "zh-CN": "滑板、街机、篮筐、水上摩托艇与热气球化身醒目的夏日主角，带来色彩饱满、节奏明快的六月能量。",
+    "en": "A skateboard, arcade cabinet, basketball hoop, jet ski, and hot-air balloon become bold summer icons charged with June energy.",
+    "ja": "スケートボード、アーケード筐体、バスケットゴール、水上バイク、気球が鮮やかな夏の主役となり、6月を元気に彩ります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-06-01",
+  "images": [
+    {
+      "id": "monthly-06-01",
+      "file": "packs/monthly-06/v2/images/monthly-06-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 87068,
+      "sha256": "691233d3761fe8fc1482eba95d90bb98d8b7bcab621e57c808b91094f7130fc5",
+      "name": {
+        "zh-TW": "海風天藍滑板",
+        "zh-CN": "海风天蓝滑板",
+        "en": "Sky-Blue Skateboard by the Sea",
+        "ja": "潮風を切る空色スケートボード"
+      }
+    },
+    {
+      "id": "monthly-06-02",
+      "file": "packs/monthly-06/v2/images/monthly-06-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 179922,
+      "sha256": "1670f54107cda4f8ab3c5d9894c039384dc85b3772288965e18c2808543b070a",
+      "name": {
+        "zh-TW": "霓虹賽車街機",
+        "zh-CN": "霓虹赛车街机",
+        "en": "Neon Racing Arcade Cabinet",
+        "ja": "ネオンのレースゲーム筐体"
+      }
+    },
+    {
+      "id": "monthly-06-03",
+      "file": "packs/monthly-06/v2/images/monthly-06-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 165794,
+      "sha256": "8fb688909444a2699f506ba8ca2a953c77283fe4dcf35068368d0b1515077923",
+      "name": {
+        "zh-TW": "彩帶音響塔",
+        "zh-CN": "彩带音响塔",
+        "en": "Festival Speaker Tower with Streamers",
+        "ja": "リボン舞うフェスのスピーカー塔"
+      }
+    },
+    {
+      "id": "monthly-06-04",
+      "file": "packs/monthly-06/v2/images/monthly-06-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 121574,
+      "sha256": "3fda24ac74138d9ba65139424877b26af398362f8a1dc7cd27f2345cb020109b",
+      "name": {
+        "zh-TW": "夕陽海灘籃框",
+        "zh-CN": "夕阳海滩篮筐",
+        "en": "Beach Basketball Hoop at Sunset",
+        "ja": "夕日のビーチバスケットゴール"
+      }
+    },
+    {
+      "id": "monthly-06-05",
+      "file": "packs/monthly-06/v2/images/monthly-06-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 112062,
+      "sha256": "2e9966e38419001319ccf20eb07259db65aefd366b1e72a4ed990744d5716725",
+      "name": {
+        "zh-TW": "浪尖亮黃水上摩托車",
+        "zh-CN": "浪尖亮黄水上摩托艇",
+        "en": "Bright Yellow Jet Ski on the Waves",
+        "ja": "波を跳ぶ黄色い水上バイク"
+      }
+    },
+    {
+      "id": "monthly-06-06",
+      "file": "packs/monthly-06/v2/images/monthly-06-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 101558,
+      "sha256": "f03b6b1554608fa8750cdd99d3ff67cf4fc72dd01d54cefad2e6d65c6bf8d707",
+      "name": {
+        "zh-TW": "珊瑚色海灘餐車",
+        "zh-CN": "珊瑚色海滩餐车",
+        "en": "Coral Beach Food Truck",
+        "ja": "珊瑚色のビーチフードトラック"
+      }
+    },
+    {
+      "id": "monthly-06-07",
+      "file": "packs/monthly-06/v2/images/monthly-06-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 143210,
+      "sha256": "b91f7c126dbe9054eaeddb9eb2a443ab8719e84a7d7054a783a109680e7e2f50",
+      "name": {
+        "zh-TW": "煙火銀鏡球",
+        "zh-CN": "烟火银镜球",
+        "en": "Silver Disco Ball beneath Fireworks",
+        "ja": "花火に輝く銀のミラーボール"
+      }
+    },
+    {
+      "id": "monthly-06-08",
+      "file": "packs/monthly-06/v2/images/monthly-06-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 192956,
+      "sha256": "7a14a79bd4397df3834c65074939ef94bba2683a441208970a4349799ebe04ce",
+      "name": {
+        "zh-TW": "珊瑚海巨龜",
+        "zh-CN": "珊瑚海巨龟",
+        "en": "Giant Sea Turtle over the Coral Reef",
+        "ja": "珊瑚礁を泳ぐ巨大ウミガメ"
+      }
+    },
+    {
+      "id": "monthly-06-09",
+      "file": "packs/monthly-06/v2/images/monthly-06-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 112482,
+      "sha256": "2f7f7e69bf6600b950c93e8312281b5dd8ff0dd72aa050abe9a2d41ede5123e9",
+      "name": {
+        "zh-TW": "山谷彩虹熱氣球",
+        "zh-CN": "山谷彩虹热气球",
+        "en": "Rainbow Hot-Air Balloon over the Valley",
+        "ja": "谷を越える虹色の気球"
+      }
+    },
+    {
+      "id": "monthly-06-10",
+      "file": "packs/monthly-06/v2/images/monthly-06-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 124790,
+      "sha256": "55ef73775192fcf77043b633d66b0187529aec1cde945576c56ea257cd33dc4c",
+      "name": {
+        "zh-TW": "滿月沙灘營火",
+        "zh-CN": "满月沙滩营火",
+        "en": "Beach Campfire beneath the Full Moon",
+        "ja": "満月の浜辺のたき火"
+      }
+    }
+  ]
+}

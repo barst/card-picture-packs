@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "magic-academy-day",
+  "version": 2,
+  "order": 43,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "浮空魔法學院日誌",
+    "zh-CN": "浮空魔法学院日记",
+    "en": "A Day at the Skybound Magic Academy",
+    "ja": "空に浮かぶ魔法学院日誌"
+  },
+  "description": {
+    "zh-TW": "從乘船抵達浮空校園，到元素課、飛天掃帚訓練與燈籠畢業夜，十幅畫記下魔法學徒忙碌又閃亮的一天。",
+    "zh-CN": "从乘船抵达浮空校园，到元素课、飞天扫帚训练与灯笼毕业夜，十幅画记下魔法学徒忙碌又闪亮的一天。",
+    "en": "From arrival at a floating campus to elemental lessons, broom practice, hidden archives, and a lantern-lit graduation, ten scenes capture one enchanted school day.",
+    "ja": "空飛ぶ学院への到着から元素の授業、箒の訓練、秘密書庫、灯籠が輝く卒業式まで、魔法の学び舎の一日を10場面で綴ります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "magic-academy-day-01-floating-campus-arrival",
+  "images": [
+    {
+      "id": "magic-academy-day-01-floating-campus-arrival",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-01-floating-campus-arrival.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 138822,
+      "sha256": "cb1e21456d57dd6ecbf2a7a5ef368146a1cd4fed87cdb33c1c32a084773bd2a5",
+      "name": {
+        "zh-TW": "雲海航船抵達浮空校園",
+        "zh-CN": "云海航船抵达浮空校园",
+        "en": "Airship Arrival at the Floating Campus",
+        "ja": "雲海の飛行船で浮遊学院へ"
+      }
+    },
+    {
+      "id": "magic-academy-day-02-elemental-classroom",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-02-elemental-classroom.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 94922,
+      "sha256": "f156de85e2f542c184ba6a58aa5b753e0f15d149e08a46ae57c2dd87032a94dc",
+      "name": {
+        "zh-TW": "四色元素環繞的課堂",
+        "zh-CN": "四色元素环绕的课堂",
+        "en": "Classroom of the Four Dancing Elements",
+        "ja": "四色の元素が舞う教室"
+      }
+    },
+    {
+      "id": "magic-academy-day-03-potion-greenhouse",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-03-potion-greenhouse.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 174020,
+      "sha256": "4dd9f7ab39ec837fb7b401b8fad965f93cfe3af174896c8db06bfd3370db6387",
+      "name": {
+        "zh-TW": "藥草溫室的發光調製課",
+        "zh-CN": "药草温室的发光调制课",
+        "en": "Glowing Potion Lesson in the Herb Greenhouse",
+        "ja": "薬草温室の光る調合実習"
+      }
+    },
+    {
+      "id": "magic-academy-day-04-creature-conservatory",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-04-creature-conservatory.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 107842,
+      "sha256": "9d378d3f0c2fe394002cf614114c0eec23144f904b286b5b0e1f4dcf9284b0d0",
+      "name": {
+        "zh-TW": "魔法生物園的幼獸朋友",
+        "zh-CN": "魔法生物园的幼兽朋友",
+        "en": "Young Familiars in the Magical Conservatory",
+        "ja": "魔法生物園の幼い使い魔たち"
+      }
+    },
+    {
+      "id": "magic-academy-day-05-living-library",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-05-living-library.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 84814,
+      "sha256": "e88d91e81646d0435577c49e6afcd6e48881af231668be33728d189e98762322",
+      "name": {
+        "zh-TW": "書本自行飛舞的活圖書館",
+        "zh-CN": "书本自行飞舞的活图书馆",
+        "en": "Living Library of Fluttering Books",
+        "ja": "本が羽ばたく生きた図書館"
+      }
+    },
+    {
+      "id": "magic-academy-day-06-sky-broom-training",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-06-sky-broom-training.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 89984,
+      "sha256": "1785737da2ece0420f09d37581fdfa8c4d253b921502382fcfe15b8ddff75700",
+      "name": {
+        "zh-TW": "夕空之上的掃帚飛行課",
+        "zh-CN": "夕空之上的扫帚飞行课",
+        "en": "Broom Flight Practice in the Evening Sky",
+        "ja": "夕空を駆ける箒の飛行訓練"
+      }
+    },
+    {
+      "id": "magic-academy-day-07-enchanted-kitchen",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-07-enchanted-kitchen.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 151114,
+      "sha256": "33d1511157c592ed5dcf894507af5a3175bba43da1e839ed58c8bbccab882ec6",
+      "name": {
+        "zh-TW": "餐具起舞的魔法廚房",
+        "zh-CN": "餐具起舞的魔法厨房",
+        "en": "Enchanted Kitchen of Dancing Utensils",
+        "ja": "調理道具が踊る魔法の厨房"
+      }
+    },
+    {
+      "id": "magic-academy-day-08-astronomy-tower",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-08-astronomy-tower.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 123014,
+      "sha256": "357fd4a7ee47e6bcdf8359f9cfad0f82d7c611141b1dcb4e2ab5635e6eb45cef",
+      "name": {
+        "zh-TW": "星河旋轉的天文高塔",
+        "zh-CN": "星河旋转的天文高塔",
+        "en": "Astronomy Tower beneath the Turning Stars",
+        "ja": "星巡る天文塔の夜"
+      }
+    },
+    {
+      "id": "magic-academy-day-09-hidden-archive",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-09-hidden-archive.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 256496,
+      "sha256": "2609a1e61a6165fda2932883ac5745436c6735a28becd564750bc743b32e4a6a",
+      "name": {
+        "zh-TW": "月影密門後的古老書庫",
+        "zh-CN": "月影密门后的古老书库",
+        "en": "Ancient Archive beyond the Moonlit Door",
+        "ja": "月影の隠し扉の先にある古書庫"
+      }
+    },
+    {
+      "id": "magic-academy-day-10-lantern-graduation",
+      "file": "packs/magic-academy-day/v2/images/magic-academy-day-10-lantern-graduation.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 96830,
+      "sha256": "487c240818895b94e61cc342e76eb591139b8955b1414a1231ee6c4d66fa5efe",
+      "name": {
+        "zh-TW": "萬盞飛燈下的畢業之夜",
+        "zh-CN": "万盏飞灯下的毕业之夜",
+        "en": "Graduation Night beneath a Thousand Lanterns",
+        "ja": "千の空灯が祝う卒業の夜"
+      }
+    }
+  ]
+}

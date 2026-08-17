@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "wildlife",
+  "version": 2,
+  "order": 11,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "野性近距離",
+    "zh-CN": "野性近距离",
+    "en": "Wild Encounters",
+    "ja": "野生との遭遇"
+  },
+  "description": {
+    "zh-TW": "從草原怒吼到鯨躍破浪，以震撼視角捕捉十種野生動物最有生命力的瞬間。",
+    "zh-CN": "从草原怒吼到鲸跃破浪，以震撼视角捕捉十种野生动物最有生命力的瞬间。",
+    "en": "Ten vivid encounters capture wildlife at its most powerful, from a savanna roar to a whale breaking the waves.",
+    "ja": "草原に響く咆哮から波を破るクジラまで、野生動物の力みなぎる10の瞬間を間近に捉えます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "wildlife-01-lion-low-angle-roar",
+  "images": [
+    {
+      "id": "wildlife-01-lion-low-angle-roar",
+      "file": "packs/wildlife/v2/images/wildlife-01-lion-low-angle-roar.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 231764,
+      "sha256": "7338a01b21658b5c1b17306ff4f7d12e9725564249d1e1abc2036b5478856be0",
+      "name": {
+        "zh-TW": "草原之王的怒吼",
+        "zh-CN": "草原之王的怒吼",
+        "en": "Roar of the Savanna King",
+        "ja": "サバンナの王の咆哮"
+      }
+    },
+    {
+      "id": "wildlife-02-eagle-dive-cliff",
+      "file": "packs/wildlife/v2/images/wildlife-02-eagle-dive-cliff.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 211286,
+      "sha256": "d722ee2491fb19829d100aa1de4e9e0e59bbd1b9a86af78a00126bd85611516d",
+      "name": {
+        "zh-TW": "山崖俯衝的金鵰",
+        "zh-CN": "山崖俯冲的金雕",
+        "en": "Golden Eagle in a Cliffside Dive",
+        "ja": "岩壁を急降下するイヌワシ"
+      }
+    },
+    {
+      "id": "wildlife-03-bear-river-charge",
+      "file": "packs/wildlife/v2/images/wildlife-03-bear-river-charge.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 307094,
+      "sha256": "2e991ee4b987089368b5b5fa1a111faec0d126ca8023559334121f3bbbe5659a",
+      "name": {
+        "zh-TW": "激流中奔來的灰熊",
+        "zh-CN": "激流中奔来的灰熊",
+        "en": "Grizzly Charging Through the Rapids",
+        "ja": "激流を駆けるハイイログマ"
+      }
+    },
+    {
+      "id": "wildlife-04-crocodile-waterline-burst",
+      "file": "packs/wildlife/v2/images/wildlife-04-crocodile-waterline-burst.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 247366,
+      "sha256": "d22b4b50cad34a15ed8e9af17e09a0f821a9327a4fb4a63c8c1b883b95b861bb",
+      "name": {
+        "zh-TW": "水面暴起的鱷魚",
+        "zh-CN": "水面暴起的鳄鱼",
+        "en": "Crocodile Bursting from the Water",
+        "ja": "水面から飛び出すワニ"
+      }
+    },
+    {
+      "id": "wildlife-05-giraffe-ground-up-funny",
+      "file": "packs/wildlife/v2/images/wildlife-05-giraffe-ground-up-funny.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 227920,
+      "sha256": "2e8784dfe985be1d3c1c006c91f9884745140f1bf959bb602149e3b97a8ac668",
+      "name": {
+        "zh-TW": "貼近鏡頭的長頸鹿",
+        "zh-CN": "贴近镜头的长颈鹿",
+        "en": "Curious Giraffe Up Close",
+        "ja": "レンズをのぞくキリン"
+      }
+    },
+    {
+      "id": "wildlife-06-humpback-whale-breach",
+      "file": "packs/wildlife/v2/images/wildlife-06-humpback-whale-breach.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 219512,
+      "sha256": "00d95966c7ae09119f9b8fbc6aa245afd8932106888cf8f2f1c1191cbfa85090",
+      "name": {
+        "zh-TW": "破浪躍起的座頭鯨",
+        "zh-CN": "破浪跃起的座头鲸",
+        "en": "Humpback Whale Breaching at Sunset",
+        "ja": "夕陽に跳ぶザトウクジラ"
+      }
+    },
+    {
+      "id": "wildlife-07-wolf-snow-charge",
+      "file": "packs/wildlife/v2/images/wildlife-07-wolf-snow-charge.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 161844,
+      "sha256": "c585ec777bb0179891e57ac0d3c5c25e75d2d49575d156fae2755dcfa619412b",
+      "name": {
+        "zh-TW": "雪原疾行的灰狼",
+        "zh-CN": "雪原疾行的灰狼",
+        "en": "Gray Wolf Racing Across the Snow",
+        "ja": "雪原を駆けるオオカミ"
+      }
+    },
+    {
+      "id": "wildlife-08-elephant-storm-low-angle",
+      "file": "packs/wildlife/v2/images/wildlife-08-elephant-storm-low-angle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 231390,
+      "sha256": "eeac134a2ed2ae3b387c53c6cf33e192e56b7598700e1687ce16620db8ea99f1",
+      "name": {
+        "zh-TW": "風暴下的非洲象",
+        "zh-CN": "风暴下的非洲象",
+        "en": "Elephant Beneath the Storm",
+        "ja": "嵐の下のアフリカゾウ"
+      }
+    },
+    {
+      "id": "wildlife-09-orangutan-rainforest-funny",
+      "file": "packs/wildlife/v2/images/wildlife-09-orangutan-rainforest-funny.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 450584,
+      "sha256": "c0d961ff1698c047ad20f9986783ffca583f68a0b64d9bb34a8cc9aad6fab85b",
+      "name": {
+        "zh-TW": "雨林裡的小紅毛猩猩",
+        "zh-CN": "雨林里的小红毛猩猩",
+        "en": "Young Orangutan in the Rainforest",
+        "ja": "熱帯雨林のオランウータンの子"
+      }
+    },
+    {
+      "id": "wildlife-10-black-panther-jungle-closeup",
+      "file": "packs/wildlife/v2/images/wildlife-10-black-panther-jungle-closeup.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 223636,
+      "sha256": "fcb56ca73c96873a7898ce21deb55a85dc0c6f7ac9128a2207487dea93e005b5",
+      "name": {
+        "zh-TW": "叢林暗影中的黑豹",
+        "zh-CN": "丛林暗影中的黑豹",
+        "en": "Black Panther in the Jungle Shadows",
+        "ja": "密林の影に潜むクロヒョウ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "zodiac",
+  "version": 2,
+  "order": 34,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "星座幻境",
+    "zh-CN": "星座幻境",
+    "en": "Zodiac Realms",
+    "ja": "星座の幻想世界"
+  },
+  "description": {
+    "zh-TW": "十二幅以動物、人物與奇幻場景演繹的星座肖像，淡淡星圖在夜空中留下各自的印記。",
+    "zh-CN": "十二幅以动物、人物与奇幻场景演绎的星座肖像，淡淡星图在夜空中留下各自的印记。",
+    "en": "Twelve richly illustrated zodiac portraits told through animals, people, and mythical landscapes, each marked by a subtle constellation in the night sky.",
+    "ja": "動物や人物、幻想風景で十二星座を描き、夜空に淡い星座線を重ねた12枚の物語的コレクション。"
+  },
+  "cover": "packs/zodiac/v2/images/zodiac-01-aries.webp",
+  "manifest": "packs/zodiac/v2/manifest.json",
+  "manifestBytes": 6797,
+  "manifestSha256": "802405f24d3418eb006dcbbcb7575ba1d5ea1e64338e05a8040c9bab4bb8cebd",
+  "imageCount": 12,
+  "downloadBytes": 3165114
+}

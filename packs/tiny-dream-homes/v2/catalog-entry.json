@@ -1,0 +1,25 @@
+{
+  "packId": "tiny-dream-homes",
+  "version": 2,
+  "order": 39,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "掌心裡的夢想小屋",
+    "zh-CN": "掌心里的梦想小屋",
+    "en": "Tiny Homes, Grand Dreams",
+    "ja": "手のひらの夢の家"
+  },
+  "description": {
+    "zh-TW": "樹梢祕居、玻璃海屋、沙漠觀星台與雲端木屋，十座小小居所把各種理想生活收進溫暖燈光裡。",
+    "zh-CN": "树梢秘居、玻璃海屋、沙漠观星台与云端木屋，十座小小居所把各种理想生活收进温暖灯光里。",
+    "en": "Ten miniature retreats—from a treetop hideaway to a desert observatory—gather big dreams of quiet living beneath their warmly glowing windows.",
+    "ja": "木の上の隠れ家や海辺のガラス小屋、砂漠の天文台、雲上の山小屋。10軒の小さな住まいが理想の暮らしを灯りの中に包みます。"
+  },
+  "cover": "packs/tiny-dream-homes/v2/images/tiny-dream-homes-01-forest-treehouse.webp",
+  "manifest": "packs/tiny-dream-homes/v2/manifest.json",
+  "manifestBytes": 6803,
+  "manifestSha256": "9f6a5f2d2f9b7a4492a6338e6fa94518e34d4e27ea2a148c9b5047f40d1450cc",
+  "imageCount": 10,
+  "downloadBytes": 1919768
+}

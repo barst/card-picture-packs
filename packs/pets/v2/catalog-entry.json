@@ -1,0 +1,25 @@
+{
+  "packId": "pets",
+  "version": 2,
+  "order": 2,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "title": {
+    "zh-TW": "毛孩晴日",
+    "zh-CN": "萌宠晴日",
+    "en": "Sunny Days with Cats and Dogs",
+    "ja": "猫と犬のひだまり日和"
+  },
+  "description": {
+    "zh-TW": "從草地追球、窗邊曬暖到雨後花園，十段貓狗相伴的可愛時光，收進每一個讓人微笑的日常瞬間。",
+    "zh-CN": "从草地追球、窗边晒暖到雨后花园，十段猫狗相伴的可爱时光，收进每一个让人微笑的日常瞬间。",
+    "en": "Ten cheerful moments with beloved cats and dogs, from garden play and sunny windows to picnics and quiet companionship.",
+    "ja": "庭遊びや日向ぼっこ、ピクニックまで、猫と犬が寄り添う笑顔いっぱいの10のひとときです。"
+  },
+  "cover": "packs/pets/v2/images/pets-01-golden-retriever.webp",
+  "manifest": "packs/pets/v2/manifest.json",
+  "manifestBytes": 6151,
+  "manifestSha256": "3efcca96414f0743f61f2b8b7d2d5fc99fbe6aa15de104956dc1deca68c6da69",
+  "imageCount": 10,
+  "downloadBytes": 1124762
+}

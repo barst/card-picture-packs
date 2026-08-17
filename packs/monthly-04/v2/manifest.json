@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-04",
+  "version": 2,
+  "order": 24,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "四月・雨城夜曲",
+    "zh-CN": "四月・雨城夜曲",
+    "en": "April · Nocturne in the Rain",
+    "ja": "4月・雨街の夜想曲"
+  },
+  "description": {
+    "zh-TW": "以低音提琴、復古戲院、拉麵攤與黃雨傘為畫面主角，讓四月城市的雨聲化成一首溫柔夜曲。",
+    "zh-CN": "以低音提琴、复古影院、拉面摊与黄雨伞为画面主角，让四月城市的雨声化成一首温柔夜曲。",
+    "en": "A double bass, vintage cinema, ramen stall, and yellow umbrella become bold focal points as April rain turns the city into a gentle nocturne.",
+    "ja": "コントラバス、レトロ映画館、屋台のラーメン、黄色い傘を主役に、4月の雨音が街の優しい夜想曲へと変わります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-04-01",
+  "images": [
+    {
+      "id": "monthly-04-01",
+      "file": "packs/monthly-04/v2/images/monthly-04-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 145428,
+      "sha256": "cfd7a2bcdfa848527b251a067e24ee1adce92134263026785872a5d35edcda35",
+      "name": {
+        "zh-TW": "雨巷低音提琴",
+        "zh-CN": "雨巷低音提琴",
+        "en": "Double Bass in a Rainy Alley",
+        "ja": "雨路地のコントラバス"
+      }
+    },
+    {
+      "id": "monthly-04-02",
+      "file": "packs/monthly-04/v2/images/monthly-04-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 191010,
+      "sha256": "9e7b191a79aa9d453423c873a084fcf0149a241870ca3a61261241f43113bf29",
+      "name": {
+        "zh-TW": "雨窗黑膠唱片",
+        "zh-CN": "雨窗黑胶唱片",
+        "en": "Vinyl Record by a Rain-Streaked Window",
+        "ja": "雨窓辺のレコード"
+      }
+    },
+    {
+      "id": "monthly-04-03",
+      "file": "packs/monthly-04/v2/images/monthly-04-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 185002,
+      "sha256": "bb0d898796e76f3bfe8a52cd7e6a54f5c700e6ff0332667e8a1f23d7ac142638",
+      "name": {
+        "zh-TW": "雨幕復古戲院",
+        "zh-CN": "雨幕复古影院",
+        "en": "Vintage Cinema behind the Rain",
+        "ja": "雨幕に浮かぶレトロ映画館"
+      }
+    },
+    {
+      "id": "monthly-04-04",
+      "file": "packs/monthly-04/v2/images/monthly-04-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 211596,
+      "sha256": "8b73589bf0af801b6de214a3ac4966233ebc315cda2634296aa90965722e6c0a",
+      "name": {
+        "zh-TW": "深夜暖燈拉麵攤",
+        "zh-CN": "深夜暖灯拉面摊",
+        "en": "Warm Ramen Stall at Midnight",
+        "ja": "深夜の灯りに包まれたラーメン屋台"
+      }
+    },
+    {
+      "id": "monthly-04-05",
+      "file": "packs/monthly-04/v2/images/monthly-04-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 67908,
+      "sha256": "d73b585e15b86ef4b793d455ba6d7e8ee0f8a346164697d764872621f2788b3d",
+      "name": {
+        "zh-TW": "拱窗碧水泳池",
+        "zh-CN": "拱窗碧水泳池",
+        "en": "Azure Pool beneath Arched Windows",
+        "ja": "アーチ窓の青いプール"
+      }
+    },
+    {
+      "id": "monthly-04-06",
+      "file": "packs/monthly-04/v2/images/monthly-04-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 211746,
+      "sha256": "931d9c8f7db1aa46a7207786bc5004e7ac694d2acc08053009a9dc6dd37754b5",
+      "name": {
+        "zh-TW": "霓虹旋舞雨傘",
+        "zh-CN": "霓虹旋舞雨伞",
+        "en": "Spinning Umbrella beneath Neon Rain",
+        "ja": "ネオンの雨に舞う傘"
+      }
+    },
+    {
+      "id": "monthly-04-07",
+      "file": "packs/monthly-04/v2/images/monthly-04-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 85428,
+      "sha256": "5cbeb56bf1f81c60425289d0d01783c85e49d4a7d58d41ed27976519509ccd9a",
+      "name": {
+        "zh-TW": "書香咖啡館黑貓",
+        "zh-CN": "书香咖啡馆黑猫",
+        "en": "Black Cat in the Book Café",
+        "ja": "本のカフェの黒猫"
+      }
+    },
+    {
+      "id": "monthly-04-08",
+      "file": "packs/monthly-04/v2/images/monthly-04-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 233984,
+      "sha256": "7832c9ef19e4815b51a8ca0a1c6ecc6a461e2cc28e66f0958a1e06cecaf10739",
+      "name": {
+        "zh-TW": "雨城青綠花車",
+        "zh-CN": "雨城青绿花车",
+        "en": "Turquoise Flower Cart in the Rain",
+        "ja": "雨の街の青緑色の花車"
+      }
+    },
+    {
+      "id": "monthly-04-09",
+      "file": "packs/monthly-04/v2/images/monthly-04-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 233236,
+      "sha256": "10aeacfdca9def49c6963370f421e6a7c311e38482888423c56103e82fe205ef",
+      "name": {
+        "zh-TW": "雨夜橙色籃球",
+        "zh-CN": "雨夜橙色篮球",
+        "en": "Orange Basketball under the Rainlights",
+        "ja": "雨灯りに弾むオレンジのバスケットボール"
+      }
+    },
+    {
+      "id": "monthly-04-10",
+      "file": "packs/monthly-04/v2/images/monthly-04-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 182754,
+      "sha256": "89341fdde515c05a78bedc2e97dcfa5d7163f2610678b3c6dbaebe5443fdce98",
+      "name": {
+        "zh-TW": "月台邊的黃雨傘",
+        "zh-CN": "站台边的黄雨伞",
+        "en": "Yellow Umbrella beside the Night Train",
+        "ja": "夜汽車を待つ黄色い傘"
+      }
+    }
+  ]
+}

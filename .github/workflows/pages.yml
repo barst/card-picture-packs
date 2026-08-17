@@ -1,0 +1,40 @@
+name: 驗證並發佈圖庫
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 產生公開網址 catalog
+        run: npm run v2:catalog
+        env:
+          PACK_ASSET_BASE_URL: https://${{ github.repository_owner }}.github.io/card-picture-packs
+      - name: 驗證圖庫契約與全部圖片
+        run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: 發佈 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

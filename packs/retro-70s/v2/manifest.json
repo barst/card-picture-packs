@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "retro-70s",
+  "version": 2,
+  "order": 36,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "橙色年代生活誌",
+    "zh-CN": "橙色年代生活志",
+    "en": "Living in the Seventies",
+    "ja": "懐かしの七〇年代暮らし"
+  },
+  "description": {
+    "zh-TW": "黑膠唱盤、轉盤電話、底片相機與熔岩燈，以十件經典老物重現七〇年代溫暖大膽的居家色彩。",
+    "zh-CN": "黑胶唱盘、转盘电话、胶片相机与熔岩灯，以十件经典老物重现七〇年代温暖大胆的居家色彩。",
+    "en": "Ten iconic objects bring back the bold, warm interiors of the 1970s, from vinyl and rotary phones to film cameras and glowing lava lamps.",
+    "ja": "レコード、ダイヤル電話、フィルムカメラ、溶岩ランプ。10の名品で、温かく大胆な七〇年代の部屋をよみがえらせます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "retro-70s-01-vinyl-record-player",
+  "images": [
+    {
+      "id": "retro-70s-01-vinyl-record-player",
+      "file": "packs/retro-70s/v2/images/retro-70s-01-vinyl-record-player.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 277766,
+      "sha256": "601bab5a071e267bd8a538d14268f9c14f66023e0f9b7317a55722be161707c7",
+      "name": {
+        "zh-TW": "木紋唱盤的黑膠午後",
+        "zh-CN": "木纹唱盘的黑胶午后",
+        "en": "Vinyl Afternoon on a Woodgrain Turntable",
+        "ja": "木目のレコードプレーヤーで聴く午後"
+      }
+    },
+    {
+      "id": "retro-70s-02-crt-television",
+      "file": "packs/retro-70s/v2/images/retro-70s-02-crt-television.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 368438,
+      "sha256": "e1b54238502d7c05cb57c7f8aee4c062ffb4c3beb4866947f86212c43d6ee705",
+      "name": {
+        "zh-TW": "幾何客廳的映像管電視",
+        "zh-CN": "几何客厅的显像管电视",
+        "en": "Television Glow in a Geometric Living Room",
+        "ja": "幾何学模様の居間とブラウン管テレビ"
+      }
+    },
+    {
+      "id": "retro-70s-03-rotary-telephone",
+      "file": "packs/retro-70s/v2/images/retro-70s-03-rotary-telephone.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 348170,
+      "sha256": "17f655265d469702f662bd44a3962744b98b2db5744622b56c850890e32cf69d",
+      "name": {
+        "zh-TW": "蕾絲桌巾上的奶油色電話",
+        "zh-CN": "蕾丝桌巾上的奶油色电话",
+        "en": "Cream Rotary Phone on a Lace Table",
+        "ja": "レース卓上のクリーム色ダイヤル電話"
+      }
+    },
+    {
+      "id": "retro-70s-04-blank-key-typewriter",
+      "file": "packs/retro-70s/v2/images/retro-70s-04-blank-key-typewriter.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 342112,
+      "sha256": "e91dc24d27bd7beefae150d32aa9593d344c96b2469ab386f9bb23e0cdb9fce5",
+      "name": {
+        "zh-TW": "檯燈下的橄欖綠打字機",
+        "zh-CN": "台灯下的橄榄绿打字机",
+        "en": "Olive Typewriter beneath the Desk Lamp",
+        "ja": "デスク灯の下のオリーブ色タイプライター"
+      }
+    },
+    {
+      "id": "retro-70s-05-film-camera",
+      "file": "packs/retro-70s/v2/images/retro-70s-05-film-camera.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 265550,
+      "sha256": "5cd352af83a14bfb71fd55872613c9d972b5aa4ec106138d993413b015488e14",
+      "name": {
+        "zh-TW": "旅行桌上的銀黑底片相機",
+        "zh-CN": "旅行桌上的银黑胶片相机",
+        "en": "Silver Film Camera Ready for a Journey",
+        "ja": "旅支度の銀色フィルムカメラ"
+      }
+    },
+    {
+      "id": "retro-70s-06-cassette-recorder",
+      "file": "packs/retro-70s/v2/images/retro-70s-06-cassette-recorder.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 275638,
+      "sha256": "6737e2a2186a88f4917ae6b309ed22b5c060a16864c89b9995981c22659d745f",
+      "name": {
+        "zh-TW": "書桌上的卡式錄音時光",
+        "zh-CN": "书桌上的卡式录音时光",
+        "en": "Cassette Recording at the Study Desk",
+        "ja": "机上のカセット録音時間"
+      }
+    },
+    {
+      "id": "retro-70s-07-jukebox",
+      "file": "packs/retro-70s/v2/images/retro-70s-07-jukebox.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 250578,
+      "sha256": "fbec9db5cc6ec6e54e97948ad414a38305a32533763d7852ad24ac17eede2951",
+      "name": {
+        "zh-TW": "小餐館裡的金光點唱機",
+        "zh-CN": "小餐馆里的金光点唱机",
+        "en": "Golden Jukebox in the Diner",
+        "ja": "食堂に輝くジュークボックス"
+      }
+    },
+    {
+      "id": "retro-70s-08-transistor-radio",
+      "file": "packs/retro-70s/v2/images/retro-70s-08-transistor-radio.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 167024,
+      "sha256": "0e4d90e2a1ed2df9f243c2ca59e756f5cf9378f49cc78a3b95fbdd9f8d7ae210",
+      "name": {
+        "zh-TW": "野餐墊上的隨身收音機",
+        "zh-CN": "野餐垫上的便携收音机",
+        "en": "Portable Radio on a Picnic Blanket",
+        "ja": "ピクニック毛布の携帯ラジオ"
+      }
+    },
+    {
+      "id": "retro-70s-09-slide-projector",
+      "file": "packs/retro-70s/v2/images/retro-70s-09-slide-projector.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 111022,
+      "sha256": "e8e316a2a52990e0e74feca060c665fa81fef52bbc1f4cb9f59796155113a1db",
+      "name": {
+        "zh-TW": "暗房裡的山景幻燈",
+        "zh-CN": "暗房里的山景幻灯",
+        "en": "Mountain Memories on the Slide Projector",
+        "ja": "幻灯機に映る山の思い出"
+      }
+    },
+    {
+      "id": "retro-70s-10-lava-lamp",
+      "file": "packs/retro-70s/v2/images/retro-70s-10-lava-lamp.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 90860,
+      "sha256": "04f998514052012e134c0bd6257e4e8d7eb6fbf6c3a2f6057c635a7832567804",
+      "name": {
+        "zh-TW": "暮橙客廳的熔岩燈",
+        "zh-CN": "暮橙客厅的熔岩灯",
+        "en": "Lava Lamp in an Amber Living Room",
+        "ja": "琥珀色の居間の溶岩ランプ"
+      }
+    }
+  ]
+}

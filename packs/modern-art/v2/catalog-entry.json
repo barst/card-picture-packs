@@ -1,0 +1,25 @@
+{
+  "packId": "modern-art",
+  "version": 2,
+  "order": 16,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "世紀交會的藝術夢境",
+    "zh-CN": "世纪交会的艺术梦境",
+    "en": "Art Dreams Across an Era",
+    "ja": "世紀を彩る芸術の夢"
+  },
+  "description": {
+    "zh-TW": "從新藝術的花葉曲線到裝飾藝術的璀璨都會，以十幅夢境走過現代藝術的多彩風貌。",
+    "zh-CN": "从新艺术的花叶曲线到装饰艺术的璀璨都会，以十幅梦境走过现代艺术的多彩风貌。",
+    "en": "Ten dreamlike scenes explore a rich range of modern styles, from Art Nouveau florals to the brilliance of the Art Deco city.",
+    "ja": "アール・ヌーヴォーの花の曲線からアール・デコの輝く都市まで、近代の多彩な芸術様式を10の夢景色でたどります。"
+  },
+  "cover": "packs/modern-art/v2/images/modern-art-01-lilies.webp",
+  "manifest": "packs/modern-art/v2/manifest.json",
+  "manifestBytes": 6405,
+  "manifestSha256": "5d0eb5d836ad423572c1594b79a8e2626464aa6d6f651b74616ce85c822d19b6",
+  "imageCount": 10,
+  "downloadBytes": 3559630
+}

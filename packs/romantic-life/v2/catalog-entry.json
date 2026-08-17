@@ -1,0 +1,25 @@
+{
+  "packId": "romantic-life",
+  "version": 2,
+  "order": 19,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "幕光愛情歲月",
+    "zh-CN": "幕光爱情岁月",
+    "en": "Love beneath the Footlights",
+    "ja": "舞台明かりの恋物語"
+  },
+  "description": {
+    "zh-TW": "從劇場後台的初遇、雨中共傘到舞台求婚與白首相守，串起一段走過日常與聚光燈的溫柔愛情。",
+    "zh-CN": "从剧场后台的初遇、雨中共伞到舞台求婚与白首相守，串起一段走过日常与聚光灯的温柔爱情。",
+    "en": "From a first meeting backstage and a shared umbrella to a stage proposal and a lifetime together, one tender romance unfolds in and beyond the theater.",
+    "ja": "舞台裏での出会い、雨の相合傘、舞台でのプロポーズ、そして白髪になるまで寄り添う二人を描く優しい恋物語です。"
+  },
+  "cover": "packs/romantic-life/v2/images/romantic-life-01-meeting.webp",
+  "manifest": "packs/romantic-life/v2/manifest.json",
+  "manifestBytes": 6431,
+  "manifestSha256": "612cec8aea1ce1482b1d3e6f212d9837274008c14184bfd8a0b165a286e21eff",
+  "imageCount": 10,
+  "downloadBytes": 1654442
+}

@@ -1,0 +1,25 @@
+{
+  "packId": "plants",
+  "version": 2,
+  "order": 3,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 0,
+  "title": {
+    "zh-TW": "花葉四季",
+    "zh-CN": "花叶四季",
+    "en": "Seasons in Bloom",
+    "ja": "花と緑の四季"
+  },
+  "description": {
+    "zh-TW": "向日葵、蘭花、蓮池與秋葉交織成十幅植物風景，循著花開葉落感受四季安靜而鮮明的色彩。",
+    "zh-CN": "向日葵、兰花、莲池与秋叶交织成十幅植物风景，循着花开叶落感受四季安静而鲜明的色彩。",
+    "en": "Ten botanical scenes follow the seasons through sunflowers, orchids, lotus ponds, forest ferns, herbs, and brilliant autumn leaves.",
+    "ja": "ひまわり、蘭、蓮池、森のシダ、香草、紅葉を通して、花と緑が彩る四季をたどる10の風景です。"
+  },
+  "cover": "packs/plants/v2/images/plants-01-sunflowers.webp",
+  "manifest": "packs/plants/v2/manifest.json",
+  "manifestBytes": 6068,
+  "manifestSha256": "a9a5241d7d899b281267116fce5af3ed91ff3708bca6428ce73d14362ef2c4de",
+  "imageCount": 10,
+  "downloadBytes": 2142324
+}

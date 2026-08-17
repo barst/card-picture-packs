@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-05",
+  "version": 2,
+  "order": 25,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "五月・機械花園",
+    "zh-CN": "五月・机械花园",
+    "en": "May · Clockwork Garden",
+    "ja": "5月・機械仕掛けの庭園"
+  },
+  "description": {
+    "zh-TW": "發條玻璃花、花園飛船、機械蝴蝶與白兔自動偶輪番登場，以清楚的大型主體編織五月的奇想花園。",
+    "zh-CN": "发条玻璃花、花园飞船、机械蝴蝶与白兔自动偶轮番登场，以清晰的大型主体编织五月的奇想花园。",
+    "en": "A glass clockwork flower, garden airship, mechanical butterfly, and white-rabbit automaton lead ten clear, whimsical portraits of May.",
+    "ja": "歯車仕掛けのガラス花、庭園飛行船、機械蝶、白兎の自動人形など、大きく明快な10の主役が5月の幻想庭園を彩ります。"
+  },
+  "cover": "packs/monthly-05/v2/images/monthly-05-01.webp",
+  "manifest": "packs/monthly-05/v2/manifest.json",
+  "manifestBytes": 5997,
+  "manifestSha256": "5e4d5f3a55c762f72b6901d267372245ba7bad1445fd691eb0d2b7450d57f3ee",
+  "imageCount": 10,
+  "downloadBytes": 1667210
+}

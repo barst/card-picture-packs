@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-09",
+  "version": 2,
+  "order": 29,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "九月・金色豐收",
+    "zh-CN": "九月・金色丰收",
+    "en": "September · Golden Harvest",
+    "ja": "9月・黄金の実り"
+  },
+  "description": {
+    "zh-TW": "豐收花環、紅色電車、果園拖拉機與彩繪風車成為金秋主角，以清楚輪廓收藏九月的富足暖意。",
+    "zh-CN": "丰收花环、红色电车、果园拖拉机与彩绘风车成为金秋主角，以清晰轮廓收藏九月的丰足暖意。",
+    "en": "A harvest wreath, red railcar, orchard tractor, and painted windmill stand out as bold emblems of September's golden abundance.",
+    "ja": "収穫の花輪、赤い電車、果樹園のトラクター、彩り風車が、9月の豊かな実りを大きく鮮明に描きます。"
+  },
+  "cover": "packs/monthly-09/v2/images/monthly-09-01.webp",
+  "manifest": "packs/monthly-09/v2/manifest.json",
+  "manifestBytes": 6009,
+  "manifestSha256": "fcce7ef9c0c00bed44c0f2945e7c6226d29766c169fd2eb77eaa510eb20fe256",
+  "imageCount": 10,
+  "downloadBytes": 1641104
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "cat-artisan-street",
+  "version": 2,
+  "order": 40,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "貓咪手作街",
+    "zh-CN": "猫咪手作街",
+    "en": "Cat Artisans' Lane",
+    "ja": "猫職人の手仕事通り"
+  },
+  "description": {
+    "zh-TW": "陶藝、麵包、花束與玻璃工藝，十位貓咪職人守著各自的小店，讓整條老街飄散手作的溫度與香氣。",
+    "zh-CN": "陶艺、面包、花束与玻璃工艺，十位猫咪匠人守着各自的小店，让整条老街飘散手作的温度与香气。",
+    "en": "Ten devoted cat artisans shape pottery, bake bread, bind books, blow glass, and keep a charming old lane alive with the warmth of handmade craft.",
+    "ja": "陶芸やパン、花束、本作り、ガラス細工。10匹の猫職人が小さな店を守り、古い通りを手仕事のぬくもりで満たします。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "cat-artisan-street-01-potter-cat",
+  "images": [
+    {
+      "id": "cat-artisan-street-01-potter-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-01-potter-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 130508,
+      "sha256": "bdb78cfaccc34f2c116f31c4bc05d44d6bec82839e0159b485e15f645c5bf253",
+      "name": {
+        "zh-TW": "轉盤前的虎斑陶匠",
+        "zh-CN": "转盘前的虎斑陶匠",
+        "en": "Tabby Potter at the Wheel",
+        "ja": "ろくろに向かう縞猫の陶工"
+      }
+    },
+    {
+      "id": "cat-artisan-street-02-baker-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-02-baker-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 165794,
+      "sha256": "303101bf4e795c5fcf95335b1802b4cac6a18368ae9b7c5a7fe668fd9b43f672",
+      "name": {
+        "zh-TW": "晨爐旁的橘貓麵包師",
+        "zh-CN": "晨炉旁的橘猫面包师",
+        "en": "Ginger Baker by the Morning Oven",
+        "ja": "朝窯で働く茶虎のパン職人"
+      }
+    },
+    {
+      "id": "cat-artisan-street-03-florist-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-03-florist-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 114962,
+      "sha256": "b9828bb581de270350685d108b1d39c83f97de92c4cbe1888b5ab446bbcef5e1",
+      "name": {
+        "zh-TW": "花海裡的白貓花藝師",
+        "zh-CN": "花海里的白猫花艺师",
+        "en": "White Cat Florist amid the Blooms",
+        "ja": "花に囲まれた白猫の花職人"
+      }
+    },
+    {
+      "id": "cat-artisan-street-04-bookbinder-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-04-bookbinder-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 142932,
+      "sha256": "c0abf5dd23b13e900d4fd852d9240bcd391509f20854872d073707b3520b6df0",
+      "name": {
+        "zh-TW": "舊書坊的黑貓裝幀師",
+        "zh-CN": "旧书坊的黑猫装帧师",
+        "en": "Black Cat Bookbinder in the Old Shop",
+        "ja": "古書房の黒猫の製本職人"
+      }
+    },
+    {
+      "id": "cat-artisan-street-05-toymaker-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-05-toymaker-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 94416,
+      "sha256": "01b7514ed129abf52df63f760edd172e02a2ad89790c6c3b985cd08ede6c5830",
+      "name": {
+        "zh-TW": "木屑飛舞的灰貓玩具匠",
+        "zh-CN": "木屑飞舞的灰猫玩具匠",
+        "en": "Gray Cat Toymaker among the Wood Shavings",
+        "ja": "木くず舞う工房の灰猫玩具職人"
+      }
+    },
+    {
+      "id": "cat-artisan-street-06-chocolatier-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-06-chocolatier-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 99024,
+      "sha256": "7859418365428ea73b6bdf28e1de12b16e5b6b10f1978fc401f1741269a7262f",
+      "name": {
+        "zh-TW": "甜香廚房的賓士貓巧克力師",
+        "zh-CN": "甜香厨房的黑白猫巧克力师",
+        "en": "Tuxedo Cat Chocolatier in the Sweet Kitchen",
+        "ja": "甘い厨房の鉢割れ猫チョコレート職人"
+      }
+    },
+    {
+      "id": "cat-artisan-street-07-tailor-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-07-tailor-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 95684,
+      "sha256": "eb231f505c4ae3db12c45477ae5b58e0478fa29d86419716221c246c0a9acae9",
+      "name": {
+        "zh-TW": "彩線窗邊的三花裁縫師",
+        "zh-CN": "彩线窗边的三花裁缝师",
+        "en": "Calico Tailor by the Thread-Lined Window",
+        "ja": "彩り糸の窓辺に座る三毛猫仕立屋"
+      }
+    },
+    {
+      "id": "cat-artisan-street-08-glassblower-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-08-glassblower-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 142854,
+      "sha256": "26a3b7100fc935254f0265801bc02c3390ead15ea14c7d6abcc5389aa1a69221",
+      "name": {
+        "zh-TW": "火光工坊的暹羅玻璃匠",
+        "zh-CN": "火光工坊的暹罗玻璃匠",
+        "en": "Siamese Glassblower in the Fiery Workshop",
+        "ja": "炎の工房のシャム猫ガラス職人"
+      }
+    },
+    {
+      "id": "cat-artisan-street-09-bicycle-repair-cat",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-09-bicycle-repair-cat.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 157986,
+      "sha256": "2145728723dae948308de78609888ab165932f7916324182c6f4b95337c0971a",
+      "name": {
+        "zh-TW": "巷口的虎斑單車修理師",
+        "zh-CN": "巷口的虎斑自行车修理师",
+        "en": "Striped Bicycle Mechanic at the Corner",
+        "ja": "路地角の縞猫自転車修理屋"
+      }
+    },
+    {
+      "id": "cat-artisan-street-10-evening-market",
+      "file": "packs/cat-artisan-street/v2/images/cat-artisan-street-10-evening-market.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 103354,
+      "sha256": "2654b85ee5163609a561377574e1abaaa1ffdd2dc1d9e3327e5dfca7eeea6782",
+      "name": {
+        "zh-TW": "燈串下的貓咪晚市",
+        "zh-CN": "灯串下的猫咪夜市",
+        "en": "Cat Artisans' Evening Market",
+        "ja": "灯り連なる猫職人の宵市"
+      }
+    }
+  ]
+}

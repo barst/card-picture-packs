@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-01",
+  "version": 2,
+  "order": 21,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "一月・雪夜奇光",
+    "zh-CN": "一月・雪夜奇光",
+    "en": "January · Wonders of Winter Light",
+    "ja": "1月・雪夜のきらめき"
+  },
+  "description": {
+    "zh-TW": "以冰晶天鵝、提燈雪狐、極光天文台與火龍花燈為主角，點亮一月雪夜的十種奇幻光景。",
+    "zh-CN": "以冰晶天鹅、提灯雪狐、极光天文台与火龙花灯为主角，点亮一月雪夜的十种奇幻光景。",
+    "en": "Ten bold winter icons—an ice swan, a lantern fox, an aurora observatory, a fiery dragon lantern, and more—illuminate January nights.",
+    "ja": "氷晶の白鳥、提灯を持つ雪狐、オーロラ天文台、火龍の灯籠など、10の大きな主役が1月の雪夜を照らします。"
+  },
+  "cover": "packs/monthly-01/v2/images/monthly-01-01.webp",
+  "manifest": "packs/monthly-01/v2/manifest.json",
+  "manifestBytes": 6019,
+  "manifestSha256": "184e6bf2d63f17e66afd92a50afd1df64d9a939d43740c6879a63020022e3373",
+  "imageCount": 10,
+  "downloadBytes": 1757916
+}

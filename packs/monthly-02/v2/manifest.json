@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-02",
+  "version": 2,
+  "order": 22,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "二月・瑞彩新春",
+    "zh-CN": "二月・瑞彩新春",
+    "en": "February · Auspicious New Year",
+    "ja": "2月・瑞光の春節"
+  },
+  "description": {
+    "zh-TW": "讓金獅、祥龍、團圓桌與巨型月兔花燈成為畫面焦點，以紅金瑞彩迎接熱鬧又溫暖的新春。",
+    "zh-CN": "让金狮、祥龙、团圆桌与巨型月兔花灯成为画面焦点，以红金瑞彩迎接热闹又温暖的新春。",
+    "en": "Golden lions, auspicious dragons, a reunion table, and a giant moon-rabbit lantern take center stage in a warm red-and-gold Lunar New Year.",
+    "ja": "金獅子、瑞龍、団らんの食卓、巨大な月兎灯籠を主役に、赤と金に彩られた温かな春節を祝います。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-02-01",
+  "images": [
+    {
+      "id": "monthly-02-01",
+      "file": "packs/monthly-02/v2/images/monthly-02-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 249840,
+      "sha256": "912fa9cef4878072555d0069c56dc762bcc9a6e672347f2abad5841576234e42",
+      "name": {
+        "zh-TW": "金獅迎春",
+        "zh-CN": "金狮迎春",
+        "en": "Golden Lion Welcomes the New Year",
+        "ja": "新春を迎える金獅子"
+      }
+    },
+    {
+      "id": "monthly-02-02",
+      "file": "packs/monthly-02/v2/images/monthly-02-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 293518,
+      "sha256": "29dd2f192a85c261712bb808eb6f4060d327f93fe8d964c4a627e143afcf6d6f",
+      "name": {
+        "zh-TW": "百花祥龍",
+        "zh-CN": "百花祥龙",
+        "en": "Auspicious Dragon among Peonies",
+        "ja": "百花を舞う瑞龍"
+      }
+    },
+    {
+      "id": "monthly-02-03",
+      "file": "packs/monthly-02/v2/images/monthly-02-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 100730,
+      "sha256": "e23f8772648cd3b8910705dd4696c8f8ef4ade030f79465ba8a885e9fde95ef1",
+      "name": {
+        "zh-TW": "年夜團圓桌",
+        "zh-CN": "年夜团圆桌",
+        "en": "Lunar New Year's Reunion Table",
+        "ja": "春節の団らん卓"
+      }
+    },
+    {
+      "id": "monthly-02-04",
+      "file": "packs/monthly-02/v2/images/monthly-02-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 121968,
+      "sha256": "b8dbdce9ea245f675dfe5a7e1de4a6e98144d5080dac50d1f27c17a9c787712a",
+      "name": {
+        "zh-TW": "月橋玉兔燈",
+        "zh-CN": "月桥玉兔灯",
+        "en": "Jade Rabbit Lantern on the Moon Bridge",
+        "ja": "月橋の玉兎灯籠"
+      }
+    },
+    {
+      "id": "monthly-02-05",
+      "file": "packs/monthly-02/v2/images/monthly-02-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 82852,
+      "sha256": "0c3ef76868c83f669c3a02b136e31c80e5cf71ae29f35b92704acf08a2c92d86",
+      "name": {
+        "zh-TW": "朱漆元寶餃盤",
+        "zh-CN": "朱漆元宝饺盘",
+        "en": "Red Lacquer Platter of Ingot Dumplings",
+        "ja": "朱塗りの皿に並ぶ元宝餃子"
+      }
+    },
+    {
+      "id": "monthly-02-06",
+      "file": "packs/monthly-02/v2/images/monthly-02-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 121176,
+      "sha256": "8e14e2e28fd1b7b3500bf8dd8e719aaa3df3414ecdc3811da8fb4c02334e8041",
+      "name": {
+        "zh-TW": "花河迎春燈舟",
+        "zh-CN": "花河迎春灯舟",
+        "en": "New Year Lantern Boat on a River of Flowers",
+        "ja": "花の川を進む迎春灯籠舟"
+      }
+    },
+    {
+      "id": "monthly-02-07",
+      "file": "packs/monthly-02/v2/images/monthly-02-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 134680,
+      "sha256": "f5db1d499977b5c7bd9417d712fd444da380ce247a785d6890c7faf7c5b97cde",
+      "name": {
+        "zh-TW": "福字剪紙花窗",
+        "zh-CN": "福字剪纸花窗",
+        "en": "Blessing Paper-Cut Window",
+        "ja": "福の切り絵飾り窓"
+      }
+    },
+    {
+      "id": "monthly-02-08",
+      "file": "packs/monthly-02/v2/images/monthly-02-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 172478,
+      "sha256": "fae6036043ff23f8140503949eb8f272e0d43ac72715b77f918a647a7dfa657a",
+      "name": {
+        "zh-TW": "霓虹飛龍花燈",
+        "zh-CN": "霓虹飞龙花灯",
+        "en": "Neon Flying Dragon Lantern",
+        "ja": "ネオンに輝く飛龍灯籠"
+      }
+    },
+    {
+      "id": "monthly-02-09",
+      "file": "packs/monthly-02/v2/images/monthly-02-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 93344,
+      "sha256": "195ad03878d370afb4eeb2d711f5de70beffe22a6d79516e445f7a82e157a44d",
+      "name": {
+        "zh-TW": "蓮燈古琴",
+        "zh-CN": "莲灯古琴",
+        "en": "Guqin beneath Lotus Lanterns",
+        "ja": "蓮灯籠の下の古琴"
+      }
+    },
+    {
+      "id": "monthly-02-10",
+      "file": "packs/monthly-02/v2/images/monthly-02-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 117722,
+      "sha256": "817b887c0dd085acd995b6d699b003b6d5f550fd227d32aad52ad21296833c8a",
+      "name": {
+        "zh-TW": "望月巨兔花燈",
+        "zh-CN": "望月巨兔花灯",
+        "en": "Giant Moon-Gazing Rabbit Lantern",
+        "ja": "月を仰ぐ巨大兎灯籠"
+      }
+    }
+  ]
+}

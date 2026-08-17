@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "eight-bit-games",
+  "version": 2,
+  "order": 37,
+  "releasedAt": "2026-07-28T09:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "像素冒險機台",
+    "zh-CN": "像素冒险街机",
+    "en": "Pixel Arcade Adventures",
+    "ja": "ドット絵アーケード冒険譚"
+  },
+  "description": {
+    "zh-TW": "勇者古堡、星艦彈幕、霓虹賽道與溫暖農場，十種經典玩法化成色彩鮮明的像素遊戲世界。",
+    "zh-CN": "勇者古堡、星舰弹幕、霓虹赛道与温暖农场，十种经典玩法化成色彩鲜明的像素游戏世界。",
+    "en": "Ten colorful pixel worlds celebrate classic game genres, from castle quests and starship barrages to neon racing, farming, puzzles, and fighters.",
+    "ja": "勇者の城、宇宙の弾幕、ネオンのレース、のどかな農場まで、定番ジャンルを鮮やかなドット絵で描いた10のゲーム世界です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "eight-bit-games-01-fantasy-rpg",
+  "images": [
+    {
+      "id": "eight-bit-games-01-fantasy-rpg",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-01-fantasy-rpg.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 191754,
+      "sha256": "401ed2676cd2689f6105011c0a9d4ebd0e32db5884fd2c8725c649659a70d851",
+      "name": {
+        "zh-TW": "夕燒古堡的勇者任務",
+        "zh-CN": "夕照古堡的勇者任务",
+        "en": "Hero's Quest at the Sunset Castle",
+        "ja": "夕焼けの城と勇者の旅"
+      }
+    },
+    {
+      "id": "eight-bit-games-02-space-shooter",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-02-space-shooter.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 217606,
+      "sha256": "33fddaf172546dd2a06cd1d529209c1e5fabdd13d619a645a2adce077be1bec1",
+      "name": {
+        "zh-TW": "銀河艦隊彈幕決戰",
+        "zh-CN": "银河舰队弹幕决战",
+        "en": "Galactic Fleet Barrage",
+        "ja": "銀河艦隊の弾幕決戦"
+      }
+    },
+    {
+      "id": "eight-bit-games-03-racing",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-03-racing.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 231996,
+      "sha256": "d11576d307585a1894f0a89b3de25fda05a00ada6f90adf44305a1a5396ba664",
+      "name": {
+        "zh-TW": "霓虹海岸極速彎道",
+        "zh-CN": "霓虹海岸极速弯道",
+        "en": "Neon Coastline Grand Prix",
+        "ja": "ネオン海岸の高速カーブ"
+      }
+    },
+    {
+      "id": "eight-bit-games-04-platformer",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-04-platformer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 96604,
+      "sha256": "05cf0ff65c3f49a33b37cdef8c4abbfc65f1db569dea7ec316c40f9d887a2d5e",
+      "name": {
+        "zh-TW": "蘑菇浮島金幣冒險",
+        "zh-CN": "蘑菇浮岛金币冒险",
+        "en": "Coin Quest across Mushroom Isles",
+        "ja": "きのこ浮島のコイン冒険"
+      }
+    },
+    {
+      "id": "eight-bit-games-05-puzzle",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-05-puzzle.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 57268,
+      "sha256": "0e9cff4bfc4b0adc0a764792ae94ba4b3eaeb23977d0c359831aa3eaaadd9806",
+      "name": {
+        "zh-TW": "機關塔的彩磚密碼",
+        "zh-CN": "机关塔的彩砖密码",
+        "en": "Color-Block Code of the Clockwork Tower",
+        "ja": "仕掛け塔の色ブロック暗号"
+      }
+    },
+    {
+      "id": "eight-bit-games-06-soccer",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-06-soccer.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 136188,
+      "sha256": "20356d0a226c1a682f39135a5dee1bde6841f47a67b66c720b4a567fed1f5ffc",
+      "name": {
+        "zh-TW": "滿場燈光下的致勝球",
+        "zh-CN": "满场灯光下的制胜球",
+        "en": "Winning Goal under the Stadium Lights",
+        "ja": "満員の照明下で決める一球"
+      }
+    },
+    {
+      "id": "eight-bit-games-07-horror-exploration",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-07-horror-exploration.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 104088,
+      "sha256": "25954c560769a2082cb586d90c9c4598085ed4d2ee5daafc095afdc2ab6a0118",
+      "name": {
+        "zh-TW": "月夜古宅的孤燈探險",
+        "zh-CN": "月夜古宅的孤灯探险",
+        "en": "Lantern Alone at the Moonlit Manor",
+        "ja": "月夜の館を照らす孤灯"
+      }
+    },
+    {
+      "id": "eight-bit-games-08-cyberpunk-city",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-08-cyberpunk-city.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122890,
+      "sha256": "87d9f8bcc7aa6dd602e0bf0e06d6ee2af811593e3d67d5c5b5b657c7f51e0417",
+      "name": {
+        "zh-TW": "紫雨霓虹城巡行",
+        "zh-CN": "紫雨霓虹城巡行",
+        "en": "Patrol through the Purple Neon City",
+        "ja": "紫雨のネオン都市を巡る"
+      }
+    },
+    {
+      "id": "eight-bit-games-09-farming-sim",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-09-farming-sim.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 103012,
+      "sha256": "83fbf8f389c04efa5eb9a8c8d4e36d4cbcb40ce7399b3f8831a2b494b5064440",
+      "name": {
+        "zh-TW": "晴日果園的豐收季",
+        "zh-CN": "晴日果园的丰收季",
+        "en": "Harvest Day at the Sunny Farm",
+        "ja": "晴れた農園の収穫日"
+      }
+    },
+    {
+      "id": "eight-bit-games-10-fighting",
+      "file": "packs/eight-bit-games/v2/images/eight-bit-games-10-fighting.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 182628,
+      "sha256": "6448e61e1026215be4b099fa33564f3467177aa776b9e7b9117d0772112982a9",
+      "name": {
+        "zh-TW": "落日屋頂的能量對決",
+        "zh-CN": "落日屋顶的能量对决",
+        "en": "Energy Clash on the Sunset Rooftop",
+        "ja": "夕焼け屋上の気迫対決"
+      }
+    }
+  ]
+}

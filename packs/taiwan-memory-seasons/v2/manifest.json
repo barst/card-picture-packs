@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "taiwan-memory-seasons",
+  "version": 2,
+  "order": 45,
+  "releasedAt": "2026-08-08T06:12:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "台灣四季舊時光",
+    "zh-CN": "台湾四季旧时光",
+    "en": "Taiwan, Seasons Remembered",
+    "ja": "台湾、四季の記憶"
+  },
+  "description": {
+    "zh-TW": "從春櫻小火車到冬夜溫泉街，以十幅溫柔場景拾起台灣巷弄、田野與山海的季節記憶。",
+    "zh-CN": "从春樱小火车到冬夜温泉街，以十幅温柔场景拾起台湾巷弄、田野与山海的季节记忆。",
+    "en": "Ten tender scenes gather Taiwan's seasonal memories from neighborhood lanes, fields, mountains, and sea, from spring blossoms to a winter hot spring town.",
+    "ja": "春の桜列車から冬夜の温泉街まで、台湾の路地、田園、山と海に宿る季節の記憶を10の情景でたどります。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "taiwan-memory-seasons-01-spring-mountain-railway",
+  "images": [
+    {
+      "id": "taiwan-memory-seasons-01-spring-mountain-railway",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-01-spring-mountain-railway.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 249656,
+      "sha256": "ea251c8170c924ec63c808142c2c6c5ac22299035bec8a8f3463c143f1b6717b",
+      "name": {
+        "zh-TW": "春櫻山城小火車",
+        "zh-CN": "春樱山城小火车",
+        "en": "Spring Blossoms and the Mountain Train",
+        "ja": "桜咲く山里の小列車"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-02-rainy-arcade-street",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-02-rainy-arcade-street.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 249178,
+      "sha256": "b2b7a39b3f6972de4623b9f6b6fa3a8d172543f89b4914cb52bea394aa314fcd",
+      "name": {
+        "zh-TW": "梅雨騎樓的等待",
+        "zh-CN": "梅雨骑楼的等待",
+        "en": "Waiting Beneath the Rainy Arcade",
+        "ja": "梅雨の騎楼で雨宿り"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-03-summer-banyan-market",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-03-summer-banyan-market.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 242732,
+      "sha256": "e1e3346dc9e3a6a5cbe6ec8fff671062238b26e96d39e568de6181b8a234f413",
+      "name": {
+        "zh-TW": "榕樹下的夏日市場",
+        "zh-CN": "榕树下的夏日市场",
+        "en": "Summer Market Beneath the Banyan",
+        "ja": "ガジュマル木陰の夏市場"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-04-seaside-fishing-harbor",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-04-seaside-fishing-harbor.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 131876,
+      "sha256": "816fb5fbe2e634f37c9302c827bee5e8c1e5a47bad1f28742289f5f1f1f99e12",
+      "name": {
+        "zh-TW": "暮色漁港",
+        "zh-CN": "暮色渔港",
+        "en": "Fishing Harbor at Blue Hour",
+        "ja": "夕暮れの漁港"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-05-tea-terrace-mist",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-05-tea-terrace-mist.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 271610,
+      "sha256": "b50ac9727dc22d959a62a37b635a1237e08c8353e9becec95953d6c8c3ab5647",
+      "name": {
+        "zh-TW": "雲霧茶山採摘日",
+        "zh-CN": "云雾茶山采摘日",
+        "en": "Tea Harvest in the Mountain Mist",
+        "ja": "霧の茶畑の摘み取り日"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-06-old-cinema-evening",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-06-old-cinema-evening.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 109436,
+      "sha256": "bdf1aabf5e89c2fb9e6518f6cad93718dce1e4efdc2591b312367cda4a2f42de",
+      "name": {
+        "zh-TW": "老戲院的晚場",
+        "zh-CN": "老电影院的晚场",
+        "en": "Evening Show at the Old Cinema",
+        "ja": "古い映画館の夕べ"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-07-red-brick-courtyard",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-07-red-brick-courtyard.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 311692,
+      "sha256": "b8f2c2fd5346c57aafc95faaede53c711db4adb770087e08482038d9ee56639a",
+      "name": {
+        "zh-TW": "紅磚院落的曬被日",
+        "zh-CN": "红砖院落的晒被日",
+        "en": "Laundry Day in the Red-Brick Courtyard",
+        "ja": "赤レンガの中庭の物干し日"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-08-rural-bicycle-path",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-08-rural-bicycle-path.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 224958,
+      "sha256": "e58c5ac646c1157934c9f29fe07defa49fbaa1ab0998ed68b1b458462d1f200d",
+      "name": {
+        "zh-TW": "稻田水圳邊的單車路",
+        "zh-CN": "稻田水渠边的单车路",
+        "en": "Bicycle Path Along the Rice Fields",
+        "ja": "水田の水路沿いを行く自転車"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-09-shaved-ice-afternoon",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-09-shaved-ice-afternoon.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 160932,
+      "sha256": "7170464e2fa4ab242b1404c4b6eaf6a394d6e828c01f136d97e8ed06f627b603",
+      "name": {
+        "zh-TW": "電風扇旁的剉冰午後",
+        "zh-CN": "电风扇旁的刨冰午后",
+        "en": "Shaved Ice by the Old Electric Fan",
+        "ja": "扇風機のそばのかき氷"
+      }
+    },
+    {
+      "id": "taiwan-memory-seasons-10-winter-hot-spring-lane",
+      "file": "packs/taiwan-memory-seasons/v2/images/taiwan-memory-seasons-10-winter-hot-spring-lane.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 206966,
+      "sha256": "8c87adbbd4d6ce4297c7e59bd053f525767a048f747921244696a0ac28858438",
+      "name": {
+        "zh-TW": "溫泉山城冬夜",
+        "zh-CN": "温泉山城冬夜",
+        "en": "Winter Night in a Hot Spring Town",
+        "ja": "温泉街の冬夜"
+      }
+    }
+  ]
+}

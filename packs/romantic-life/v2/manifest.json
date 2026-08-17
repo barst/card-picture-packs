@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "romantic-life",
+  "version": 2,
+  "order": 19,
+  "releasedAt": "2026-07-27T10:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "幕光愛情歲月",
+    "zh-CN": "幕光爱情岁月",
+    "en": "Love beneath the Footlights",
+    "ja": "舞台明かりの恋物語"
+  },
+  "description": {
+    "zh-TW": "從劇場後台的初遇、雨中共傘到舞台求婚與白首相守，串起一段走過日常與聚光燈的溫柔愛情。",
+    "zh-CN": "从剧场后台的初遇、雨中共伞到舞台求婚与白首相守，串起一段走过日常与聚光灯的温柔爱情。",
+    "en": "From a first meeting backstage and a shared umbrella to a stage proposal and a lifetime together, one tender romance unfolds in and beyond the theater.",
+    "ja": "舞台裏での出会い、雨の相合傘、舞台でのプロポーズ、そして白髪になるまで寄り添う二人を描く優しい恋物語です。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "romantic-life-01-meeting",
+  "images": [
+    {
+      "id": "romantic-life-01-meeting",
+      "file": "packs/romantic-life/v2/images/romantic-life-01-meeting.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 122792,
+      "sha256": "83a66609dbf9862988fcbb2edb05d65bb683b9c45706d2313306d43f26b0734d",
+      "name": {
+        "zh-TW": "開幕前的初遇",
+        "zh-CN": "开幕前的初遇",
+        "en": "First Meeting before the Curtain Rises",
+        "ja": "開幕前の出会い"
+      }
+    },
+    {
+      "id": "romantic-life-02-umbrella",
+      "file": "packs/romantic-life/v2/images/romantic-life-02-umbrella.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 244074,
+      "sha256": "2b5f715fe0caac57e83665c0b4b2e85aa9ea53d4eeb4a5e34546ed32eea83081",
+      "name": {
+        "zh-TW": "雨燈下共傘",
+        "zh-CN": "雨灯下共伞",
+        "en": "Sharing an Umbrella beneath the Rainlights",
+        "ja": "雨明かりの相合傘"
+      }
+    },
+    {
+      "id": "romantic-life-03-rehearsal",
+      "file": "packs/romantic-life/v2/images/romantic-life-03-rehearsal.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 67858,
+      "sha256": "447fe7079872d5fb95aa59260f62dbc3b02591096ef1c8204034d63f5e876f21",
+      "name": {
+        "zh-TW": "空劇場的雙人排練",
+        "zh-CN": "空剧场的双人排练",
+        "en": "Rehearsal for Two in an Empty Theater",
+        "ja": "誰もいない劇場で二人の稽古"
+      }
+    },
+    {
+      "id": "romantic-life-04-seaside",
+      "file": "packs/romantic-life/v2/images/romantic-life-04-seaside.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 177308,
+      "sha256": "154dc77c60f4ebcf922e8c12abab347e86a6bc36f322062a31f38673cb9e16ec",
+      "name": {
+        "zh-TW": "夕照海邊片場",
+        "zh-CN": "夕照海边片场",
+        "en": "Sunset on the Seaside Film Set",
+        "ja": "夕暮れの海辺ロケ"
+      }
+    },
+    {
+      "id": "romantic-life-05-video-call",
+      "file": "packs/romantic-life/v2/images/romantic-life-05-video-call.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 136738,
+      "sha256": "9cd2d57a796cd0d9b11895b43e204367926848201d68350bfa3ee3d1cce652c8",
+      "name": {
+        "zh-TW": "隔著螢幕的思念",
+        "zh-CN": "隔着屏幕的思念",
+        "en": "Longing across the Screen",
+        "ja": "画面越しの恋しさ"
+      }
+    },
+    {
+      "id": "romantic-life-06-wedding",
+      "file": "packs/romantic-life/v2/images/romantic-life-06-wedding.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 373464,
+      "sha256": "70587dfe876391121aeea260bf0d324a13793fdca49e25abafbc7af6e4acc2f3",
+      "name": {
+        "zh-TW": "金色花園婚禮",
+        "zh-CN": "金色花园婚礼",
+        "en": "Wedding in a Golden Garden",
+        "ja": "金色に輝く庭園の結婚式"
+      }
+    },
+    {
+      "id": "romantic-life-07-breakfast",
+      "file": "packs/romantic-life/v2/images/romantic-life-07-breakfast.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 131614,
+      "sha256": "26f67ddb323d1150bf04841428c7ad0e5b5f058ca87b49a5b0e14b0b62f8d0b8",
+      "name": {
+        "zh-TW": "晨光裡的新婚早餐",
+        "zh-CN": "晨光里的新婚早餐",
+        "en": "Newlywed Breakfast in the Morning Light",
+        "ja": "朝日に包まれた新婚の朝食"
+      }
+    },
+    {
+      "id": "romantic-life-08-night-market",
+      "file": "packs/romantic-life/v2/images/romantic-life-08-night-market.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 207436,
+      "sha256": "9ed4557a6442b3eb9b4642104da290394a22c9f28fc1f80649c6bfa5f6991756",
+      "name": {
+        "zh-TW": "燈火夜市約會",
+        "zh-CN": "灯火夜市约会",
+        "en": "Date beneath the Night Market Lanterns",
+        "ja": "灯りきらめく夜市デート"
+      }
+    },
+    {
+      "id": "romantic-life-09-proposal",
+      "file": "packs/romantic-life/v2/images/romantic-life-09-proposal.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 111316,
+      "sha256": "7e0707fa2315eea0674664d980d6a236dd819ae64bd2a2bb039a959ba8dbd593",
+      "name": {
+        "zh-TW": "舞台上的驚喜求婚",
+        "zh-CN": "舞台上的惊喜求婚",
+        "en": "Surprise Proposal on Stage",
+        "ja": "舞台の上のサプライズプロポーズ"
+      }
+    },
+    {
+      "id": "romantic-life-10-together",
+      "file": "packs/romantic-life/v2/images/romantic-life-10-together.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 81842,
+      "sha256": "0cf3b870b5dc9804a1089959ad57c5cdc5babe1bd04d7de92ac6f0237551ef5f",
+      "name": {
+        "zh-TW": "幕光下的白首相守",
+        "zh-CN": "幕光下的白首相守",
+        "en": "Together through a Lifetime of Footlights",
+        "ja": "舞台明かりの下で寄り添う生涯"
+      }
+    }
+  ]
+}

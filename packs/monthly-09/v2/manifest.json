@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "packId": "monthly-09",
+  "version": 2,
+  "order": 29,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "defaultLocale": "zh-TW",
+  "supportedLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "title": {
+    "zh-TW": "九月・金色豐收",
+    "zh-CN": "九月・金色丰收",
+    "en": "September · Golden Harvest",
+    "ja": "9月・黄金の実り"
+  },
+  "description": {
+    "zh-TW": "豐收花環、紅色電車、果園拖拉機與彩繪風車成為金秋主角，以清楚輪廓收藏九月的富足暖意。",
+    "zh-CN": "丰收花环、红色电车、果园拖拉机与彩绘风车成为金秋主角，以清晰轮廓收藏九月的丰足暖意。",
+    "en": "A harvest wreath, red railcar, orchard tractor, and painted windmill stand out as bold emblems of September's golden abundance.",
+    "ja": "収穫の花輪、赤い電車、果樹園のトラクター、彩り風車が、9月の豊かな実りを大きく鮮明に描きます。"
+  },
+  "artwork": {
+    "orientation": "portrait",
+    "aspectRatio": "3:4"
+  },
+  "coverImageId": "monthly-09-01",
+  "images": [
+    {
+      "id": "monthly-09-01",
+      "file": "packs/monthly-09/v2/images/monthly-09-01.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 148188,
+      "sha256": "20a9300dacd473d3caaef426a72d92142082a6da0527b8854ed9e4f7d9a6ec45",
+      "name": {
+        "zh-TW": "向日葵豐收花環",
+        "zh-CN": "向日葵丰收花环",
+        "en": "Sunflower Harvest Wreath",
+        "ja": "ひまわりの収穫花輪"
+      }
+    },
+    {
+      "id": "monthly-09-02",
+      "file": "packs/monthly-09/v2/images/monthly-09-02.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 164920,
+      "sha256": "9bc16437824ebb3116e3da0847512e68c9687528b7215ce0f84dd61d0d7ad400",
+      "name": {
+        "zh-TW": "楓谷紅色電車",
+        "zh-CN": "枫谷红色电车",
+        "en": "Red Railcar through Maple Valley",
+        "ja": "楓の谷を走る赤い電車"
+      }
+    },
+    {
+      "id": "monthly-09-03",
+      "file": "packs/monthly-09/v2/images/monthly-09-03.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 126100,
+      "sha256": "f48dd1a09487f09affc01b184f53bb8ccb6fb57df1837a364fdf5ff60adc6a2e",
+      "name": {
+        "zh-TW": "月下豐收曼陀鈴",
+        "zh-CN": "月下丰收曼陀林",
+        "en": "Harvest Mandolin beneath the Moon",
+        "ja": "月下の収穫祭マンドリン"
+      }
+    },
+    {
+      "id": "monthly-09-04",
+      "file": "packs/monthly-09/v2/images/monthly-09-04.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 160098,
+      "sha256": "1fbbf61c7cf2c158038b653dcae9bb04f4d2c06d496fa58fec27e10fc9ea1f0b",
+      "name": {
+        "zh-TW": "蘋果園紅拖拉機",
+        "zh-CN": "苹果园红拖拉机",
+        "en": "Red Tractor in the Apple Orchard",
+        "ja": "りんご園の赤いトラクター"
+      }
+    },
+    {
+      "id": "monthly-09-05",
+      "file": "packs/monthly-09/v2/images/monthly-09-05.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 100204,
+      "sha256": "9378976f948108f297a83c262b84266c033abed3fac438ac67eaa69bc05fe886",
+      "name": {
+        "zh-TW": "南瓜釉陶罐",
+        "zh-CN": "南瓜釉陶罐",
+        "en": "Pumpkin-Glazed Pottery Jar",
+        "ja": "かぼちゃ釉の大壺"
+      }
+    },
+    {
+      "id": "monthly-09-06",
+      "file": "packs/monthly-09/v2/images/monthly-09-06.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 77218,
+      "sha256": "0e40b315652149b9d641f0de2a4031fc74e79454890eca9cdae3933a15401568",
+      "name": {
+        "zh-TW": "秋果市集石噴泉",
+        "zh-CN": "秋果集市石喷泉",
+        "en": "Stone Fountain at the Harvest Market",
+        "ja": "実りの市場の石噴水"
+      }
+    },
+    {
+      "id": "monthly-09-07",
+      "file": "packs/monthly-09/v2/images/monthly-09-07.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 163582,
+      "sha256": "662a6f7c42c9c8ef1d35bd88a60c153b3ae4d347b36964af0624d13ff92341e3",
+      "name": {
+        "zh-TW": "夕陽蘋果籃",
+        "zh-CN": "夕阳苹果篮",
+        "en": "Apple Basket in the Sunset",
+        "ja": "夕日に染まるりんご籠"
+      }
+    },
+    {
+      "id": "monthly-09-08",
+      "file": "packs/monthly-09/v2/images/monthly-09-08.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 123154,
+      "sha256": "33e5ef25fd85a9da33b654c15ddf762d78e73f35e0a465ab4e8bd49d419ac83e",
+      "name": {
+        "zh-TW": "落葉森林小鹿",
+        "zh-CN": "落叶森林小鹿",
+        "en": "Young Deer among the Fallen Leaves",
+        "ja": "落ち葉の森の子鹿"
+      }
+    },
+    {
+      "id": "monthly-09-09",
+      "file": "packs/monthly-09/v2/images/monthly-09-09.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 254698,
+      "sha256": "c698d8534267e2a3034a4e5f534b075edf6b989e5e2fa791d0c8e44809ee0bbe",
+      "name": {
+        "zh-TW": "彩繪玻璃風車",
+        "zh-CN": "彩绘玻璃风车",
+        "en": "Stained-Glass Harvest Windmill",
+        "ja": "ステンドグラスの収穫風車"
+      }
+    },
+    {
+      "id": "monthly-09-10",
+      "file": "packs/monthly-09/v2/images/monthly-09-10.webp",
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 322942,
+      "sha256": "1c2b6de7f9a5b139484af7cf7af6030db73c88d844a262f0cc388f9f982f2718",
+      "name": {
+        "zh-TW": "磚窯金麥麵包",
+        "zh-CN": "砖窑金麦面包",
+        "en": "Golden Wheat Loaf from the Brick Oven",
+        "ja": "石窯で焼けた黄金小麦パン"
+      }
+    }
+  ]
+}

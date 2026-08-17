@@ -1,0 +1,25 @@
+{
+  "packId": "monthly-08",
+  "version": 2,
+  "order": 28,
+  "releasedAt": "2026-07-01T00:00:00.000Z",
+  "price": 50,
+  "title": {
+    "zh-TW": "八月・星際假期",
+    "zh-CN": "八月・星际假期",
+    "en": "August · Holiday among the Stars",
+    "ja": "8月・星間バカンス"
+  },
+  "description": {
+    "zh-TW": "月球度假圓頂、土星摩天輪、銀河臥鋪列車與星光巨鯨，以十個大型主體展開繽紛的宇宙假期。",
+    "zh-CN": "月球度假圆顶、土星摩天轮、银河卧铺列车与星光巨鲸，以十个大型主体展开缤纷的宇宙假期。",
+    "en": "A lunar resort dome, Saturn Ferris wheel, galaxy sleeper train, and starlight whale anchor a colorful holiday across the cosmos.",
+    "ja": "月面リゾートドーム、土星の観覧車、銀河寝台列車、星光の巨鯨など、10の大きな主役が宇宙旅行を彩ります。"
+  },
+  "cover": "packs/monthly-08/v2/images/monthly-08-01.webp",
+  "manifest": "packs/monthly-08/v2/manifest.json",
+  "manifestBytes": 6016,
+  "manifestSha256": "c07a7697ecaa45423d4e7de90a8409a8fcc65924eddb1599286d3462e338e193",
+  "imageCount": 10,
+  "downloadBytes": 2035442
+}
