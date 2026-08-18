@@ -21,5 +21,6 @@
   "manifestBytes": 6632,
   "manifestSha256": "50b8ee6b0eda5ce8a4cbed48c6dc67d8faf2d6452ee6055830ffa8867f19d5a3",
   "imageCount": 10,
-  "downloadBytes": 1501476
+  "downloadBytes": 1501476,
+  "thumbnail": "packs/adventure-items/v2/thumbnail.webp"
 }

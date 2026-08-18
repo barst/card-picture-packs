@@ -21,5 +21,6 @@
   "manifestBytes": 6612,
   "manifestSha256": "20d0a906b06bf03bd48c572f07bc9bfbde29fd17d0c8d424f59d1a234096be26",
   "imageCount": 10,
-  "downloadBytes": 2306424
+  "downloadBytes": 2306424,
+  "thumbnail": "packs/healing-color-journey/v2/thumbnail.webp"
 }

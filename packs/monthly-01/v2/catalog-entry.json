@@ -21,5 +21,6 @@
   "manifestBytes": 6019,
   "manifestSha256": "184e6bf2d63f17e66afd92a50afd1df64d9a939d43740c6879a63020022e3373",
   "imageCount": 10,
-  "downloadBytes": 1757916
+  "downloadBytes": 1757916,
+  "thumbnail": "packs/monthly-01/v2/thumbnail.webp"
 }

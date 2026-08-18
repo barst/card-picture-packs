@@ -21,5 +21,6 @@
   "manifestBytes": 6774,
   "manifestSha256": "15e1945dec0554a9ff574e717af85dbc80696803c7e11f0f1d9aeb90e34bf01e",
   "imageCount": 10,
-  "downloadBytes": 2162410
+  "downloadBytes": 2162410,
+  "thumbnail": "packs/xianxia-immortal-realms/v2/thumbnail.webp"
 }

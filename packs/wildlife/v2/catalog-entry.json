@@ -21,5 +21,6 @@
   "manifestBytes": 6412,
   "manifestSha256": "03693ae430c4ebdd6065086b3f846a9be3a5334056faad421569d9f4922429af",
   "imageCount": 10,
-  "downloadBytes": 2512396
+  "downloadBytes": 2512396,
+  "thumbnail": "packs/wildlife/v2/thumbnail.webp"
 }

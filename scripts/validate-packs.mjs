@@ -27,6 +27,15 @@ if (
 }
 
 for (const entry of catalog.packs) {
+  const thumbnailPath = join(projectDir, entry.thumbnail ?? "");
+  if (entry.thumbnail !== `packs/${entry.packId}/v${entry.version}/thumbnail.webp`) {
+    throw new Error(`${entry.packId} 的縮圖路徑不符合規則。`);
+  }
+  if (!existsSync(thumbnailPath)) throw new Error(`找不到圖庫縮圖：${entry.packId}`);
+  const thumbnailDimensions = readWebpDimensions(readFileSync(thumbnailPath), `${entry.packId} thumbnail`);
+  if (thumbnailDimensions.width !== 240 || thumbnailDimensions.height !== 320) {
+    throw new Error(`${entry.packId} 的縮圖尺寸必須是 240×320。`);
+  }
   const manifestPath = join(projectDir, entry.manifest);
   const expectedManifestPath = catalog.schemaVersion === 2
     ? `packs/${entry.packId}/v${entry.version}/manifest.json`

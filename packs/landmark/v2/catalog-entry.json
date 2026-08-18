@@ -21,5 +21,6 @@
   "manifestBytes": 6182,
   "manifestSha256": "b1a583142592e8528061621c96f00191ee4a89e052efc39103b121d31017b206",
   "imageCount": 10,
-  "downloadBytes": 1883572
+  "downloadBytes": 1883572,
+  "thumbnail": "packs/landmark/v2/thumbnail.webp"
 }

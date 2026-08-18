@@ -21,5 +21,6 @@
   "manifestBytes": 6245,
   "manifestSha256": "96236b7d20c201a4abcee8b63470004163bf984e1cfff348ee484cb8f500a0b3",
   "imageCount": 10,
-  "downloadBytes": 3068814
+  "downloadBytes": 3068814,
+  "thumbnail": "packs/fantasy-art/v2/thumbnail.webp"
 }

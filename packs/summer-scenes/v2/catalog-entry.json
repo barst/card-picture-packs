@@ -21,5 +21,6 @@
   "manifestBytes": 6357,
   "manifestSha256": "93ed0a8d5ea07134d5059f17fce0a0c813f8c257e718eb2e05e931a9f77666b2",
   "imageCount": 10,
-  "downloadBytes": 2089838
+  "downloadBytes": 2089838,
+  "thumbnail": "packs/summer-scenes/v2/thumbnail.webp"
 }

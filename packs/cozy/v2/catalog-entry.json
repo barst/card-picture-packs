@@ -21,5 +21,6 @@
   "manifestBytes": 6157,
   "manifestSha256": "6e8ddfbadc4e46a48212410ea9f19f191e4b4677d987a579aca019a357d19dfa",
   "imageCount": 10,
-  "downloadBytes": 822522
+  "downloadBytes": 822522,
+  "thumbnail": "packs/cozy/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 7235,
   "manifestSha256": "7cf22a699344b03508257b707e57c3ef6d533d1060066ba541c525a8fa5074b6",
   "imageCount": 10,
-  "downloadBytes": 1344576
+  "downloadBytes": 1344576,
+  "thumbnail": "packs/bioluminescent-deep-sea/v2/thumbnail.webp"
 }

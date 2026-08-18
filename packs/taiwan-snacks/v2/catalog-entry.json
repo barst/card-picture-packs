@@ -21,5 +21,6 @@
   "manifestBytes": 6340,
   "manifestSha256": "828f7d93ad2faa9786118c2d4f57c4d5513ecf049c3ee5f1358eaefb1abd1467",
   "imageCount": 10,
-  "downloadBytes": 1637454
+  "downloadBytes": 1637454,
+  "thumbnail": "packs/taiwan-snacks/v2/thumbnail.webp"
 }

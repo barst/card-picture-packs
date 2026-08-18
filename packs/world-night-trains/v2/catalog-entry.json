@@ -21,5 +21,6 @@
   "manifestBytes": 6716,
   "manifestSha256": "61e763d9e033141ecb499194d2dc89edf6b1d0bc81998b3a7478f89a176e5de6",
   "imageCount": 10,
-  "downloadBytes": 1857708
+  "downloadBytes": 1857708,
+  "thumbnail": "packs/world-night-trains/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 6977,
   "manifestSha256": "01d0947114427222d7903a1393f5951d713e4fed5e85d946528069160f30350f",
   "imageCount": 10,
-  "downloadBytes": 1118266
+  "downloadBytes": 1118266,
+  "thumbnail": "packs/luxury-beauty-treasures/v2/thumbnail.webp"
 }

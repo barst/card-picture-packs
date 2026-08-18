@@ -19,6 +19,7 @@ test("正式 v2 索引包含全部直式四語圖庫", () => {
   for (const entry of catalog.packs) {
     assert.equal(entry.version, 2);
     assert.match(entry.manifest, new RegExp(`^packs/${entry.packId}/v2/manifest\\.json$`));
+    assert.equal(entry.thumbnail, `packs/${entry.packId}/v2/thumbnail.webp`);
     assert.match(entry.manifestSha256, /^[a-f0-9]{64}$/);
   }
 });
@@ -45,6 +46,7 @@ test("遷移期間只建立明確標示的 v2 部分索引", () => {
     for (const entry of catalog.packs) {
       assert.equal(entry.version, 2);
       assert.match(entry.manifest, new RegExp(`^packs/${entry.packId}/v2/manifest\\.json$`));
+      assert.equal(entry.thumbnail, `packs/${entry.packId}/v2/thumbnail.webp`);
       assert.match(entry.manifestSha256, /^[a-f0-9]{64}$/);
     }
   } finally {

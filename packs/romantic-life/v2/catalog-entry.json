@@ -21,5 +21,6 @@
   "manifestBytes": 6431,
   "manifestSha256": "612cec8aea1ce1482b1d3e6f212d9837274008c14184bfd8a0b165a286e21eff",
   "imageCount": 10,
-  "downloadBytes": 1654442
+  "downloadBytes": 1654442,
+  "thumbnail": "packs/romantic-life/v2/thumbnail.webp"
 }

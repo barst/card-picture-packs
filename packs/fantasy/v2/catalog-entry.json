@@ -21,5 +21,6 @@
   "manifestBytes": 6227,
   "manifestSha256": "28b0d048751fd7be7491f2f8749508ae159559680c3b30310ac94f65bb3399a3",
   "imageCount": 10,
-  "downloadBytes": 1965000
+  "downloadBytes": 1965000,
+  "thumbnail": "packs/fantasy/v2/thumbnail.webp"
 }

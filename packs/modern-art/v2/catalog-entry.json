@@ -21,5 +21,6 @@
   "manifestBytes": 6405,
   "manifestSha256": "5d0eb5d836ad423572c1594b79a8e2626464aa6d6f651b74616ce85c822d19b6",
   "imageCount": 10,
-  "downloadBytes": 3559630
+  "downloadBytes": 3559630,
+  "thumbnail": "packs/modern-art/v2/thumbnail.webp"
 }

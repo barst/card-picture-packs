@@ -21,5 +21,6 @@
   "manifestBytes": 6595,
   "manifestSha256": "e8cd10a023f4a0cf635dd6c7e28662c4d6706d465e869c99288d5bf0fd77b096",
   "imageCount": 10,
-  "downloadBytes": 1444034
+  "downloadBytes": 1444034,
+  "thumbnail": "packs/eight-bit-games/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 6921,
   "manifestSha256": "3c0e6c7cda2cae9edd252876296250e41d48e1cbdf1b3b73af7416d7306bb3f5",
   "imageCount": 10,
-  "downloadBytes": 1247514
+  "downloadBytes": 1247514,
+  "thumbnail": "packs/cat-artisan-street/v2/thumbnail.webp"
 }

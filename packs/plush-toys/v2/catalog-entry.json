@@ -21,5 +21,6 @@
   "manifestBytes": 6395,
   "manifestSha256": "92865ce67c341001cf6cc688ebb80124e9873234e03adf50274e625e42a7fa5f",
   "imageCount": 10,
-  "downloadBytes": 1222016
+  "downloadBytes": 1222016,
+  "thumbnail": "packs/plush-toys/v2/thumbnail.webp"
 }

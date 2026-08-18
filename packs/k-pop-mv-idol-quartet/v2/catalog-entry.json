@@ -21,5 +21,6 @@
   "manifestBytes": 7007,
   "manifestSha256": "26c087c7c73360f75c0d9832d3869e229a2ee2762987f14e57159eec180ecd7a",
   "imageCount": 10,
-  "downloadBytes": 1013136
+  "downloadBytes": 1013136,
+  "thumbnail": "packs/k-pop-mv-idol-quartet/v2/thumbnail.webp"
 }

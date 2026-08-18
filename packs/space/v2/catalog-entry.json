@@ -21,5 +21,6 @@
   "manifestBytes": 6273,
   "manifestSha256": "230af1ffbb7cb16331ae80c5932b1647b8d30bbf81931a5c2cd6569f70bdb64f",
   "imageCount": 10,
-  "downloadBytes": 1140870
+  "downloadBytes": 1140870,
+  "thumbnail": "packs/space/v2/thumbnail.webp"
 }

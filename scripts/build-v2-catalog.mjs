@@ -77,6 +77,9 @@ function validateEntry(entry, seedEntry) {
   if (!entry.cover?.startsWith(`packs/${entry.packId}/v2/images/`) || !entry.cover.endsWith(".webp")) {
     throw new Error(`${entry.packId} 的 cover 路徑不正確。`);
   }
+  if (entry.thumbnail !== `packs/${entry.packId}/v2/thumbnail.webp`) {
+    throw new Error(`${entry.packId} 的 thumbnail 路徑不正確。`);
+  }
   if (!Number.isInteger(entry.imageCount) || entry.imageCount <= 0) {
     throw new Error(`${entry.packId} 的圖片數量不正確。`);
   }

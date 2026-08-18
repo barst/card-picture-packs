@@ -21,5 +21,6 @@
   "manifestBytes": 6988,
   "manifestSha256": "4d9340d5bb5e38f9e66538e3e0e14c198e773644a179a7ca01119e7b2e4f8cbc",
   "imageCount": 10,
-  "downloadBytes": 1534278
+  "downloadBytes": 1534278,
+  "thumbnail": "packs/dessert-fairytale-kingdom/v2/thumbnail.webp"
 }

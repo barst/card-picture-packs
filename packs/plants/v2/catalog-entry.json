@@ -21,5 +21,6 @@
   "manifestBytes": 6068,
   "manifestSha256": "a9a5241d7d899b281267116fce5af3ed91ff3708bca6428ce73d14362ef2c4de",
   "imageCount": 10,
-  "downloadBytes": 2142324
+  "downloadBytes": 2142324,
+  "thumbnail": "packs/plants/v2/thumbnail.webp"
 }

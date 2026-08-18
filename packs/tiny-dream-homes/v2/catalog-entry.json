@@ -21,5 +21,6 @@
   "manifestBytes": 6803,
   "manifestSha256": "9f6a5f2d2f9b7a4492a6338e6fa94518e34d4e27ea2a148c9b5047f40d1450cc",
   "imageCount": 10,
-  "downloadBytes": 1919768
+  "downloadBytes": 1919768,
+  "thumbnail": "packs/tiny-dream-homes/v2/thumbnail.webp"
 }

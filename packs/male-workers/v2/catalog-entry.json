@@ -21,5 +21,6 @@
   "manifestBytes": 6346,
   "manifestSha256": "07020fa89c6b46d5fb6910a32d99698ad5b983190d5bf60d79c41be8e0efe7ef",
   "imageCount": 10,
-  "downloadBytes": 1704246
+  "downloadBytes": 1704246,
+  "thumbnail": "packs/male-workers/v2/thumbnail.webp"
 }

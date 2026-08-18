@@ -21,5 +21,6 @@
   "manifestBytes": 6151,
   "manifestSha256": "3efcca96414f0743f61f2b8b7d2d5fc99fbe6aa15de104956dc1deca68c6da69",
   "imageCount": 10,
-  "downloadBytes": 1124762
+  "downloadBytes": 1124762,
+  "thumbnail": "packs/pets/v2/thumbnail.webp"
 }

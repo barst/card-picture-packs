@@ -21,5 +21,6 @@
   "manifestBytes": 6768,
   "manifestSha256": "dd837cc087b62e5a31cedb0ccb097141197cabb964a4a9ed786f50e5b26fc4ac",
   "imageCount": 10,
-  "downloadBytes": 1933980
+  "downloadBytes": 1933980,
+  "thumbnail": "packs/future-dream-homes/v2/thumbnail.webp"
 }

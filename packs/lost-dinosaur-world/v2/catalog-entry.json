@@ -21,5 +21,6 @@
   "manifestBytes": 6999,
   "manifestSha256": "5d1b6042630fe63153b4cf1d927563c6feadf92bcbb9850b5ed3d1138ef779e3",
   "imageCount": 10,
-  "downloadBytes": 2427854
+  "downloadBytes": 2427854,
+  "thumbnail": "packs/lost-dinosaur-world/v2/thumbnail.webp"
 }

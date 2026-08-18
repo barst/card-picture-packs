@@ -21,5 +21,6 @@
   "manifestBytes": 6062,
   "manifestSha256": "69b70db70c991898d71e5c2f62ccfb6ac955d4a62dd04c0c50993519d49c6bcb",
   "imageCount": 10,
-  "downloadBytes": 1996152
+  "downloadBytes": 1996152,
+  "thumbnail": "packs/food/v2/thumbnail.webp"
 }

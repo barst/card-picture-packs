@@ -21,5 +21,6 @@
   "manifestBytes": 6864,
   "manifestSha256": "bddc0e19d3027c36a870cfe6797057ec7c269665ec8ac6bffd91262a1fcb8d6e",
   "imageCount": 10,
-  "downloadBytes": 2159036
+  "downloadBytes": 2159036,
+  "thumbnail": "packs/taiwan-memory-seasons/v2/thumbnail.webp"
 }

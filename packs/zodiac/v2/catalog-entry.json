@@ -21,5 +21,6 @@
   "manifestBytes": 6797,
   "manifestSha256": "802405f24d3418eb006dcbbcb7575ba1d5ea1e64338e05a8040c9bab4bb8cebd",
   "imageCount": 12,
-  "downloadBytes": 3165114
+  "downloadBytes": 3165114,
+  "thumbnail": "packs/zodiac/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 6703,
   "manifestSha256": "0a3bfa48524bef27afa84b4a0e88e94765211c6731bdf227f6dfa30ff61afb7f",
   "imageCount": 10,
-  "downloadBytes": 3264966
+  "downloadBytes": 3264966,
+  "thumbnail": "packs/children-bible/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 7088,
   "manifestSha256": "d7aa1f34c6f430249bb79521707eb0b667c21b4fa138b7cbbaa6af5d62526aef",
   "imageCount": 10,
-  "downloadBytes": 1317858
+  "downloadBytes": 1317858,
+  "thumbnail": "packs/magic-academy-day/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 6076,
   "manifestSha256": "f4c3cb197b047fc0884e9ec98a9d8f9998d95b46165a6dfe225ad9a01c89c227",
   "imageCount": 10,
-  "downloadBytes": 2590994
+  "downloadBytes": 2590994,
+  "thumbnail": "packs/oil/v2/thumbnail.webp"
 }

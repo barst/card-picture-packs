@@ -21,5 +21,6 @@
   "manifestBytes": 6312,
   "manifestSha256": "b2d0f3205eb18d9244caf71c337f516399140e02757ba5234e73c77ec0918286",
   "imageCount": 10,
-  "downloadBytes": 1343622
+  "downloadBytes": 1343622,
+  "thumbnail": "packs/female-athletes/v2/thumbnail.webp"
 }

@@ -21,5 +21,6 @@
   "manifestBytes": 6382,
   "manifestSha256": "c5b0b226cb148cb3cc3469a590003d108f377c4b6fd265a4d0b51e25c70f126b",
   "imageCount": 10,
-  "downloadBytes": 1468264
+  "downloadBytes": 1468264,
+  "thumbnail": "packs/cute-animals/v2/thumbnail.webp"
 }

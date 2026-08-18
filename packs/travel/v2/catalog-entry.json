@@ -21,5 +21,6 @@
   "manifestBytes": 6180,
   "manifestSha256": "ed80e4fb3e2d9cf67cbdc6591dbcac91ada6099ce2059e569d74324b2d57fcbe",
   "imageCount": 10,
-  "downloadBytes": 2238428
+  "downloadBytes": 2238428,
+  "thumbnail": "packs/travel/v2/thumbnail.webp"
 }

@@ -9,7 +9,7 @@
     "en",
     "ja"
   ],
-  "updatedAt": "2026-08-17T18:24:25.407Z",
+  "updatedAt": "2026-08-18T04:21:48.131Z",
   "assetBaseUrl": "/picture-packs",
   "packs": [
     {
@@ -35,7 +35,8 @@
       "manifestBytes": 6180,
       "manifestSha256": "ed80e4fb3e2d9cf67cbdc6591dbcac91ada6099ce2059e569d74324b2d57fcbe",
       "imageCount": 10,
-      "downloadBytes": 2238428
+      "downloadBytes": 2238428,
+      "thumbnail": "packs/travel/v2/thumbnail.webp"
     },
     {
       "packId": "oil",
@@ -60,7 +61,8 @@
       "manifestBytes": 6076,
       "manifestSha256": "f4c3cb197b047fc0884e9ec98a9d8f9998d95b46165a6dfe225ad9a01c89c227",
       "imageCount": 10,
-      "downloadBytes": 2590994
+      "downloadBytes": 2590994,
+      "thumbnail": "packs/oil/v2/thumbnail.webp"
     },
     {
       "packId": "pets",
@@ -85,7 +87,8 @@
       "manifestBytes": 6151,
       "manifestSha256": "3efcca96414f0743f61f2b8b7d2d5fc99fbe6aa15de104956dc1deca68c6da69",
       "imageCount": 10,
-      "downloadBytes": 1124762
+      "downloadBytes": 1124762,
+      "thumbnail": "packs/pets/v2/thumbnail.webp"
     },
     {
       "packId": "plants",
@@ -110,7 +113,8 @@
       "manifestBytes": 6068,
       "manifestSha256": "a9a5241d7d899b281267116fce5af3ed91ff3708bca6428ce73d14362ef2c4de",
       "imageCount": 10,
-      "downloadBytes": 2142324
+      "downloadBytes": 2142324,
+      "thumbnail": "packs/plants/v2/thumbnail.webp"
     },
     {
       "packId": "food",
@@ -135,7 +139,8 @@
       "manifestBytes": 6062,
       "manifestSha256": "69b70db70c991898d71e5c2f62ccfb6ac955d4a62dd04c0c50993519d49c6bcb",
       "imageCount": 10,
-      "downloadBytes": 1996152
+      "downloadBytes": 1996152,
+      "thumbnail": "packs/food/v2/thumbnail.webp"
     },
     {
       "packId": "people",
@@ -160,7 +165,8 @@
       "manifestBytes": 6085,
       "manifestSha256": "6649fd865515f3d179893331fb3ede436fb4fc196b543d2f13e3fecdd4b8933a",
       "imageCount": 10,
-      "downloadBytes": 2034936
+      "downloadBytes": 2034936,
+      "thumbnail": "packs/people/v2/thumbnail.webp"
     },
     {
       "packId": "fantasy",
@@ -185,7 +191,8 @@
       "manifestBytes": 6227,
       "manifestSha256": "28b0d048751fd7be7491f2f8749508ae159559680c3b30310ac94f65bb3399a3",
       "imageCount": 10,
-      "downloadBytes": 1965000
+      "downloadBytes": 1965000,
+      "thumbnail": "packs/fantasy/v2/thumbnail.webp"
     },
     {
       "packId": "space",
@@ -210,7 +217,8 @@
       "manifestBytes": 6273,
       "manifestSha256": "230af1ffbb7cb16331ae80c5932b1647b8d30bbf81931a5c2cd6569f70bdb64f",
       "imageCount": 10,
-      "downloadBytes": 1140870
+      "downloadBytes": 1140870,
+      "thumbnail": "packs/space/v2/thumbnail.webp"
     },
     {
       "packId": "cozy",
@@ -235,7 +243,8 @@
       "manifestBytes": 6157,
       "manifestSha256": "6e8ddfbadc4e46a48212410ea9f19f191e4b4677d987a579aca019a357d19dfa",
       "imageCount": 10,
-      "downloadBytes": 822522
+      "downloadBytes": 822522,
+      "thumbnail": "packs/cozy/v2/thumbnail.webp"
     },
     {
       "packId": "landmark",
@@ -260,7 +269,8 @@
       "manifestBytes": 6182,
       "manifestSha256": "b1a583142592e8528061621c96f00191ee4a89e052efc39103b121d31017b206",
       "imageCount": 10,
-      "downloadBytes": 1883572
+      "downloadBytes": 1883572,
+      "thumbnail": "packs/landmark/v2/thumbnail.webp"
     },
     {
       "packId": "leisure",
@@ -285,7 +295,8 @@
       "manifestBytes": 6207,
       "manifestSha256": "eb8d41e55dfe9b1710310c971d4955204f6673b2ffe9e3d441bb171a134359e1",
       "imageCount": 10,
-      "downloadBytes": 2926546
+      "downloadBytes": 2926546,
+      "thumbnail": "packs/leisure/v2/thumbnail.webp"
     },
     {
       "packId": "wildlife",
@@ -310,7 +321,8 @@
       "manifestBytes": 6412,
       "manifestSha256": "03693ae430c4ebdd6065086b3f846a9be3a5334056faad421569d9f4922429af",
       "imageCount": 10,
-      "downloadBytes": 2512396
+      "downloadBytes": 2512396,
+      "thumbnail": "packs/wildlife/v2/thumbnail.webp"
     },
     {
       "packId": "taiwan-snacks",
@@ -335,7 +347,8 @@
       "manifestBytes": 6340,
       "manifestSha256": "828f7d93ad2faa9786118c2d4f57c4d5513ecf049c3ee5f1358eaefb1abd1467",
       "imageCount": 10,
-      "downloadBytes": 1637454
+      "downloadBytes": 1637454,
+      "thumbnail": "packs/taiwan-snacks/v2/thumbnail.webp"
     },
     {
       "packId": "cute-animals",
@@ -360,7 +373,8 @@
       "manifestBytes": 6382,
       "manifestSha256": "c5b0b226cb148cb3cc3469a590003d108f377c4b6fd265a4d0b51e25c70f126b",
       "imageCount": 10,
-      "downloadBytes": 1468264
+      "downloadBytes": 1468264,
+      "thumbnail": "packs/cute-animals/v2/thumbnail.webp"
     },
     {
       "packId": "female-athletes",
@@ -385,7 +399,8 @@
       "manifestBytes": 6312,
       "manifestSha256": "b2d0f3205eb18d9244caf71c337f516399140e02757ba5234e73c77ec0918286",
       "imageCount": 10,
-      "downloadBytes": 1343622
+      "downloadBytes": 1343622,
+      "thumbnail": "packs/female-athletes/v2/thumbnail.webp"
     },
     {
       "packId": "male-workers",
@@ -410,7 +425,8 @@
       "manifestBytes": 6346,
       "manifestSha256": "07020fa89c6b46d5fb6910a32d99698ad5b983190d5bf60d79c41be8e0efe7ef",
       "imageCount": 10,
-      "downloadBytes": 1704246
+      "downloadBytes": 1704246,
+      "thumbnail": "packs/male-workers/v2/thumbnail.webp"
     },
     {
       "packId": "modern-art",
@@ -435,7 +451,8 @@
       "manifestBytes": 6405,
       "manifestSha256": "5d0eb5d836ad423572c1594b79a8e2626464aa6d6f651b74616ce85c822d19b6",
       "imageCount": 10,
-      "downloadBytes": 3559630
+      "downloadBytes": 3559630,
+      "thumbnail": "packs/modern-art/v2/thumbnail.webp"
     },
     {
       "packId": "sino-japanese-art",
@@ -460,7 +477,8 @@
       "manifestBytes": 6250,
       "manifestSha256": "d9ad09207f0fd1e9a6b75e74f6b836763c3285bef64bd9430cf521277f6a5d0f",
       "imageCount": 10,
-      "downloadBytes": 3494296
+      "downloadBytes": 3494296,
+      "thumbnail": "packs/sino-japanese-art/v2/thumbnail.webp"
     },
     {
       "packId": "summer-scenes",
@@ -485,7 +503,8 @@
       "manifestBytes": 6357,
       "manifestSha256": "93ed0a8d5ea07134d5059f17fce0a0c813f8c257e718eb2e05e931a9f77666b2",
       "imageCount": 10,
-      "downloadBytes": 2089838
+      "downloadBytes": 2089838,
+      "thumbnail": "packs/summer-scenes/v2/thumbnail.webp"
     },
     {
       "packId": "romantic-life",
@@ -510,7 +529,8 @@
       "manifestBytes": 6431,
       "manifestSha256": "612cec8aea1ce1482b1d3e6f212d9837274008c14184bfd8a0b165a286e21eff",
       "imageCount": 10,
-      "downloadBytes": 1654442
+      "downloadBytes": 1654442,
+      "thumbnail": "packs/romantic-life/v2/thumbnail.webp"
     },
     {
       "packId": "fantasy-art",
@@ -535,7 +555,8 @@
       "manifestBytes": 6245,
       "manifestSha256": "96236b7d20c201a4abcee8b63470004163bf984e1cfff348ee484cb8f500a0b3",
       "imageCount": 10,
-      "downloadBytes": 3068814
+      "downloadBytes": 3068814,
+      "thumbnail": "packs/fantasy-art/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-01",
@@ -560,7 +581,8 @@
       "manifestBytes": 6019,
       "manifestSha256": "184e6bf2d63f17e66afd92a50afd1df64d9a939d43740c6879a63020022e3373",
       "imageCount": 10,
-      "downloadBytes": 1757916
+      "downloadBytes": 1757916,
+      "thumbnail": "packs/monthly-01/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-02",
@@ -585,7 +607,8 @@
       "manifestBytes": 5923,
       "manifestSha256": "2136bfdfbbe2c9a014073413dfd0aeb4267f0c42507a286777acc27e38c3bb8b",
       "imageCount": 10,
-      "downloadBytes": 1488308
+      "downloadBytes": 1488308,
+      "thumbnail": "packs/monthly-02/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-03",
@@ -610,7 +633,8 @@
       "manifestBytes": 5956,
       "manifestSha256": "d7f5da9df73e0dc37f0f95a74c087c40096db91443ecfea2face00717d95fcc8",
       "imageCount": 10,
-      "downloadBytes": 1725078
+      "downloadBytes": 1725078,
+      "thumbnail": "packs/monthly-03/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-04",
@@ -635,7 +659,8 @@
       "manifestBytes": 6096,
       "manifestSha256": "81d3d713bdea8d585df25719d9f8014dbade9e95570a4f95761c10d05e090504",
       "imageCount": 10,
-      "downloadBytes": 1748092
+      "downloadBytes": 1748092,
+      "thumbnail": "packs/monthly-04/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-05",
@@ -660,7 +685,8 @@
       "manifestBytes": 5997,
       "manifestSha256": "5e4d5f3a55c762f72b6901d267372245ba7bad1445fd691eb0d2b7450d57f3ee",
       "imageCount": 10,
-      "downloadBytes": 1667210
+      "downloadBytes": 1667210,
+      "thumbnail": "packs/monthly-05/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-06",
@@ -685,7 +711,8 @@
       "manifestBytes": 6142,
       "manifestSha256": "735a6dc58dfa24e5774ecff4c0f88fea8f5cd959ebfc073a32849c689f673c9e",
       "imageCount": 10,
-      "downloadBytes": 1341416
+      "downloadBytes": 1341416,
+      "thumbnail": "packs/monthly-06/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-07",
@@ -710,7 +737,8 @@
       "manifestBytes": 6078,
       "manifestSha256": "a728b3faa3a096097d90f7f241bd12e1376b4eebfc41b62834a8af792e51d94b",
       "imageCount": 10,
-      "downloadBytes": 1563720
+      "downloadBytes": 1563720,
+      "thumbnail": "packs/monthly-07/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-08",
@@ -735,7 +763,8 @@
       "manifestBytes": 6016,
       "manifestSha256": "c07a7697ecaa45423d4e7de90a8409a8fcc65924eddb1599286d3462e338e193",
       "imageCount": 10,
-      "downloadBytes": 2035442
+      "downloadBytes": 2035442,
+      "thumbnail": "packs/monthly-08/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-09",
@@ -760,7 +789,8 @@
       "manifestBytes": 6009,
       "manifestSha256": "fcce7ef9c0c00bed44c0f2945e7c6226d29766c169fd2eb77eaa510eb20fe256",
       "imageCount": 10,
-      "downloadBytes": 1641104
+      "downloadBytes": 1641104,
+      "thumbnail": "packs/monthly-09/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-10",
@@ -785,7 +815,8 @@
       "manifestBytes": 6063,
       "manifestSha256": "f87a54d082fd4b68b249e4d1c980ef579962e3f5c7697c8e416ca606af15d901",
       "imageCount": 10,
-      "downloadBytes": 968978
+      "downloadBytes": 968978,
+      "thumbnail": "packs/monthly-10/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-11",
@@ -810,7 +841,8 @@
       "manifestBytes": 6059,
       "manifestSha256": "d3e59d405bbb93cc78352c50b9600bf28d30f7cceff4f8df01c2c6b448804050",
       "imageCount": 10,
-      "downloadBytes": 1828926
+      "downloadBytes": 1828926,
+      "thumbnail": "packs/monthly-11/v2/thumbnail.webp"
     },
     {
       "packId": "monthly-12",
@@ -835,7 +867,8 @@
       "manifestBytes": 6119,
       "manifestSha256": "5b4e2cb372e8497f97b408d90274617a8a06c25c17c7a0f9f9ad30f9de1babf5",
       "imageCount": 10,
-      "downloadBytes": 1477456
+      "downloadBytes": 1477456,
+      "thumbnail": "packs/monthly-12/v2/thumbnail.webp"
     },
     {
       "packId": "children-bible",
@@ -860,7 +893,8 @@
       "manifestBytes": 6703,
       "manifestSha256": "0a3bfa48524bef27afa84b4a0e88e94765211c6731bdf227f6dfa30ff61afb7f",
       "imageCount": 10,
-      "downloadBytes": 3264966
+      "downloadBytes": 3264966,
+      "thumbnail": "packs/children-bible/v2/thumbnail.webp"
     },
     {
       "packId": "zodiac",
@@ -885,7 +919,8 @@
       "manifestBytes": 6797,
       "manifestSha256": "802405f24d3418eb006dcbbcb7575ba1d5ea1e64338e05a8040c9bab4bb8cebd",
       "imageCount": 12,
-      "downloadBytes": 3165114
+      "downloadBytes": 3165114,
+      "thumbnail": "packs/zodiac/v2/thumbnail.webp"
     },
     {
       "packId": "plush-toys",
@@ -910,7 +945,8 @@
       "manifestBytes": 6395,
       "manifestSha256": "92865ce67c341001cf6cc688ebb80124e9873234e03adf50274e625e42a7fa5f",
       "imageCount": 10,
-      "downloadBytes": 1222016
+      "downloadBytes": 1222016,
+      "thumbnail": "packs/plush-toys/v2/thumbnail.webp"
     },
     {
       "packId": "retro-70s",
@@ -935,7 +971,8 @@
       "manifestBytes": 6735,
       "manifestSha256": "9d7496b761fe62f0470a7e8a820b5c92a0226e492c2b1b4d0d2de1ebe8646f36",
       "imageCount": 10,
-      "downloadBytes": 2497158
+      "downloadBytes": 2497158,
+      "thumbnail": "packs/retro-70s/v2/thumbnail.webp"
     },
     {
       "packId": "eight-bit-games",
@@ -960,7 +997,8 @@
       "manifestBytes": 6595,
       "manifestSha256": "e8cd10a023f4a0cf635dd6c7e28662c4d6706d465e869c99288d5bf0fd77b096",
       "imageCount": 10,
-      "downloadBytes": 1444034
+      "downloadBytes": 1444034,
+      "thumbnail": "packs/eight-bit-games/v2/thumbnail.webp"
     },
     {
       "packId": "adventure-items",
@@ -985,7 +1023,8 @@
       "manifestBytes": 6632,
       "manifestSha256": "50b8ee6b0eda5ce8a4cbed48c6dc67d8faf2d6452ee6055830ffa8867f19d5a3",
       "imageCount": 10,
-      "downloadBytes": 1501476
+      "downloadBytes": 1501476,
+      "thumbnail": "packs/adventure-items/v2/thumbnail.webp"
     },
     {
       "packId": "tiny-dream-homes",
@@ -1010,7 +1049,8 @@
       "manifestBytes": 6803,
       "manifestSha256": "9f6a5f2d2f9b7a4492a6338e6fa94518e34d4e27ea2a148c9b5047f40d1450cc",
       "imageCount": 10,
-      "downloadBytes": 1919768
+      "downloadBytes": 1919768,
+      "thumbnail": "packs/tiny-dream-homes/v2/thumbnail.webp"
     },
     {
       "packId": "cat-artisan-street",
@@ -1035,7 +1075,8 @@
       "manifestBytes": 6921,
       "manifestSha256": "3c0e6c7cda2cae9edd252876296250e41d48e1cbdf1b3b73af7416d7306bb3f5",
       "imageCount": 10,
-      "downloadBytes": 1247514
+      "downloadBytes": 1247514,
+      "thumbnail": "packs/cat-artisan-street/v2/thumbnail.webp"
     },
     {
       "packId": "bioluminescent-deep-sea",
@@ -1060,7 +1101,8 @@
       "manifestBytes": 7235,
       "manifestSha256": "7cf22a699344b03508257b707e57c3ef6d533d1060066ba541c525a8fa5074b6",
       "imageCount": 10,
-      "downloadBytes": 1344576
+      "downloadBytes": 1344576,
+      "thumbnail": "packs/bioluminescent-deep-sea/v2/thumbnail.webp"
     },
     {
       "packId": "lost-dinosaur-world",
@@ -1085,7 +1127,8 @@
       "manifestBytes": 6999,
       "manifestSha256": "5d1b6042630fe63153b4cf1d927563c6feadf92bcbb9850b5ed3d1138ef779e3",
       "imageCount": 10,
-      "downloadBytes": 2427854
+      "downloadBytes": 2427854,
+      "thumbnail": "packs/lost-dinosaur-world/v2/thumbnail.webp"
     },
     {
       "packId": "magic-academy-day",
@@ -1110,7 +1153,8 @@
       "manifestBytes": 7088,
       "manifestSha256": "d7aa1f34c6f430249bb79521707eb0b667c21b4fa138b7cbbaa6af5d62526aef",
       "imageCount": 10,
-      "downloadBytes": 1317858
+      "downloadBytes": 1317858,
+      "thumbnail": "packs/magic-academy-day/v2/thumbnail.webp"
     },
     {
       "packId": "world-night-trains",
@@ -1135,7 +1179,8 @@
       "manifestBytes": 6716,
       "manifestSha256": "61e763d9e033141ecb499194d2dc89edf6b1d0bc81998b3a7478f89a176e5de6",
       "imageCount": 10,
-      "downloadBytes": 1857708
+      "downloadBytes": 1857708,
+      "thumbnail": "packs/world-night-trains/v2/thumbnail.webp"
     },
     {
       "packId": "taiwan-memory-seasons",
@@ -1160,7 +1205,8 @@
       "manifestBytes": 6864,
       "manifestSha256": "bddc0e19d3027c36a870cfe6797057ec7c269665ec8ac6bffd91262a1fcb8d6e",
       "imageCount": 10,
-      "downloadBytes": 2159036
+      "downloadBytes": 2159036,
+      "thumbnail": "packs/taiwan-memory-seasons/v2/thumbnail.webp"
     },
     {
       "packId": "dessert-fairytale-kingdom",
@@ -1185,7 +1231,8 @@
       "manifestBytes": 6988,
       "manifestSha256": "4d9340d5bb5e38f9e66538e3e0e14c198e773644a179a7ca01119e7b2e4f8cbc",
       "imageCount": 10,
-      "downloadBytes": 1534278
+      "downloadBytes": 1534278,
+      "thumbnail": "packs/dessert-fairytale-kingdom/v2/thumbnail.webp"
     },
     {
       "packId": "healing-color-journey",
@@ -1210,7 +1257,8 @@
       "manifestBytes": 6612,
       "manifestSha256": "20d0a906b06bf03bd48c572f07bc9bfbde29fd17d0c8d424f59d1a234096be26",
       "imageCount": 10,
-      "downloadBytes": 2306424
+      "downloadBytes": 2306424,
+      "thumbnail": "packs/healing-color-journey/v2/thumbnail.webp"
     },
     {
       "packId": "future-dream-homes",
@@ -1235,7 +1283,8 @@
       "manifestBytes": 6768,
       "manifestSha256": "dd837cc087b62e5a31cedb0ccb097141197cabb964a4a9ed786f50e5b26fc4ac",
       "imageCount": 10,
-      "downloadBytes": 1933980
+      "downloadBytes": 1933980,
+      "thumbnail": "packs/future-dream-homes/v2/thumbnail.webp"
     },
     {
       "packId": "xianxia-immortal-realms",
@@ -1260,7 +1309,8 @@
       "manifestBytes": 6774,
       "manifestSha256": "15e1945dec0554a9ff574e717af85dbc80696803c7e11f0f1d9aeb90e34bf01e",
       "imageCount": 10,
-      "downloadBytes": 2162410
+      "downloadBytes": 2162410,
+      "thumbnail": "packs/xianxia-immortal-realms/v2/thumbnail.webp"
     },
     {
       "packId": "luxury-beauty-treasures",
@@ -1285,7 +1335,8 @@
       "manifestBytes": 6977,
       "manifestSha256": "01d0947114427222d7903a1393f5951d713e4fed5e85d946528069160f30350f",
       "imageCount": 10,
-      "downloadBytes": 1118266
+      "downloadBytes": 1118266,
+      "thumbnail": "packs/luxury-beauty-treasures/v2/thumbnail.webp"
     },
     {
       "packId": "k-pop-mv-idol-quartet",
@@ -1310,7 +1361,8 @@
       "manifestBytes": 7007,
       "manifestSha256": "26c087c7c73360f75c0d9832d3869e229a2ee2762987f14e57159eec180ecd7a",
       "imageCount": 10,
-      "downloadBytes": 1013136
+      "downloadBytes": 1013136,
+      "thumbnail": "packs/k-pop-mv-idol-quartet/v2/thumbnail.webp"
     }
   ]
 }

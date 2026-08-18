@@ -21,5 +21,6 @@
   "manifestBytes": 6250,
   "manifestSha256": "d9ad09207f0fd1e9a6b75e74f6b836763c3285bef64bd9430cf521277f6a5d0f",
   "imageCount": 10,
-  "downloadBytes": 3494296
+  "downloadBytes": 3494296,
+  "thumbnail": "packs/sino-japanese-art/v2/thumbnail.webp"
 }

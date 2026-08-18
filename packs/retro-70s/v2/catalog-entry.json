@@ -21,5 +21,6 @@
   "manifestBytes": 6735,
   "manifestSha256": "9d7496b761fe62f0470a7e8a820b5c92a0226e492c2b1b4d0d2de1ebe8646f36",
   "imageCount": 10,
-  "downloadBytes": 2497158
+  "downloadBytes": 2497158,
+  "thumbnail": "packs/retro-70s/v2/thumbnail.webp"
 }
