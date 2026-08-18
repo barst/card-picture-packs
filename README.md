@@ -6,6 +6,11 @@ Web 與 App 沿用相同 catalog／manifest，按套組下載並離線保存。
 Alpha 0.9 的直式圖片、四語 metadata 與整包下載契約見
 [`Alpha 0.9 直式圖庫與遊戲遷移規格`](https://github.com/barst/GameDev2026/blob/main/projects/card_picture_puzzle/docs/alpha-0.9-portrait-migration.md)。
 
+新圖庫的生圖、中央 2:3／2×2 構圖驗收、四語文案、WebP 轉檔與交付流程，
+統一依照 [`圖庫生成與交付規範`](docs/pack-generation-spec.md)。
+若使用 Gemini 協助企劃與生圖，可直接使用
+[`Gemini 圖庫製作指令模板`](docs/gemini-pack-production-prompt.md)。
+
 ## 檔案結構
 
 - `v2/catalog.json`：所有 0.9 圖庫的輕量索引、版本、售價、封面與下載容量。
